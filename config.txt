@@ -1,0 +1,5 @@
+##This file sets where the bowtie directory and the INSeq_analysis directory are
+
+bowtie_dir="/Applications/bowtie-1.2.2-macos-x86_64"
+
+

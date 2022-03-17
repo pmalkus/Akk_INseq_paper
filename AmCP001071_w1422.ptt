@@ -1,0 +1,2140 @@
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+793..1353	-	560	ACD03848.1	-	Amuc_0001	Amuc_0001	-	NUDIX hydrolase
+1882..3288	+	1406	ACD03849.1	-	Amuc_0002	Amuc_0002	-	chromosomal replication initiator protein DnaA
+3438..4373	+	935	ACD03850.1	-	Amuc_0003	Amuc_0003	-	ABC transporter related
+4429..5211	+	782	ACD03851.1	-	Amuc_0004	Amuc_0004	-	conserved hypothetical protein
+5246..6817	+	1571	ACD03852.1	-	Amuc_0005	Amuc_0005	-	hypothetical protein
+6846..8900	+	2054	ACD03853.1	-	Amuc_0006	Amuc_0006	-	hypothetical protein
+8914..9693	+	779	ACD03854.1	-	Amuc_0007	Amuc_0007	-	protein of unknown function DUF34
+9710..10681	+	971	ACD03855.1	-	Amuc_0008	Amuc_0008	-	pseudouridine synthase, RluA family
+11054..12211	+	1157	ACD03856.1	-	Amuc_0009	Amuc_0009	-	chorismate mutase
+12257..13873	+	1616	ACD03857.1	-	Amuc_0010	Amuc_0010	-	Alpha-L-fucosidase
+13898..16282	+	2384	ACD03858.1	-	Amuc_0011	Amuc_0011	-	DNA ligase, NAD-dependent
+16460..17068	+	608	ACD03859.1	-	Amuc_0012	Amuc_0012	-	CDP-diacylglycerol/glycerol-3-phosphate
+17172..17333	+	161	ACD03860.1	-	Amuc_0013	Amuc_0013	-	hypothetical protein
+17295..18533	-	1238	ACD03861.1	-	Amuc_0014	Amuc_0014	-	hypothetical protein
+19074..20345	+	1271	ACD03862.1	-	Amuc_0015	Amuc_0015	-	DEAD/DEAH box helicase domain protein
+20457..21065	+	608	ACD03863.1	-	Amuc_0016	Amuc_0016	-	hypothetical protein
+21561..23006	+	1445	ACD03864.1	-	Amuc_0017	Amuc_0017	-	oxidoreductase domain protein
+23308..24450	+	1142	ACD03865.1	-	Amuc_0018	Amuc_0018	-	conserved hypothetical protein
+24455..25414	+	959	ACD03866.1	-	Amuc_0019	Amuc_0019	-	hypothetical protein
+25433..26587	-	1154	ACD03867.1	-	Amuc_0020	Amuc_0020	-	major facilitator superfamily MFS_1
+26737..28134	-	1397	ACD03868.1	-	Amuc_0021	Amuc_0021	-	RNA polymerase, sigma 54 subunit, RpoN
+28275..28985	+	710	ACD03869.1	-	Amuc_0022	Amuc_0022	-	lipolytic protein G-D-S-L family
+29374..30150	+	776	ACD03870.1	-	Amuc_0023	Amuc_0023	-	phenazine biosynthesis protein PhzF family
+30657..31256	+	599	ACD03871.1	-	Amuc_0024	Amuc_0024	-	protein of unknown function DUF204
+31260..33593	+	2333	ACD03872.1	-	Amuc_0025	Amuc_0025	-	Tetratricopeptide TPR_2 repeat protein
+33610..34827	+	1217	ACD03873.1	-	Amuc_0026	Amuc_0026	-	hypothetical protein
+35058..36437	-	1379	ACD03874.1	-	Amuc_0027	Amuc_0027	-	AAA ATPase central domain protein
+36545..36940	-	395	ACD03875.1	-	Amuc_0028	Amuc_0028	-	hypothetical protein
+37306..38232	-	926	ACD03876.1	-	Amuc_0029	Amuc_0029	-	NAD-dependent epimerase/dehydratase
+38259..39353	-	1094	ACD03877.1	-	Amuc_0030	Amuc_0030	-	conserved hypothetical protein
+39366..40241	-	875	ACD03878.1	-	Amuc_0031	Amuc_0031	-	conserved hypothetical protein
+40350..41069	-	719	ACD03879.1	-	Amuc_0032	Amuc_0032	-	hypothetical protein
+41173..41865	+	692	ACD03880.1	-	Amuc_0033	Amuc_0033	-	peptidase M50
+41923..43443	+	1520	ACD03881.1	-	Amuc_0034	Amuc_0034	-	prolyl-tRNA synthetase
+44582..44995	-	413	ACD03882.1	-	Amuc_0035	Amuc_0035	-	hypothetical protein
+45594..51467	-	5873	ACD03883.1	-	Amuc_0036	Amuc_0036	-	YD repeat protein
+51964..53448	+	1484	ACD03884.1	-	Amuc_0037	Amuc_0037	-	amino acid permease-associated region
+53441..54382	+	941	ACD03885.1	-	Amuc_0038	Amuc_0038	-	Glutaminase
+54611..55021	-	410	ACD03886.1	-	Amuc_0039	Amuc_0039	-	GCN5-related N-acetyltransferase
+55485..56894	+	1409	ACD03887.1	-	Amuc_0040	Amuc_0040	-	amino acid carrier protein
+57297..58373	+	1076	ACD03888.1	-	Amuc_0041	Amuc_0041	-	peptide chain release factor 1
+58390..59295	+	905	ACD03889.1	-	Amuc_0042	Amuc_0042	-	protein-(glutamine-N5) methyltransferase,
+59317..61533	+	2216	ACD03890.1	-	Amuc_0043	Amuc_0043	-	primosomal protein N'
+61593..62417	+	824	ACD03891.1	-	Amuc_0044	Amuc_0044	-	Diaminopimelate epimerase
+62461..63240	-	779	ACD03892.1	-	Amuc_0045	Amuc_0045	-	hypothetical protein
+63380..63646	-	266	ACD03893.1	-	Amuc_0046	Amuc_0046	-	hypothetical protein
+63997..64668	+	671	ACD03894.1	-	Amuc_0047	Amuc_0047	-	ubiquinone/menaquinone biosynthesis
+64665..66170	+	1505	ACD03895.1	-	Amuc_0048	Amuc_0048	-	MATE efflux family protein
+66361..66591	-	230	ACD03896.1	-	Amuc_0049	Amuc_0049	-	hypothetical protein
+68018..69757	-	1739	ACD03897.1	-	Amuc_0051	Amuc_0051	-	single-stranded-DNA-specific exonuclease RecJ
+69948..72809	-	2861	ACD03898.1	-	Amuc_0052	Amuc_0052	-	Hyalurononglucosaminidase
+73252..74193	+	941	ACD03899.1	-	Amuc_0053	Amuc_0053	-	periplasmic solute binding protein
+74190..74624	+	434	ACD03900.1	-	Amuc_0054	Amuc_0054	-	hypothetical protein
+74621..75421	+	800	ACD03901.1	-	Amuc_0055	Amuc_0055	-	ABC transporter related
+75418..76281	+	863	ACD03902.1	-	Amuc_0056	Amuc_0056	-	ABC-3 protein
+76349..76885	+	536	ACD03903.1	-	Amuc_0057	Amuc_0057	-	UvrB/UvrC protein
+76891..77946	+	1055	ACD03904.1	-	Amuc_0058	Amuc_0058	-	ATP:guanido phosphotransferase
+77975..80557	+	2582	ACD03905.1	-	Amuc_0059	Amuc_0059	-	ATPase AAA-2 domain protein
+80688..83234	+	2546	ACD03906.1	-	Amuc_0060	Amuc_0060	-	Alpha-N-acetylglucosaminidase
+85349..86056	+	707	ACD03907.1	-	Amuc_0062	Amuc_0062	-	hypothetical protein
+86369..86710	-	341	ACD03908.1	-	Amuc_0063	Amuc_0063	-	Rhodanese domain protein
+86946..87824	-	878	ACD03909.1	-	Amuc_0064	Amuc_0064	-	5-oxopent-3-ene-1,2,5-tricarboxylate
+87991..89547	+	1556	ACD03910.1	-	Amuc_0065	Amuc_0065	-	2-isopropylmalate synthase
+89669..90583	+	914	ACD03911.1	-	Amuc_0066	Amuc_0066	-	putative ATP/GTP-binding protein
+90682..91158	+	476	ACD03912.1	-	Amuc_0067	Amuc_0067	-	GatB/YqeY domain protein
+91155..91850	+	695	ACD03913.1	-	Amuc_0068	Amuc_0068	-	2-C-methyl-D-erythritol 4-phosphate
+91847..92701	+	854	ACD03914.1	-	Amuc_0069	Amuc_0069	-	NAD-dependent epimerase/dehydratase
+92893..93858	+	965	ACD03915.1	-	Amuc_0070	Amuc_0070	-	tryptophanyl-tRNA synthetase
+93947..94417	+	470	ACD03916.1	-	Amuc_0071	Amuc_0071	-	UspA domain protein
+94451..95254	+	803	ACD03917.1	-	Amuc_0072	Amuc_0072	-	metallophosphoesterase
+95579..96373	+	794	ACD03918.1	-	Amuc_0073	Amuc_0073	-	UBA/THIF-type NAD/FAD binding protein
+96370..96885	+	515	ACD03919.1	-	Amuc_0074	Amuc_0074	-	hypothetical protein
+97286..98353	-	1067	ACD03920.1	-	Amuc_0075	Amuc_0075	-	PfkB domain protein
+98743..99246	+	503	ACD03921.1	-	Amuc_0076	Amuc_0076	-	NUDIX hydrolase
+100094..101293	+	1199	ACD03922.1	-	Amuc_0077	Amuc_0077	-	2-amino-3-ketobutyrate coenzyme A ligase
+101329..103947	+	2618	ACD03923.1	-	Amuc_0078	Amuc_0078	-	serine/threonine protein kinase
+104109..104879	+	770	ACD03924.1	-	Amuc_0079	Amuc_0079	-	Cobyrinic acid ac-diamide synthase
+105086..107872	+	2786	ACD03925.1	-	Amuc_0080	Amuc_0080	-	serine/threonine protein kinase
+107958..108536	+	578	ACD03926.1	-	Amuc_0081	Amuc_0081	-	hypothetical protein
+108852..109427	-	575	ACD03927.1	-	Amuc_0082	Amuc_0082	-	hypothetical protein
+109564..110103	-	539	ACD03928.1	-	Amuc_0083	Amuc_0083	-	hypothetical protein
+110100..111743	-	1643	ACD03929.1	-	Amuc_0084	Amuc_0084	-	hypothetical protein
+112400..112657	+	257	ACD03930.1	-	Amuc_0085	Amuc_0085	-	thiamine biosynthesis protein ThiS
+112700..114601	+	1901	ACD03931.1	-	Amuc_0086	Amuc_0086	-	DNA mismatch repair protein MutL
+114737..114853	-	116	ACD03932.1	-	Amuc_0087	Amuc_0087	-	hypothetical protein
+114937..116889	+	1952	ACD03933.1	-	Amuc_0088	Amuc_0088	-	hypothetical protein
+117286..117642	+	356	ACD03934.1	-	Amuc_0089	Amuc_0089	-	protein of unknown function DUF488
+117979..118956	-	977	ACD03935.1	-	Amuc_0090	Amuc_0090	-	porphobilinogen deaminase
+118946..119968	-	1022	ACD03936.1	-	Amuc_0091	Amuc_0091	-	glutamyl-tRNA reductase
+119968..120726	-	758	ACD03937.1	-	Amuc_0092	Amuc_0092	-	cytochrome c assembly protein
+120747..121541	-	794	ACD03938.1	-	Amuc_0093	Amuc_0093	-	protein of unknown function DUF198
+121649..121894	-	245	ACD03939.1	-	Amuc_0094	Amuc_0094	-	ribosomal protein S18
+121926..122099	-	173	ACD03940.1	-	Amuc_0095	Amuc_0095	-	ribosomal protein L33
+122133..122756	-	623	ACD03941.1	-	Amuc_0096	Amuc_0096	-	transcriptional regulator, TraR/DksA family
+123193..124152	+	959	ACD03942.1	-	Amuc_0097	Amuc_0097	-	ROK family protein
+124157..125125	+	968	ACD03943.1	-	Amuc_0098	Amuc_0098	-	Fmu (Sun) domain protein
+125132..125641	+	509	ACD03944.1	-	Amuc_0099	Amuc_0099	-	phosphodiesterase, MJ0936 family
+125638..126045	+	407	ACD03945.1	-	Amuc_0100	Amuc_0100	-	NUDIX hydrolase
+126094..126237	+	143	ACD03946.1	-	Amuc_0101	Amuc_0101	-	hypothetical protein
+126754..128151	+	1397	ACD03947.1	-	Amuc_0102	Amuc_0102	-	efflux transporter, RND family, MFP subunit
+128218..128922	+	704	ACD03948.1	-	Amuc_0103	Amuc_0103	-	ABC transporter related
+128919..130283	+	1364	ACD03949.1	-	Amuc_0104	Amuc_0104	-	protein of unknown function DUF214
+130305..131678	+	1373	ACD03950.1	-	Amuc_0105	Amuc_0105	-	RND efflux system, outer membrane lipoprotein,
+131881..133017	-	1136	ACD03951.1	-	Amuc_0106	Amuc_0106	-	beta-lactamase
+133142..136318	-	3176	ACD03952.1	-	Amuc_0107	Amuc_0107	-	transporter, hydrophobe/amphiphile efflux-1
+136322..137698	-	1376	ACD03953.1	-	Amuc_0108	Amuc_0108	-	efflux transporter, RND family, MFP subunit
+137741..138166	-	425	ACD03954.1	-	Amuc_0109	Amuc_0109	-	transcriptional regulator, MarR family
+138287..138973	-	686	ACD03955.1	-	Amuc_0110	Amuc_0110	-	protein of unknown function UPF0066
+139030..140304	-	1274	ACD03956.1	-	Amuc_0111	Amuc_0111	-	dihydroorotase, multifunctional complex type
+140311..141240	-	929	ACD03957.1	-	Amuc_0112	Amuc_0112	-	aspartate carbamoyltransferase
+141269..141802	-	533	ACD03958.1	-	Amuc_0113	Amuc_0113	-	phosphoribosyltransferase
+141829..142239	-	410	ACD03959.1	-	Amuc_0114	Amuc_0114	-	1-(5-phosphoribosyl)-5-amino-4-imidazole-
+142404..142976	-	572	ACD03960.1	-	Amuc_0115	Amuc_0115	-	hypothetical protein
+143259..144851	-	1592	ACD03961.1	-	Amuc_0116	Amuc_0116	-	FAD dependent oxidoreductase
+144848..145903	-	1055	ACD03962.1	-	Amuc_0117	Amuc_0117	-	Agmatine deiminase
+145920..146315	-	395	ACD03963.1	-	Amuc_0118	Amuc_0118	-	conserved hypothetical protein
+146653..147972	+	1319	ACD03964.1	-	Amuc_0119	Amuc_0119	-	hypothetical protein
+148008..149318	+	1310	ACD03965.1	-	Amuc_0120	Amuc_0120	-	protein of unknown function UPF0118
+149378..150958	+	1580	ACD03966.1	-	Amuc_0121	Amuc_0121	-	sulfatase
+150978..151466	+	488	ACD03967.1	-	Amuc_0122	Amuc_0122	-	hypothetical protein
+153200..154495	-	1295	ACD03968.1	-	Amuc_0124	Amuc_0124	-	protein of unknown function DUF303
+154751..155500	+	749	ACD03969.1	-	Amuc_0125	Amuc_0125	-	lipolytic protein G-D-S-L family
+155648..157957	-	2309	ACD03970.1	-	Amuc_0126	Amuc_0126	-	hypothetical protein
+158329..158709	+	380	ACD03971.1	-	Amuc_0127	Amuc_0127	-	transposase IS3/IS911 family protein
+158875..160968	+	2093	ACD03972.1	-	Amuc_0128	Amuc_0128	-	DNA topoisomerase (ATP-hydrolyzing)
+161502..162062	+	560	ACD03973.1	-	Amuc_0129	Amuc_0129	-	hypothetical protein
+162202..162585	-	383	ACD03974.1	-	Amuc_0130	Amuc_0130	-	hypothetical protein
+162704..163030	-	326	ACD03975.1	-	Amuc_0131	Amuc_0131	-	hypothetical protein
+163100..163321	+	221	ACD03976.1	-	Amuc_0132	Amuc_0132	-	hypothetical protein
+163372..164256	+	884	ACD03977.1	-	Amuc_0133	Amuc_0133	-	parB-like partition protein
+164276..165220	+	944	ACD03978.1	-	Amuc_0134	Amuc_0134	-	peptidase M28
+165259..167241	+	1982	ACD03979.1	-	Amuc_0135	Amuc_0135	-	conserved hypothetical membrane protein
+167238..169436	+	2198	ACD03980.1	-	Amuc_0136	Amuc_0136	-	conserved hypothetical protein-putative
+169490..170860	-	1370	ACD03981.1	-	Amuc_0137	Amuc_0137	-	hypothetical protein
+170889..171245	+	356	ACD03982.1	-	Amuc_0138	Amuc_0138	-	hypothetical protein
+171270..172250	-	980	ACD03983.1	-	Amuc_0139	Amuc_0139	-	conserved hypothetical protein
+172287..173468	-	1181	ACD03984.1	-	Amuc_0140	Amuc_0140	-	tyrosyl-tRNA synthetase
+173694..173915	+	221	ACD03985.1	-	Amuc_0141	Amuc_0141	-	hypothetical protein
+174008..174370	-	362	ACD03986.1	-	Amuc_0142	Amuc_0142	-	protein of unknown function DUF486
+174389..175321	-	932	ACD03987.1	-	Amuc_0143	Amuc_0143	-	binding-protein-dependent transport systems
+175342..176256	-	914	ACD03988.1	-	Amuc_0144	Amuc_0144	-	binding-protein-dependent transport systems
+176262..178121	-	1859	ACD03989.1	-	Amuc_0145	Amuc_0145	-	4-phytase
+178409..180544	+	2135	ACD03990.1	-	Amuc_0146	Amuc_0146	-	Alpha-L-fucosidase
+180882..181847	-	965	ACD03991.1	-	Amuc_0147	Amuc_0147	-	Thioredoxin domain
+182059..183288	+	1229	ACD03992.1	-	Amuc_0148	Amuc_0148	-	Saccharopine dehydrogenase
+183495..184478	+	983	ACD03993.1	-	Amuc_0149	Amuc_0149	-	metallophosphoesterase
+184606..185634	-	1028	ACD03994.1	-	Amuc_0150	Amuc_0150	-	hypothetical protein
+185712..187100	-	1388	ACD03995.1	-	Amuc_0151	Amuc_0151	-	hypothetical protein
+187100..188557	-	1457	ACD03996.1	-	Amuc_0152	Amuc_0152	-	Tubulin/FtsZ GTPase
+188583..189794	-	1211	ACD03997.1	-	Amuc_0153	Amuc_0153	-	cell division protein FtsA
+189910..190515	-	605	ACD03998.1	-	Amuc_0154	Amuc_0154	-	hypothetical protein
+190556..192511	-	1955	ACD03999.1	-	Amuc_0155	Amuc_0155	-	phosphoglucomutase/phosphomannomutase
+192617..194401	-	1784	ACD04000.1	-	Amuc_0156	Amuc_0156	-	ABC transporter related
+194395..196245	-	1850	ACD04001.1	-	Amuc_0157	Amuc_0157	-	ABC transporter related
+196424..197830	+	1406	ACD04002.1	-	Amuc_0158	Amuc_0158	-	hypothetical protein
+197906..198706	+	800	ACD04003.1	-	Amuc_0159	Amuc_0159	-	protein of unknown function DUF140
+198722..199540	+	818	ACD04004.1	-	Amuc_0160	Amuc_0160	-	ABC transporter related
+199559..200563	+	1004	ACD04005.1	-	Amuc_0161	Amuc_0161	-	Mammalian cell entry related domain protein
+200707..201033	+	326	ACD04006.1	-	Amuc_0162	Amuc_0162	-	protein of unknown function DUF883 ElaB
+201103..201549	+	446	ACD04007.1	-	Amuc_0163	Amuc_0163	-	hypothetical protein
+201549..201893	+	344	ACD04008.1	-	Amuc_0164	Amuc_0164	-	hypothetical protein
+202275..203357	+	1082	ACD04009.1	-	Amuc_0165	Amuc_0165	-	twitching motility protein
+203383..204477	+	1094	ACD04010.1	-	Amuc_0166	Amuc_0166	-	twitching motility protein
+204502..205575	+	1073	ACD04011.1	-	Amuc_0167	Amuc_0167	-	PpiC-type peptidyl-prolyl cis-trans isomerase
+205998..207545	+	1547	ACD04012.1	-	Amuc_0168	Amuc_0168	-	hypothetical protein
+207638..208387	+	749	ACD04013.1	-	Amuc_0169	Amuc_0169	-	3-deoxy-D-manno-octulosonate
+208398..210005	+	1607	ACD04014.1	-	Amuc_0170	Amuc_0170	-	CTP synthase
+210072..211634	+	1562	ACD04015.1	-	Amuc_0171	Amuc_0171	-	SSS sodium solute transporter superfamily
+211866..215765	-	3899	ACD04016.1	-	Amuc_0172	Amuc_0172	-	hypothetical protein
+216015..219032	+	3017	ACD04017.1	-	Amuc_0173	Amuc_0173	-	hypothetical protein
+219317..220174	+	857	ACD04018.1	-	Amuc_0174	Amuc_0174	-	hypothetical protein
+220441..221613	-	1172	ACD04019.1	-	Amuc_0175	Amuc_0175	-	PDZ/DHR/GLGF domain protein
+221610..222614	-	1004	ACD04020.1	-	Amuc_0176	Amuc_0176	-	peptidase S1 and S6 chymotrypsin/Hap
+222775..225435	+	2660	ACD04021.1	-	Amuc_0177	Amuc_0177	-	Peptidoglycan glycosyltransferase
+225453..226706	+	1253	ACD04022.1	-	Amuc_0178	Amuc_0178	-	protein of unknown function DUF195
+226864..227565	-	701	ACD04023.1	-	Amuc_0179	Amuc_0179	-	HAD-superfamily hydrolase, subfamily IA, variant
+227570..228349	-	779	ACD04024.1	-	Amuc_0180	Amuc_0180	-	acyl-(acyl-carrier-protein)--UDP-N-
+228416..229282	-	866	ACD04025.1	-	Amuc_0181	Amuc_0181	-	RDD domain containing protein
+229295..230920	-	1625	ACD04026.1	-	Amuc_0182	Amuc_0182	-	protein of unknown function DUF214
+230995..231915	-	920	ACD04027.1	-	Amuc_0183	Amuc_0183	-	Beta-lactamase
+232044..232547	+	503	ACD04028.1	-	Amuc_0184	Amuc_0184	-	protein of unknown function DUF456
+232701..233021	+	320	ACD04029.1	-	Amuc_0185	Amuc_0185	-	conserved hypothetical protein
+233077..235443	+	2366	ACD04030.1	-	Amuc_0186	Amuc_0186	-	glycoside hydrolase family 95
+235480..236550	+	1070	ACD04031.1	-	Amuc_0187	Amuc_0187	-	peptidase M28
+236547..237587	+	1040	ACD04032.1	-	Amuc_0188	Amuc_0188	-	Esterase/lipase-like protein
+237659..240388	+	2729	ACD04033.1	-	Amuc_0189	Amuc_0189	-	isoleucyl-tRNA synthetase
+240419..241192	+	773	ACD04034.1	-	Amuc_0190	Amuc_0190	-	peptidase A8 signal peptidase II
+241200..241862	+	662	ACD04035.1	-	Amuc_0191	Amuc_0191	-	hypothetical protein
+241880..242362	+	482	ACD04036.1	-	Amuc_0192	Amuc_0192	-	hypothetical protein
+242365..243591	+	1226	ACD04037.1	-	Amuc_0193	Amuc_0193	-	cysteine desulfurase, SufS subfamily
+243629..245362	+	1733	ACD04038.1	-	Amuc_0194	Amuc_0194	-	hypothetical protein
+245575..245712	-	137	ACD04039.1	-	Amuc_0195	Amuc_0195	-	hypothetical protein
+245832..247475	+	1643	ACD04040.1	-	Amuc_0196	Amuc_0196	-	serine/threonine protein kinase
+247578..247784	+	206	ACD04041.1	-	Amuc_0197	Amuc_0197	-	hypothetical protein
+247900..248247	-	347	ACD04042.1	-	Amuc_0198	Amuc_0198	-	ribosomal protein L19
+248357..249895	-	1538	ACD04043.1	-	Amuc_0199	Amuc_0199	-	hypothetical protein
+250061..250483	+	422	ACD04044.1	-	Amuc_0200	Amuc_0200	-	methylmalonyl-CoA epimerase
+250515..252080	+	1565	ACD04045.1	-	Amuc_0201	Amuc_0201	-	carboxyl transferase
+252102..252554	+	452	ACD04046.1	-	Amuc_0202	Amuc_0202	-	hypothetical protein
+252627..253028	+	401	ACD04047.1	-	Amuc_0203	Amuc_0203	-	biotin/lipoyl attachment domain-containing
+253107..254771	+	1664	ACD04048.1	-	Amuc_0204	Amuc_0204	-	sodium ion-translocating decarboxylase, beta
+254809..255588	+	779	ACD04049.1	-	Amuc_0205	Amuc_0205	-	biotin/acetyl-CoA-carboxylase ligase
+255650..257146	+	1496	ACD04050.1	-	Amuc_0206	Amuc_0206	-	succinate CoA transferase
+257265..257966	+	701	ACD04051.1	-	Amuc_0207	Amuc_0207	-	hypothetical protein
+258184..259047	-	863	ACD04052.1	-	Amuc_0208	Amuc_0208	-	glucose-1-phosphate thymidylyltransferase
+259057..260109	-	1052	ACD04053.1	-	Amuc_0209	Amuc_0209	-	dTDP-glucose 4,6-dehydratase
+260241..261203	-	962	ACD04054.1	-	Amuc_0210	Amuc_0210	-	6-phosphofructokinase
+261314..262045	+	731	ACD04055.1	-	Amuc_0211	Amuc_0211	-	Uracil-DNA glycosylase superfamily
+262414..263880	+	1466	ACD04056.1	-	Amuc_0213	Amuc_0213	-	glutamyl-tRNA(Gln) amidotransferase, B subunit
+263935..265701	-	1766	ACD04057.1	-	Amuc_0214	Amuc_0214	-	thiamine pyrophosphate protein TPP binding
+265829..266431	-	602	ACD04058.1	-	Amuc_0215	Amuc_0215	-	hypothetical protein
+267032..269569	+	2537	ACD04059.1	-	Amuc_0216	Amuc_0216	-	hypothetical protein
+269680..270333	-	653	ACD04060.1	-	Amuc_0217	Amuc_0217	-	hypothetical protein
+270500..273256	+	2756	ACD04061.1	-	Amuc_0218	Amuc_0218	-	calcium-translocating P-type ATPase, PMCA-type
+273283..274512	+	1229	ACD04062.1	-	Amuc_0219	Amuc_0219	-	efflux transporter, RND family, MFP subunit
+274525..277695	+	3170	ACD04063.1	-	Amuc_0220	Amuc_0220	-	transporter, hydrophobe/amphiphile efflux-1
+277742..279124	-	1382	ACD04064.1	-	Amuc_0221	Amuc_0221	-	anion transporter
+279411..279683	-	272	ACD04065.1	-	Amuc_0222	Amuc_0222	-	conserved hypothetical protein
+279869..280642	-	773	ACD04066.1	-	Amuc_0223	Amuc_0223	-	phosphomethylpyrimidine kinase
+280656..281237	+	581	ACD04067.1	-	Amuc_0224	Amuc_0224	-	hypothetical protein
+281234..282277	-	1043	ACD04068.1	-	Amuc_0225	Amuc_0225	-	Sel1 domain protein repeat-containing protein
+282426..283163	+	737	ACD04069.1	-	Amuc_0226	Amuc_0226	-	hypothetical protein
+283179..284420	-	1241	ACD04070.1	-	Amuc_0227	Amuc_0227	-	hypothetical protein
+284763..286721	-	1958	ACD04071.1	-	Amuc_0228	Amuc_0228	-	hypothetical protein
+287811..288308	+	497	ACD04072.1	-	Amuc_0229	Amuc_0229	-	hypothetical protein
+288487..289272	-	785	ACD04073.1	-	Amuc_0230	Amuc_0230	-	short-chain dehydrogenase/reductase SDR
+289331..290587	-	1256	ACD04074.1	-	Amuc_0231	Amuc_0231	-	hypothetical protein
+290764..291444	+	680	ACD04075.1	-	Amuc_0232	Amuc_0232	-	peptide deformylase
+291556..292593	-	1037	ACD04076.1	-	Amuc_0233	Amuc_0233	-	L-threonine 3-dehydrogenase
+292596..292802	+	206	ACD04077.1	-	Amuc_0234	Amuc_0234	-	hypothetical protein
+292855..294519	+	1664	ACD04078.1	-	Amuc_0235	Amuc_0235	-	alpha-glucan phosphorylase
+294621..295391	-	770	ACD04079.1	-	Amuc_0236	Amuc_0236	-	Ion transport 2 domain protein
+295400..295759	-	359	ACD04080.1	-	Amuc_0237	Amuc_0237	-	arsenate reductase and related
+295927..297333	-	1406	ACD04081.1	-	Amuc_0238	Amuc_0238	-	beta-lactamase domain protein
+297333..297611	-	278	ACD04082.1	-	Amuc_0239	Amuc_0239	-	hypothetical protein
+297838..298137	-	299	ACD04083.1	-	Amuc_0240	Amuc_0240	-	twin-arginine translocation protein, TatA/E
+298195..299637	-	1442	ACD04084.1	-	Amuc_0241	Amuc_0241	-	Sel1 domain protein repeat-containing protein
+299641..301044	-	1403	ACD04085.1	-	Amuc_0242	Amuc_0242	-	pseudouridine synthase
+301248..301403	-	155	ACD04086.1	-	Amuc_0243	Amuc_0243	-	conserved hypothetical protein
+301525..302244	-	719	ACD04087.1	-	Amuc_0244	Amuc_0244	-	tRNA (guanine-N1)-methyltransferase
+302257..303246	-	989	ACD04088.1	-	Amuc_0245	Amuc_0245	-	peptide chain release factor 2
+303722..304123	-	401	ACD04089.1	-	Amuc_0246	Amuc_0246	-	transcriptional regulator, MarR family
+304260..305948	-	1688	ACD04090.1	-	Amuc_0247	Amuc_0247	-	ribosomal protein S1
+306253..306834	+	581	ACD04091.1	-	Amuc_0248	Amuc_0248	-	nitroreductase
+306912..307388	-	476	ACD04092.1	-	Amuc_0249	Amuc_0249	-	conserved hypothetical protein
+307954..308532	-	578	ACD04093.1	-	Amuc_0250	Amuc_0250	-	hypothetical protein
+308632..309447	-	815	ACD04094.1	-	Amuc_0251	Amuc_0251	-	hypothetical protein
+309992..310837	+	845	ACD04095.1	-	Amuc_0252	Amuc_0252	-	hypothetical protein
+310853..311722	-	869	ACD04096.1	-	Amuc_0253	Amuc_0253	-	Peptidase M23
+311770..312705	-	935	ACD04097.1	-	Amuc_0254	Amuc_0254	-	Xylose isomerase domain protein TIM barrel
+312720..313508	-	788	ACD04098.1	-	Amuc_0255	Amuc_0255	-	3-methyl-2-oxobutanoate 
+313530..314039	-	509	ACD04099.1	-	Amuc_0256	Amuc_0256	-	2-amino-4-hydroxy-6-                           
+314097..314837	-	740	ACD04100.1	-	Amuc_0257	Amuc_0257	-	Dihydrodipicolinate reductase
+314850..315731	-	881	ACD04101.1	-	Amuc_0258	Amuc_0258	-	dihydrodipicolinate synthase
+315805..316560	-	755	ACD04102.1	-	Amuc_0259	Amuc_0259	-	hypothetical protein
+322549..324741	-	2192	ACD04103.1	-	Amuc_0260	Amuc_0260	-	Redoxin domain protein
+324953..325399	+	446	ACD04104.1	-	Amuc_0261	Amuc_0261	-	hypothetical protein
+325501..326127	+	626	ACD04105.1	-	Amuc_0262	Amuc_0262	-	hypothetical protein
+326709..327206	-	497	ACD04106.1	-	Amuc_0263	Amuc_0263	-	protein of unknown function UPF0054
+327190..328950	-	1760	ACD04107.1	-	Amuc_0264	Amuc_0264	-	metal dependent phosphohydrolase
+328956..330005	-	1049	ACD04108.1	-	Amuc_0265	Amuc_0265	-	fatty acid/phospholipid synthesis protein PlsX
+330154..330345	-	191	ACD04109.1	-	Amuc_0266	Amuc_0266	-	ribosomal protein L32
+330369..330860	-	491	ACD04110.1	-	Amuc_0267	Amuc_0267	-	hypothetical protein
+330972..331316	-	344	ACD04111.1	-	Amuc_0268	Amuc_0268	-	histidine triad (HIT) protein
+331372..332418	-	1046	ACD04112.1	-	Amuc_0269	Amuc_0269	-	Sua5/YciO/YrdC/YwlC family protein
+332656..333210	+	554	ACD04113.1	-	Amuc_0270	Amuc_0270	-	Shikimate kinase
+333375..333617	-	242	ACD04114.1	-	Amuc_0271	Amuc_0271	-	ribosomal protein S16
+334425..335327	-	902	ACD04115.1	-	Amuc_0273	Amuc_0273	-	tyrosine recombinase XerC
+335338..336189	-	851	ACD04116.1	-	Amuc_0274	Amuc_0274	-	putative signal transduction protein with EFhand
+336314..336646	-	332	ACD04117.1	-	Amuc_0275	Amuc_0275	-	preprotein translocase, YajC subunit
+336643..337776	-	1133	ACD04118.1	-	Amuc_0276	Amuc_0276	-	queuine tRNA-ribosyltransferase
+337782..338378	-	596	ACD04119.1	-	Amuc_0277	Amuc_0277	-	tRNA (guanine-N(7)-)-methyltransferase
+338507..339229	-	722	ACD04120.1	-	Amuc_0278	Amuc_0278	-	NUDIX hydrolase
+339446..339964	+	518	ACD04121.1	-	Amuc_0279	Amuc_0279	-	Rare lipoprotein A
+339969..340853	-	884	ACD04122.1	-	Amuc_0280	Amuc_0280	-	ribonuclease HIII
+341069..341374	+	305	ACD04123.1	-	Amuc_0281	Amuc_0281	-	histone family protein DNA-binding protein
+341610..342113	+	503	ACD04124.1	-	Amuc_0282	Amuc_0282	-	hypothetical protein
+342193..342456	+	263	ACD04125.1	-	Amuc_0283	Amuc_0283	-	hypothetical protein
+342470..342913	+	443	ACD04126.1	-	Amuc_0284	Amuc_0284	-	hypothetical protein
+343177..343941	-	764	ACD04127.1	-	Amuc_0285	Amuc_0285	-	hypothetical protein
+343961..344392	-	431	ACD04128.1	-	Amuc_0286	Amuc_0286	-	hypothetical protein
+344417..345067	-	650	ACD04129.1	-	Amuc_0287	Amuc_0287	-	MotA/TolQ/ExbB proton channel
+345123..345848	-	725	ACD04130.1	-	Amuc_0288	Amuc_0288	-	UbiA prenyltransferase
+345991..347145	+	1154	ACD04131.1	-	Amuc_0289	Amuc_0289	-	PpiC-type peptidyl-prolyl cis-trans isomerase
+347442..350402	+	2960	ACD04132.1	-	Amuc_0290	Amuc_0290	-	glycoside hydrolase family 2 sugar binding
+350556..353228	+	2672	ACD04133.1	-	Amuc_0291	Amuc_0291	-	valyl-tRNA synthetase
+353247..354089	+	842	ACD04134.1	-	Amuc_0292	Amuc_0292	-	hypothetical protein
+354707..355072	-	365	ACD04135.1	-	Amuc_0293	Amuc_0293	-	ribosomal protein L14
+355110..355382	-	272	ACD04136.1	-	Amuc_0294	Amuc_0294	-	ribosomal protein S17
+355431..355634	-	203	ACD04137.1	-	Amuc_0295	Amuc_0295	-	ribosomal protein L29
+355649..356071	-	422	ACD04138.1	-	Amuc_0296	Amuc_0296	-	ribosomal protein L16
+356124..356813	-	689	ACD04139.1	-	Amuc_0297	Amuc_0297	-	ribosomal protein S3
+356853..357191	-	338	ACD04140.1	-	Amuc_0298	Amuc_0298	-	ribosomal protein L22
+357230..357940	-	710	ACD04141.1	-	Amuc_0299	Amuc_0299	-	hypothetical protein
+357961..358230	-	269	ACD04142.1	-	Amuc_0300	Amuc_0300	-	ribosomal protein S19
+358266..359102	-	836	ACD04143.1	-	Amuc_0301	Amuc_0301	-	ribosomal protein L2
+359129..359413	-	284	ACD04144.1	-	Amuc_0302	Amuc_0302	-	Ribosomal protein L25/L23
+359420..360028	-	608	ACD04145.1	-	Amuc_0303	Amuc_0303	-	ribosomal protein L4/L1e
+360070..360705	-	635	ACD04146.1	-	Amuc_0304	Amuc_0304	-	ribosomal protein L3
+360751..361059	-	308	ACD04147.1	-	Amuc_0305	Amuc_0305	-	ribosomal protein S10
+361097..363244	-	2147	ACD04148.1	-	Amuc_0306	Amuc_0306	-	translation elongation factor G
+363308..363781	-	473	ACD04149.1	-	Amuc_0307	Amuc_0307	-	ribosomal protein S7
+363808..364191	-	383	ACD04150.1	-	Amuc_0308	Amuc_0308	-	ribosomal protein S12
+364766..366310	-	1544	ACD04151.1	-	Amuc_0309	Amuc_0309	-	phosphoglycerate mutase,           
+366316..366726	-	410	ACD04152.1	-	Amuc_0310	Amuc_0310	-	thioesterase superfamily protein
+366881..368032	+	1151	ACD04153.1	-	Amuc_0311	Amuc_0311	-	signal transduction histidine kinase, nitrogen
+368029..369420	+	1391	ACD04154.1	-	Amuc_0312	Amuc_0312	-	two component, sigma54 specific, transcriptional
+369417..371294	+	1877	ACD04155.1	-	Amuc_0313	Amuc_0313	-	hypothetical protein
+371302..371562	+	260	ACD04156.1	-	Amuc_0314	Amuc_0314	-	Exonuclease VII small subunit
+371543..373429	+	1886	ACD04157.1	-	Amuc_0315	Amuc_0315	-	deoxyxylulose-5-phosphate synthase
+373437..374210	+	773	ACD04158.1	-	Amuc_0316	Amuc_0316	-	TPR repeat-containing protein
+374210..374746	+	536	ACD04159.1	-	Amuc_0317	Amuc_0317	-	Recombination protein O RecO
+374898..375989	+	1091	ACD04160.1	-	Amuc_0318	Amuc_0318	-	permease YjgP/YjgQ family protein
+376065..377459	+	1394	ACD04161.1	-	Amuc_0319	Amuc_0319	-	small GTP-binding protein
+377478..378446	+	968	ACD04162.1	-	Amuc_0320	Amuc_0320	-	oligopeptide/dipeptide ABC transporter, ATPase
+378438..378740	-	302	ACD04163.1	-	Amuc_0321	Amuc_0321	-	hypothetical protein
+380436..380756	-	320	ACD04164.1	-	Amuc_0323	Amuc_0323	-	phage transcriptional regulator, AlpA
+382474..383769	-	1295	ACD04165.1	-	Amuc_0325	Amuc_0325	-	conserved hypothetical protein
+383783..384898	-	1115	ACD04166.1	-	Amuc_0326	Amuc_0326	-	hypothetical protein
+384905..385492	-	587	ACD04167.1	-	Amuc_0327	Amuc_0327	-	hypothetical protein
+385486..387501	-	2015	ACD04168.1	-	Amuc_0328	Amuc_0328	-	hypothetical protein
+387616..388983	-	1367	ACD04169.1	-	Amuc_0329	Amuc_0329	-	putative transcriptional regulator
+389036..389482	-	446	ACD04170.1	-	Amuc_0330	Amuc_0330	-	hypothetical protein
+389801..390250	-	449	ACD04171.1	-	Amuc_0332	Amuc_0332	-	hypothetical protein
+390524..391159	-	635	ACD04172.1	-	Amuc_0333	Amuc_0333	-	chloramphenicol acetyltransferase
+391336..394161	-	2825	ACD04173.1	-	Amuc_0334	Amuc_0334	-	protein of unknown function DUF214
+394158..394904	-	746	ACD04174.1	-	Amuc_0335	Amuc_0335	-	ABC transporter related
+394920..397142	-	2222	ACD04175.1	-	Amuc_0336	Amuc_0336	-	TonB-dependent receptor
+397262..398149	-	887	ACD04176.1	-	Amuc_0337	Amuc_0337	-	Prephenate dehydrogenase
+398230..398826	-	596	ACD04177.1	-	Amuc_0338	Amuc_0338	-	hypothetical protein
+399267..401933	+	2666	ACD04178.1	-	Amuc_0339	Amuc_0339	-	phospholipid/glycerol acyltransferase
+401923..402390	+	467	ACD04179.1	-	Amuc_0340	Amuc_0340	-	CMP/dCMP deaminase zinc-binding
+402402..402863	-	461	ACD04180.1	-	Amuc_0341	Amuc_0341	-	hypothetical protein
+402996..403403	-	407	ACD04181.1	-	Amuc_0342	Amuc_0342	-	OsmC family protein
+403467..405797	+	2330	ACD04182.1	-	Amuc_0343	Amuc_0343	-	Thiol:disulfide interchange protein-like
+405873..406604	-	731	ACD04183.1	-	Amuc_0344	Amuc_0344	-	lipolytic protein G-D-S-L family
+406656..407249	-	593	ACD04184.1	-	Amuc_0345	Amuc_0345	-	Exonuclease RNase T and DNA polymerase III
+407251..409722	-	2471	ACD04185.1	-	Amuc_0346	Amuc_0346	-	DNA mismatch repair protein MutS
+410068..410418	-	350	ACD04186.1	-	Amuc_0347	Amuc_0347	-	iojap-like protein
+410440..412878	-	2438	ACD04187.1	-	Amuc_0348	Amuc_0348	-	ATP-dependent metalloprotease FtsH
+413055..413852	-	797	ACD04188.1	-	Amuc_0349	Amuc_0349	-	hypothetical protein
+413842..414918	-	1076	ACD04189.1	-	Amuc_0350	Amuc_0350	-	putative ATP-binding protein
+415130..415954	+	824	ACD04190.1	-	Amuc_0351	Amuc_0351	-	naphthoate synthase
+415974..416804	+	830	ACD04191.1	-	Amuc_0352	Amuc_0352	-	hypothetical protein
+416875..417903	-	1028	ACD04192.1	-	Amuc_0353	Amuc_0353	-	hypothetical protein
+417915..419204	-	1289	ACD04193.1	-	Amuc_0354	Amuc_0354	-	hypothetical protein
+419403..419918	+	515	ACD04194.1	-	Amuc_0355	Amuc_0355	-	hypothetical protein
+419947..420429	+	482	ACD04195.1	-	Amuc_0356	Amuc_0356	-	hypothetical protein
+420593..421645	-	1052	ACD04196.1	-	Amuc_0357	Amuc_0357	-	protein of unknown function DUF214
+421701..422333	-	632	ACD04197.1	-	Amuc_0358	Amuc_0358	-	ABC transporter related
+422330..423436	-	1106	ACD04198.1	-	Amuc_0359	Amuc_0359	-	hypothetical protein
+423450..424004	-	554	ACD04199.1	-	Amuc_0360	Amuc_0360	-	hypothetical protein
+424204..427788	-	3584	ACD04200.1	-	Amuc_0361	Amuc_0361	-	ABC transporter related
+427932..428354	+	422	ACD04201.1	-	Amuc_0362	Amuc_0362	-	hypothetical protein
+428590..429435	+	845	ACD04202.1	-	Amuc_0363	Amuc_0363	-	short-chain dehydrogenase/reductase SDR
+429432..431012	+	1580	ACD04203.1	-	Amuc_0364	Amuc_0364	-	hypothetical protein
+431014..431913	-	899	ACD04204.1	-	Amuc_0365	Amuc_0365	-	Squalene/phytoene synthase
+431910..433436	-	1526	ACD04205.1	-	Amuc_0366	Amuc_0366	-	transcriptional regulator, NifA subfamily, Fis
+433636..435423	-	1787	ACD04206.1	-	Amuc_0367	Amuc_0367	-	Chloride channel core
+435594..436448	-	854	ACD04207.1	-	Amuc_0368	Amuc_0368	-	hypothetical protein
+436606..438603	+	1997	ACD04208.1	-	Amuc_0369	Amuc_0369	-	Beta-N-acetylhexosaminidase
+438943..439473	-	530	ACD04209.1	-	Amuc_0370	Amuc_0370	-	hypothetical protein
+439476..442052	-	2576	ACD04210.1	-	Amuc_0371	Amuc_0371	-	two component regulator propeller domain
+443237..444637	-	1400	ACD04211.1	-	Amuc_0372	Amuc_0372	-	glutamate decarboxylase
+445289..445852	-	563	ACD04212.1	-	Amuc_0373	Amuc_0373	-	GCN5-related N-acetyltransferase
+445857..449381	-	3524	ACD04213.1	-	Amuc_0374	Amuc_0374	-	DNA polymerase III, alpha subunit
+449414..450460	-	1046	ACD04214.1	-	Amuc_0375	Amuc_0375	-	Dihydroorotate oxidase
+450548..451192	+	644	ACD04215.1	-	Amuc_0376	Amuc_0376	-	thiamine-phosphate pyrophosphorylase
+451218..451892	-	674	ACD04216.1	-	Amuc_0377	Amuc_0377	-	transcriptional regulator, TetR family
+451920..452612	-	692	ACD04217.1	-	Amuc_0378	Amuc_0378	-	Redoxin domain protein
+452680..454983	-	2303	ACD04218.1	-	Amuc_0379	Amuc_0379	-	cytochrome C family protein
+455054..456379	-	1325	ACD04219.1	-	Amuc_0380	Amuc_0380	-	protein of unknown function DUF21
+456376..457710	-	1334	ACD04220.1	-	Amuc_0381	Amuc_0381	-	protein of unknown function DUF21
+457994..460138	-	2144	ACD04221.1	-	Amuc_0382	Amuc_0382	-	Polyribonucleotide nucleotidyltransferase
+461021..461275	-	254	ACD04222.1	-	Amuc_0383	Amuc_0383	-	ribosomal protein S15
+461377..462018	-	641	ACD04223.1	-	Amuc_0384	Amuc_0384	-	Maltose O-acetyltransferase
+461996..462874	-	878	ACD04224.1	-	Amuc_0385	Amuc_0385	-	ErfK/YbiS/YcfS/YnhG family protein
+462976..464607	-	1631	ACD04225.1	-	Amuc_0386	Amuc_0386	-	conserved hypothetical protein
+464594..469777	-	5183	ACD04226.1	-	Amuc_0387	Amuc_0387	-	hypothetical protein
+469777..471048	-	1271	ACD04227.1	-	Amuc_0388	Amuc_0388	-	hypothetical protein
+471190..471987	+	797	ACD04228.1	-	Amuc_0389	Amuc_0389	-	tRNA pseudouridine synthase A
+472002..472583	-	581	ACD04229.1	-	Amuc_0390	Amuc_0390	-	nicotinate (nicotinamide) nucleotide
+472594..473271	-	677	ACD04230.1	-	Amuc_0391	Amuc_0391	-	Peptidase M23
+473409..475538	+	2129	ACD04231.1	-	Amuc_0392	Amuc_0392	-	coagulation factor 5/8 type domain protein
+475589..475981	+	392	ACD04232.1	-	Amuc_0393	Amuc_0393	-	hypothetical protein
+476127..476885	-	758	ACD04233.1	-	Amuc_0394	Amuc_0394	-	hypothetical protein
+477078..477890	-	812	ACD04234.1	-	Amuc_0395	Amuc_0395	-	ribonuclease PH
+477908..479323	+	1415	ACD04235.1	-	Amuc_0396	Amuc_0396	-	type I phosphodiesterase/nucleotide
+479336..481504	-	2168	ACD04236.1	-	Amuc_0397	Amuc_0397	-	Beta-N-acetylhexosaminidase
+481699..482340	-	641	ACD04237.1	-	Amuc_0398	Amuc_0398	-	dethiobiotin synthase
+482353..482505	-	152	ACD04238.1	-	Amuc_0399	Amuc_0399	-	hypothetical protein
+482483..483358	-	875	ACD04239.1	-	Amuc_0400	Amuc_0400	-	protein of unknown function DUF147
+483481..484077	+	596	ACD04240.1	-	Amuc_0401	Amuc_0401	-	hypothetical protein
+484496..485149	-	653	ACD04241.1	-	Amuc_0403	Amuc_0403	-	ABC transporter related
+485179..486024	-	845	ACD04242.1	-	Amuc_0404	Amuc_0404	-	pantoate/beta-alanine ligase
+486135..486770	+	635	ACD04243.1	-	Amuc_0405	Amuc_0405	-	outer membrane chaperone Skp (OmpH)
+486810..487847	+	1037	ACD04244.1	-	Amuc_0406	Amuc_0406	-	UDP-3-O-(3-hydroxymyristoyl) glucosamine
+487908..488699	-	791	ACD04245.1	-	Amuc_0407	Amuc_0407	-	binding-protein-dependent transport systems
+488696..489484	-	788	ACD04246.1	-	Amuc_0408	Amuc_0408	-	ABC transporter related
+489481..490527	-	1046	ACD04247.1	-	Amuc_0409	Amuc_0409	-	putative substrate-binding protein of aliphatic
+490756..491415	+	659	ACD04248.1	-	Amuc_0410	Amuc_0410	-	hypothetical protein
+492113..493555	+	1442	ACD04249.1	-	Amuc_0411	Amuc_0411	-	hypothetical protein
+493839..493970	-	131	ACD04250.1	-	Amuc_0412	Amuc_0412	-	hypothetical protein
+494073..494579	-	506	ACD04251.1	-	Amuc_0413	Amuc_0413	-	D,D-heptose 1,7-bisphosphate phosphatase
+494569..495138	-	569	ACD04252.1	-	Amuc_0414	Amuc_0414	-	phosphoheptose isomerase
+495135..496625	-	1490	ACD04253.1	-	Amuc_0415	Amuc_0415	-	rfaE bifunctional protein
+496854..497105	+	251	ACD04254.1	-	Amuc_0416	Amuc_0416	-	ribosomal protein S21
+497190..498470	+	1280	ACD04255.1	-	Amuc_0417	Amuc_0417	-	glutamate-1-semialdehyde-2,1-aminomutase
+498523..499581	+	1058	ACD04256.1	-	Amuc_0418	Amuc_0418	-	Ankyrin
+499800..501761	-	1961	ACD04257.1	-	Amuc_0419	Amuc_0419	-	General substrate transporter
+502096..503613	-	1517	ACD04258.1	-	Amuc_0420	Amuc_0420	-	hypothetical protein
+504133..505812	+	1679	ACD04259.1	-	Amuc_0421	Amuc_0421	-	glutaminyl-tRNA synthetase
+505832..507034	+	1202	ACD04260.1	-	Amuc_0422	Amuc_0422	-	3,4-dihydroxy-2-butanone 4-phosphate synthase
+507054..507542	+	488	ACD04261.1	-	Amuc_0423	Amuc_0423	-	6,7-dimethyl-8-ribityllumazine synthase
+507571..508455	+	884	ACD04262.1	-	Amuc_0424	Amuc_0424	-	NusB antitermination factor
+508470..509318	+	848	ACD04263.1	-	Amuc_0425	Amuc_0425	-	signal recognition particle-docking protein
+509337..510416	+	1079	ACD04264.1	-	Amuc_0426	Amuc_0426	-	radical SAM enzyme, Cfr family
+510517..511971	+	1454	ACD04265.1	-	Amuc_0427	Amuc_0427	-	DnaB domain protein helicase domain protein
+512364..513191	+	827	ACD04266.1	-	Amuc_0428	Amuc_0428	-	hypothetical protein
+513344..513964	+	620	ACD04267.1	-	Amuc_0429	Amuc_0429	-	nickel-cobalt-cadmium resistance protein
+513954..515198	-	1244	ACD04268.1	-	Amuc_0430	Amuc_0430	-	competence/damage-inducible protein CinA
+515311..516732	+	1421	ACD04269.1	-	Amuc_0431	Amuc_0431	-	pyruvate kinase
+516732..517247	+	515	ACD04270.1	-	Amuc_0432	Amuc_0432	-	GCN5-related N-acetyltransferase
+517235..518062	-	827	ACD04271.1	-	Amuc_0433	Amuc_0433	-	hypothetical protein
+518185..519105	-	920	ACD04272.1	-	Amuc_0434	Amuc_0434	-	hypothetical protein
+519248..520132	-	884	ACD04273.1	-	Amuc_0435	Amuc_0435	-	hypothetical protein
+520258..521025	-	767	ACD04274.1	-	Amuc_0436	Amuc_0436	-	HAD-superfamily subfamily IB hydrolase,
+521156..521767	-	611	ACD04275.1	-	Amuc_0437	Amuc_0437	-	ribosomal protein S4
+521803..522354	-	551	ACD04276.1	-	Amuc_0438	Amuc_0438	-	ribosomal protein S11
+522388..522765	-	377	ACD04277.1	-	Amuc_0439	Amuc_0439	-	ribosomal protein S13
+522884..523945	-	1061	ACD04278.1	-	Amuc_0440	Amuc_0440	-	domain of unknown function DUF1730
+524048..524971	+	923	ACD04279.1	-	Amuc_0441	Amuc_0441	-	conserved hypothetical protein
+524968..526080	+	1112	ACD04280.1	-	Amuc_0442	Amuc_0442	-	glycosyl transferase group 1
+526077..527204	+	1127	ACD04281.1	-	Amuc_0443	Amuc_0443	-	DNA protecting protein DprA
+527765..528688	+	923	ACD04282.1	-	Amuc_0444	Amuc_0444	-	Serine-type D-Ala-D-Ala carboxypeptidase
+528747..529868	+	1121	ACD04283.1	-	Amuc_0445	Amuc_0445	-	GTP-binding protein YchF
+529944..531029	+	1085	ACD04284.1	-	Amuc_0446	Amuc_0446	-	glycine cleavage system T protein
+531100..531480	+	380	ACD04285.1	-	Amuc_0447	Amuc_0447	-	glycine cleavage system H protein
+531576..534422	+	2846	ACD04286.1	-	Amuc_0448	Amuc_0448	-	glycine dehydrogenase
+534679..535743	+	1064	ACD04287.1	-	Amuc_0449	Amuc_0449	-	hypothetical protein
+535775..536407	-	632	ACD04288.1	-	Amuc_0450	Amuc_0450	-	protein of unknown function DUF805
+536416..538575	-	2159	ACD04289.1	-	Amuc_0451	Amuc_0451	-	sulfatase
+538994..540808	-	1814	ACD04290.1	-	Amuc_0452	Amuc_0452	-	DEAD/DEAH box helicase domain protein
+541001..541804	+	803	ACD04291.1	-	Amuc_0453	Amuc_0453	-	conserved hypothetical protein
+541815..543353	+	1538	ACD04292.1	-	Amuc_0454	Amuc_0454	-	protein of unknown function DUF303
+543375..544352	+	977	ACD04293.1	-	Amuc_0455	Amuc_0455	-	lipolytic protein G-D-S-L family
+544592..545053	+	461	ACD04294.1	-	Amuc_0456	Amuc_0456	-	DoxX family protein
+545157..546158	+	1001	ACD04295.1	-	Amuc_0457	Amuc_0457	-	phosphoribosylformylglycinamidine cyclo-ligase
+546222..548141	+	1919	ACD04296.1	-	Amuc_0458	Amuc_0458	-	glutamine amidotransferase class-II
+548175..548774	+	599	ACD04297.1	-	Amuc_0459	Amuc_0459	-	RNA polymerase, sigma-24 subunit, ECF subfamily
+548882..549403	+	521	ACD04298.1	-	Amuc_0460	Amuc_0460	-	hypothetical protein
+549410..550285	+	875	ACD04299.1	-	Amuc_0461	Amuc_0461	-	PDZ/DHR/GLGF domain protein
+550397..550765	+	368	ACD04300.1	-	Amuc_0462	Amuc_0462	-	hypothetical protein
+550779..551318	+	539	ACD04301.1	-	Amuc_0463	Amuc_0463	-	Phosphopantothenoylcysteine decarboxylase
+551338..551967	+	629	ACD04302.1	-	Amuc_0464	Amuc_0464	-	hypothetical protein
+551989..553032	+	1043	ACD04303.1	-	Amuc_0465	Amuc_0465	-	Peptidase M23
+553040..555694	+	2654	ACD04304.1	-	Amuc_0466	Amuc_0466	-	TPR repeat-containing protein
+555713..557056	+	1343	ACD04305.1	-	Amuc_0467	Amuc_0467	-	protein of unknown function DUF344
+557272..558021	+	749	ACD04306.1	-	Amuc_0468	Amuc_0468	-	transcriptional regulator, DeoR family
+558081..558524	-	443	ACD04307.1	-	Amuc_0469	Amuc_0469	-	GCN5-related N-acetyltransferase
+558748..559902	-	1154	ACD04308.1	-	Amuc_0470	Amuc_0470	-	aminotransferase class V
+560000..560683	+	683	ACD04309.1	-	Amuc_0471	Amuc_0471	-	Phosphopantothenate--cysteine ligase
+560765..561886	+	1121	ACD04310.1	-	Amuc_0472	Amuc_0472	-	GTPase EngC
+561940..562911	+	971	ACD04311.1	-	Amuc_0473	Amuc_0473	-	hypothetical protein
+562895..564181	-	1286	ACD04312.1	-	Amuc_0474	Amuc_0474	-	Three-deoxy-D-manno-octulosonic-acid transferase
+564183..564758	-	575	ACD04313.1	-	Amuc_0475	Amuc_0475	-	methyltransferase
+564795..565709	-	914	ACD04314.1	-	Amuc_0476	Amuc_0476	-	hypothetical protein
+565789..566073	+	284	ACD04315.1	-	Amuc_0477	Amuc_0477	-	hypothetical protein
+566178..567104	-	926	ACD04316.1	-	Amuc_0478	Amuc_0478	-	protein of unknown function DUF344
+567156..568616	-	1460	ACD04317.1	-	Amuc_0479	Amuc_0479	-	hypothetical protein
+568821..571205	-	2384	ACD04318.1	-	Amuc_0480	Amuc_0480	-	Glycosyl hydrolase family 98 putative
+571230..571697	+	467	ACD04319.1	-	Amuc_0481	Amuc_0481	-	hypothetical protein
+571694..572512	+	818	ACD04320.1	-	Amuc_0482	Amuc_0482	-	hydrolase of the alpha/beta superfamily
+572521..572970	-	449	ACD04321.1	-	Amuc_0483	Amuc_0483	-	protein of unknown function UPF0079
+573059..573376	+	317	ACD04322.1	-	Amuc_0484	Amuc_0484	-	ribosomal protein L21
+573403..573666	+	263	ACD04323.1	-	Amuc_0485	Amuc_0485	-	ribosomal protein L27
+573822..574262	+	440	ACD04324.1	-	Amuc_0486	Amuc_0486	-	ferric uptake regulator, Fur family
+574278..575036	+	758	ACD04325.1	-	Amuc_0487	Amuc_0487	-	FeS assembly ATPase SufC
+575060..576496	+	1436	ACD04326.1	-	Amuc_0488	Amuc_0488	-	FeS assembly protein SufB
+576508..577761	+	1253	ACD04327.1	-	Amuc_0489	Amuc_0489	-	SufBD protein
+577803..580061	-	2258	ACD04328.1	-	Amuc_0490	Amuc_0490	-	hypothetical protein
+580886..582388	+	1502	ACD04329.1	-	Amuc_0491	Amuc_0491	-	sulfatase
+582473..583438	+	965	ACD04330.1	-	Amuc_0492	Amuc_0492	-	biotin synthase
+583467..584816	+	1349	ACD04331.1	-	Amuc_0493	Amuc_0493	-	adenosylmethionine-8-amino-7-oxononanoate
+585230..585805	+	575	ACD04332.1	-	Amuc_0494	Amuc_0494	-	conserved hypothetical protein
+585836..586966	+	1130	ACD04333.1	-	Amuc_0495	Amuc_0495	-	hypothetical protein
+587034..588830	-	1796	ACD04334.1	-	Amuc_0496	Amuc_0496	-	hypothetical protein
+588959..589303	-	344	ACD04335.1	-	Amuc_0497	Amuc_0497	-	conserved hypothetical protein
+589296..589634	-	338	ACD04336.1	-	Amuc_0498	Amuc_0498	-	conserved hypothetical protein
+589661..590599	-	938	ACD04337.1	-	Amuc_0499	Amuc_0499	-	glycosyl transferase family 2
+590596..591096	-	500	ACD04338.1	-	Amuc_0500	Amuc_0500	-	GCN5-related N-acetyltransferase
+591093..592232	-	1139	ACD04339.1	-	Amuc_0501	Amuc_0501	-	TDP-4-keto-6-deoxy-D-glucose transaminase
+592354..593475	-	1121	ACD04340.1	-	Amuc_0502	Amuc_0502	-	putative transmembrane protein
+593652..594164	+	512	ACD04341.1	-	Amuc_0503	Amuc_0503	-	hypothetical protein
+594247..594810	-	563	ACD04342.1	-	Amuc_0504	Amuc_0504	-	hypothetical protein
+594807..595229	-	422	ACD04343.1	-	Amuc_0505	Amuc_0505	-	ATP synthase F1, epsilon subunit
+595253..596674	-	1421	ACD04344.1	-	Amuc_0506	Amuc_0506	-	ATP synthase F1, beta subunit
+596749..597621	-	872	ACD04345.1	-	Amuc_0507	Amuc_0507	-	ATP synthase F1, gamma subunit
+597643..599175	-	1532	ACD04346.1	-	Amuc_0508	Amuc_0508	-	ATP synthase F1, alpha subunit
+599192..599599	-	407	ACD04347.1	-	Amuc_0509	Amuc_0509	-	F0F1-type ATP synthase delta subunit-like
+599607..600134	-	527	ACD04348.1	-	Amuc_0510	Amuc_0510	-	H+transporting two-sector ATPase B/B' subunit
+600237..600500	-	263	ACD04349.1	-	Amuc_0511	Amuc_0511	-	H+transporting two-sector ATPase C subunit
+600541..601479	-	938	ACD04350.1	-	Amuc_0512	Amuc_0512	-	ATP synthase F0, A subunit
+601745..603946	-	2201	ACD04351.1	-	Amuc_0513	Amuc_0513	-	hypothetical protein
+604239..606707	-	2468	ACD04352.1	-	Amuc_0514	Amuc_0514	-	Peptidoglycan glycosyltransferase
+606767..607396	-	629	ACD04353.1	-	Amuc_0515	Amuc_0515	-	ErfK/YbiS/YcfS/YnhG family protein
+607527..608639	+	1112	ACD04354.1	-	Amuc_0516	Amuc_0516	-	conserved hypothetical protein
+608887..610914	+	2027	ACD04355.1	-	Amuc_0517	Amuc_0517	-	raffinose synthase
+610954..611874	+	920	ACD04356.1	-	Amuc_0518	Amuc_0518	-	hypothetical protein
+611933..612808	-	875	ACD04357.1	-	Amuc_0519	Amuc_0519	-	Esterase/lipase-like protein
+612874..613806	+	932	ACD04358.1	-	Amuc_0520	Amuc_0520	-	hypothetical protein
+613855..614403	+	548	ACD04359.1	-	Amuc_0521	Amuc_0521	-	conserved hypothetical protein
+614418..615197	+	779	ACD04360.1	-	Amuc_0522	Amuc_0522	-	UBA/THIF-type NAD/FAD binding protein
+615234..616205	+	971	ACD04361.1	-	Amuc_0523	Amuc_0523	-	KpsF/GutQ family protein
+616320..617105	+	785	ACD04362.1	-	Amuc_0524	Amuc_0524	-	hypothetical protein
+617112..618290	+	1178	ACD04363.1	-	Amuc_0525	Amuc_0525	-	cycloartenol synthase-like protein
+618416..618880	+	464	ACD04364.1	-	Amuc_0526	Amuc_0526	-	DoxX family protein
+618953..619819	+	866	ACD04365.1	-	Amuc_0527	Amuc_0527	-	Serine O-acetyltransferase
+620029..621318	-	1289	ACD04366.1	-	Amuc_0528	Amuc_0528	-	gamma-glutamyl phosphate reductase
+621296..622081	-	785	ACD04367.1	-	Amuc_0529	Amuc_0529	-	glutamate 5-kinase
+622491..624524	+	2033	ACD04368.1	-	Amuc_0530	Amuc_0530	-	transketolase
+625016..626863	-	1847	ACD04369.1	-	Amuc_0531	Amuc_0531	-	GreA/GreB family elongation factor
+627107..627817	+	710	ACD04370.1	-	Amuc_0532	Amuc_0532	-	phosphoribosylaminoimidazole-succinocarboxamide
+627835..628338	+	503	ACD04371.1	-	Amuc_0533	Amuc_0533	-	hypothetical protein
+628360..630762	+	2402	ACD04372.1	-	Amuc_0534	Amuc_0534	-	phosphoribosylformylglycinamidine synthase II
+630811..631518	+	707	ACD04373.1	-	Amuc_0535	Amuc_0535	-	Phosphoribosylformylglycinamidine synthase
+631559..632338	+	779	ACD04374.1	-	Amuc_0536	Amuc_0536	-	hypothetical protein
+632466..633545	+	1079	ACD04375.1	-	Amuc_0537	Amuc_0537	-	peptidase M42 family protein
+633838..634311	-	473	ACD04376.1	-	Amuc_0538	Amuc_0538	-	hypothetical protein
+634325..637066	-	2741	ACD04377.1	-	Amuc_0539	Amuc_0539	-	glycoside hydrolase family 2 sugar binding
+637337..638368	+	1031	ACD04378.1	-	Amuc_0540	Amuc_0540	-	cell shape determining protein, MreB/Mrl family
+638613..640160	+	1547	ACD04379.1	-	Amuc_0541	Amuc_0541	-	ribonuclease, Rne/Rng family
+640225..641346	+	1121	ACD04380.1	-	Amuc_0542	Amuc_0542	-	hypothetical protein
+641820..642842	-	1022	ACD04381.1	-	Amuc_0543	Amuc_0543	-	hypothetical protein
+642890..646123	-	3233	ACD04382.1	-	Amuc_0544	Amuc_0544	-	Tetratricopeptide TPR_2 repeat protein
+646473..647093	-	620	ACD04383.1	-	Amuc_0545	Amuc_0545	-	hypothetical protein
+647272..647730	-	458	ACD04384.1	-	Amuc_0546	Amuc_0546	-	Biopolymer transport protein ExbD/TolR
+647742..648248	-	506	ACD04385.1	-	Amuc_0547	Amuc_0547	-	hypothetical protein
+648327..649118	-	791	ACD04386.1	-	Amuc_0548	Amuc_0548	-	MotA/TolQ/ExbB proton channel
+649211..649849	-	638	ACD04387.1	-	Amuc_0549	Amuc_0549	-	endonuclease III
+649937..650608	-	671	ACD04388.1	-	Amuc_0550	Amuc_0550	-	3D domain protein
+651511..652485	+	974	ACD04389.1	-	Amuc_0551	Amuc_0551	-	phage SPO1 DNA polymerase-related protein
+652489..653274	+	785	ACD04390.1	-	Amuc_0552	Amuc_0552	-	Indole-3-glycerol-phosphate synthase
+653427..653783	-	356	ACD04391.1	-	Amuc_0553	Amuc_0553	-	protein of unknown function UPF0102
+653806..654450	-	644	ACD04392.1	-	Amuc_0554	Amuc_0554	-	Ribonuclease H
+654455..655786	-	1331	ACD04393.1	-	Amuc_0555	Amuc_0555	-	protein of unknown function DUF21
+655926..656186	-	260	ACD04394.1	-	Amuc_0556	Amuc_0556	-	regulatory protein, FmdB family
+656259..656528	-	269	ACD04395.1	-	Amuc_0557	Amuc_0557	-	ribosomal protein S14
+656940..657164	+	224	ACD04396.1	-	Amuc_0558	Amuc_0558	-	hypothetical protein
+657464..658756	+	1292	ACD04397.1	-	Amuc_0559	Amuc_0559	-	Argininosuccinate synthase
+660401..661639	+	1238	ACD04398.1	-	Amuc_0561	Amuc_0561	-	sun protein
+661692..662456	+	764	ACD04399.1	-	Amuc_0562	Amuc_0562	-	Triose-phosphate isomerase
+662604..663287	+	683	ACD04400.1	-	Amuc_0563	Amuc_0563	-	hypothetical protein
+663418..664029	+	611	ACD04401.1	-	Amuc_0564	Amuc_0564	-	hypothetical protein
+664189..665817	+	1628	ACD04402.1	-	Amuc_0565	Amuc_0565	-	sulfatase
+665894..666010	-	116	ACD04403.1	-	Amuc_0566	Amuc_0566	-	hypothetical protein
+666399..667289	+	890	ACD04404.1	-	Amuc_0567	Amuc_0567	-	hypothetical protein
+667693..668124	-	431	ACD04405.1	-	Amuc_0568	Amuc_0568	-	thioesterase superfamily protein
+668164..668913	-	749	ACD04406.1	-	Amuc_0569	Amuc_0569	-	competence protein F, putative
+668945..669247	-	302	ACD04407.1	-	Amuc_0570	Amuc_0570	-	hypothetical protein
+669333..670142	+	809	ACD04408.1	-	Amuc_0571	Amuc_0571	-	MazG family protein
+670155..670484	-	329	ACD04409.1	-	Amuc_0572	Amuc_0572	-	hypothetical protein
+670610..671668	+	1058	ACD04410.1	-	Amuc_0573	Amuc_0573	-	3'-5' exonuclease
+672244..672963	+	719	ACD04411.1	-	Amuc_0574	Amuc_0574	-	protein of unknown function DUF164
+672995..674200	+	1205	ACD04412.1	-	Amuc_0575	Amuc_0575	-	tetraacyldisaccharide 4'-kinase
+674410..678738	+	4328	ACD04413.1	-	Amuc_0576	Amuc_0576	-	peptidase M16 domain protein
+678865..679398	+	533	ACD04414.1	-	Amuc_0577	Amuc_0577	-	hypothetical protein
+679432..680934	+	1502	ACD04415.1	-	Amuc_0578	Amuc_0578	-	band 7 protein
+681473..681619	+	146	ACD04416.1	-	Amuc_0579	Amuc_0579	-	Entericidin EcnAB
+681889..682032	-	143	ACD04417.1	-	Amuc_0580	Amuc_0580	-	Entericidin EcnAB
+682234..683115	+	881	ACD04418.1	-	Amuc_0581	Amuc_0581	-	diaminopimelate dehydrogenase
+683210..683944	-	734	ACD04419.1	-	Amuc_0582	Amuc_0582	-	protein of unknown function DUF949
+684180..684749	+	569	ACD04420.1	-	Amuc_0583	Amuc_0583	-	conserved hypothetical protein
+684889..691797	-	6908	ACD04421.1	-	Amuc_0584	Amuc_0584	-	outer membrane autotransporter barrel domain
+692337..693953	+	1616	ACD04422.1	-	Amuc_0585	Amuc_0585	-	Pyridoxal-5'-phosphate-dependent protein beta
+694020..694589	+	569	ACD04423.1	-	Amuc_0586	Amuc_0586	-	maf protein
+694693..696006	-	1313	ACD04424.1	-	Amuc_0587	Amuc_0587	-	GTP-binding proten HflX
+696016..696147	-	131	ACD04425.1	-	Amuc_0588	Amuc_0588	-	hypothetical protein
+696356..698938	-	2582	ACD04426.1	-	Amuc_0589	Amuc_0589	-	serine/threonine protein kinase
+699073..700455	-	1382	ACD04427.1	-	Amuc_0590	Amuc_0590	-	conserved hypothetical protein
+700656..701519	+	863	ACD04428.1	-	Amuc_0591	Amuc_0591	-	Abortive infection protein
+701509..702405	+	896	ACD04429.1	-	Amuc_0592	Amuc_0592	-	thiamine-monophosphate kinase
+702450..704291	-	1841	ACD04430.1	-	Amuc_0593	Amuc_0593	-	phospholipid/glycerol acyltransferase
+704430..705071	+	641	ACD04431.1	-	Amuc_0594	Amuc_0594	-	cytidylate kinase
+705068..705679	+	611	ACD04432.1	-	Amuc_0595	Amuc_0595	-	phospholipid/glycerol acyltransferase
+705696..706751	+	1055	ACD04433.1	-	Amuc_0596	Amuc_0596	-	DNA replication and repair protein RecF
+706806..707312	-	506	ACD04434.1	-	Amuc_0597	Amuc_0597	-	conserved hypothetical protein
+707473..708168	+	695	ACD04435.1	-	Amuc_0598	Amuc_0598	-	Ribonuclease III
+708312..709643	+	1331	ACD04436.1	-	Amuc_0599	Amuc_0599	-	hypothetical protein
+709686..710834	-	1148	ACD04437.1	-	Amuc_0600	Amuc_0600	-	integrase family protein
+711255..711890	+	635	ACD04438.1	-	Amuc_0601	Amuc_0601	-	hypothetical protein
+711903..713060	+	1157	ACD04439.1	-	Amuc_0602	Amuc_0602	-	hypothetical protein
+713060..713602	+	542	ACD04440.1	-	Amuc_0603	Amuc_0603	-	hypothetical protein
+713583..713972	+	389	ACD04441.1	-	Amuc_0604	Amuc_0604	-	hypothetical protein
+714135..715076	+	941	ACD04442.1	-	Amuc_0605	Amuc_0605	-	UvrB/UvrC protein
+715155..715457	-	302	ACD04443.1	-	Amuc_0606	Amuc_0606	-	hypothetical protein
+715723..716484	+	761	ACD04444.1	-	Amuc_0607	Amuc_0607	-	Endonuclease/exonuclease/phosphatase
+716503..717204	-	701	ACD04445.1	-	Amuc_0608	Amuc_0608	-	Uroporphyrin-III C/tetrapyrrole     
+717234..717749	-	515	ACD04446.1	-	Amuc_0609	Amuc_0609	-	hypothetical protein
+717768..718718	-	950	ACD04447.1	-	Amuc_0610	Amuc_0610	-	Tetratricopeptide TPR_2 repeat protein
+718782..719273	-	491	ACD04448.1	-	Amuc_0611	Amuc_0611	-	Phosphoribosyl-AMP cyclohydrolase
+719360..720328	+	968	ACD04449.1	-	Amuc_0612	Amuc_0612	-	DNA polymerase III delta' subunit
+720390..720905	-	515	ACD04450.1	-	Amuc_0613	Amuc_0613	-	Uracil-DNA glycosylase superfamily
+720918..721724	-	806	ACD04451.1	-	Amuc_0614	Amuc_0614	-	hypothetical protein
+721979..725173	+	3194	ACD04452.1	-	Amuc_0615	Amuc_0615	-	carbamoyl-phosphate synthase, large subunit
+725315..726094	-	779	ACD04453.1	-	Amuc_0616	Amuc_0616	-	protein serine/threonine phosphatase
+726218..726823	+	605	ACD04454.1	-	Amuc_0617	Amuc_0617	-	hypothetical protein
+726875..727624	-	749	ACD04455.1	-	Amuc_0618	Amuc_0618	-	Methyltransferase type 11
+727624..727788	-	164	ACD04456.1	-	Amuc_0619	Amuc_0619	-	hypothetical protein
+727943..729877	+	1934	ACD04457.1	-	Amuc_0620	Amuc_0620	-	NAD+ synthetase
+729945..730280	-	335	ACD04458.1	-	Amuc_0621	Amuc_0621	-	small multidrug resistance protein
+730593..731306	+	713	ACD04459.1	-	Amuc_0622	Amuc_0622	-	hypothetical protein
+731325..732635	+	1310	ACD04460.1	-	Amuc_0623	Amuc_0623	-	glycosyl hydrolase BNR repeat-containing
+732651..733838	+	1187	ACD04461.1	-	Amuc_0624	Amuc_0624	-	regulatory protein GntR HTH
+733948..735207	-	1259	ACD04462.1	-	Amuc_0625	Amuc_0625	-	Exo-alpha-sialidase
+735210..735500	+	290	ACD04463.1	-	Amuc_0626	Amuc_0626	-	hypothetical protein
+735567..737087	+	1520	ACD04464.1	-	Amuc_0627	Amuc_0627	-	conserved hypothetical protein
+737728..738453	+	725	ACD04465.1	-	Amuc_0628	Amuc_0628	-	hypothetical protein
+739340..740359	+	1019	ACD04466.1	-	Amuc_0629	Amuc_0629	-	Holliday junction DNA helicase RuvB
+740481..741500	+	1019	ACD04467.1	-	Amuc_0630	Amuc_0630	-	3-oxoacyl-(acyl-carrier-protein) synthase III
+741529..742659	+	1130	ACD04468.1	-	Amuc_0631	Amuc_0631	-	FAD-binding domain protein
+742967..744031	-	1064	ACD04469.1	-	Amuc_0632	Amuc_0632	-	glycosyl transferase family 2
+744587..745624	+	1037	ACD04470.1	-	Amuc_0633	Amuc_0633	-	glycosyl transferase family 2
+745621..746568	+	947	ACD04471.1	-	Amuc_0634	Amuc_0634	-	glycosyl transferase family 8
+746797..748044	+	1247	ACD04472.1	-	Amuc_0635	Amuc_0635	-	hypothetical protein
+748098..749660	-	1562	ACD04473.1	-	Amuc_0636	Amuc_0636	-	putative flippase
+750079..751239	+	1160	ACD04474.1	-	Amuc_0637	Amuc_0637	-	glycosyl transferase group 1
+751262..752407	+	1145	ACD04475.1	-	Amuc_0638	Amuc_0638	-	glycosyl transferase group 1
+752407..753024	+	617	ACD04476.1	-	Amuc_0639	Amuc_0639	-	transferase hexapeptide repeat containing
+753071..754174	+	1103	ACD04477.1	-	Amuc_0640	Amuc_0640	-	hypothetical protein
+754155..754895	+	740	ACD04478.1	-	Amuc_0641	Amuc_0641	-	hypothetical protein
+754979..755863	+	884	ACD04479.1	-	Amuc_0642	Amuc_0642	-	tRNA delta(2)-isopentenylpyrophosphate
+755860..757449	-	1589	ACD04480.1	-	Amuc_0643	Amuc_0643	-	hypothetical protein
+757836..758909	+	1073	ACD04481.1	-	Amuc_0644	Amuc_0644	-	tRNA                                                   
+758906..760255	+	1349	ACD04482.1	-	Amuc_0645	Amuc_0645	-	tRNA modification GTPase TrmE
+760401..761258	+	857	ACD04483.1	-	Amuc_0646	Amuc_0646	-	hypothetical protein
+761284..761937	-	653	ACD04484.1	-	Amuc_0647	Amuc_0647	-	protein of unknown function UPF0126
+761966..762745	-	779	ACD04485.1	-	Amuc_0648	Amuc_0648	-	beta-lactamase domain protein
+762902..763357	+	455	ACD04486.1	-	Amuc_0649	Amuc_0649	-	MraZ protein
+763367..764929	+	1562	ACD04487.1	-	Amuc_0650	Amuc_0650	-	S-adenosyl-methyltransferase MraW
+764952..765296	+	344	ACD04488.1	-	Amuc_0651	Amuc_0651	-	hypothetical protein
+765313..767412	+	2099	ACD04489.1	-	Amuc_0652	Amuc_0652	-	Peptidoglycan glycosyltransferase
+767420..768925	+	1505	ACD04490.1	-	Amuc_0653	Amuc_0653	-	UDP-N-acetylmuramyl-tripeptide synthetase
+768948..770321	+	1373	ACD04491.1	-	Amuc_0654	Amuc_0654	-	UDP-N-acetylmuramoylalanyl-D-glutamyl-2,  
+770327..771430	+	1103	ACD04492.1	-	Amuc_0655	Amuc_0655	-	phospho-N-acetylmuramoyl-pentapeptide-
+771443..772753	+	1310	ACD04493.1	-	Amuc_0656	Amuc_0656	-	UDP-N-acetylmuramoylalanine/D-glutamate ligase
+772777..773577	+	800	ACD04494.1	-	Amuc_0657	Amuc_0657	-	Peptidoglycan-binding LysM
+773602..774744	+	1142	ACD04495.1	-	Amuc_0658	Amuc_0658	-	cell cycle protein
+774741..775865	+	1124	ACD04496.1	-	Amuc_0659	Amuc_0659	-	UDP-N-acetylglucosamine--N-acetylmuramyl- 
+775858..778155	+	2297	ACD04497.1	-	Amuc_0660	Amuc_0660	-	UDP-N-acetylmuramate/alanine ligase
+778178..779113	+	935	ACD04498.1	-	Amuc_0661	Amuc_0661	-	D-alanine/D-alanine ligase
+779212..780111	+	899	ACD04499.1	-	Amuc_0662	Amuc_0662	-	Polypeptide-transport-associated domain protein
+780338..781378	+	1040	ACD04500.1	-	Amuc_0663	Amuc_0663	-	recA protein
+781538..782557	+	1019	ACD04501.1	-	Amuc_0664	Amuc_0664	-	cell wall hydrolase/autolysin
+782593..783231	+	638	ACD04502.1	-	Amuc_0665	Amuc_0665	-	lipoate-protein ligase B
+783434..784846	+	1412	ACD04503.1	-	Amuc_0666	Amuc_0666	-	3-isopropylmalate dehydratase, large subunit
+784866..785474	+	608	ACD04504.1	-	Amuc_0667	Amuc_0667	-	3-isopropylmalate dehydratase, small subunit
+785519..786640	+	1121	ACD04505.1	-	Amuc_0668	Amuc_0668	-	hypothetical protein
+786682..788256	+	1574	ACD04506.1	-	Amuc_0669	Amuc_0669	-	2-alkenal reductase
+788262..789842	+	1580	ACD04507.1	-	Amuc_0670	Amuc_0670	-	Trypsin-like protein serine protease typically        
+789880..791043	+	1163	ACD04508.1	-	Amuc_0671	Amuc_0671	-	3-dehydroquinate synthase
+791573..792358	-	785	ACD04509.1	-	Amuc_0672	Amuc_0672	-	ABC transporter related
+792892..793770	-	878	ACD04510.1	-	Amuc_0673	Amuc_0673	-	translation elongation factor Ts
+793800..794495	-	695	ACD04511.1	-	Amuc_0674	Amuc_0674	-	ribosomal protein S2
+794734..795453	-	719	ACD04512.1	-	Amuc_0675	Amuc_0675	-	hypothetical protein
+795777..796592	+	815	ACD04513.1	-	Amuc_0676	Amuc_0676	-	2-dehydro-3-deoxyphosphooctonate aldolase
+796589..797068	+	479	ACD04514.1	-	Amuc_0677	Amuc_0677	-	hypothetical protein
+797081..798040	+	959	ACD04515.1	-	Amuc_0678	Amuc_0678	-	hypothetical protein
+798037..798783	+	746	ACD04516.1	-	Amuc_0679	Amuc_0679	-	ABC transporter related
+798804..799688	+	884	ACD04517.1	-	Amuc_0680	Amuc_0680	-	conserved hypothetical protein
+799714..801096	+	1382	ACD04518.1	-	Amuc_0681	Amuc_0681	-	UDP-N-acetylmuramate
+801121..802440	+	1319	ACD04519.1	-	Amuc_0682	Amuc_0682	-	OmpA/MotB domain protein
+802523..804532	+	2009	ACD04520.1	-	Amuc_0683	Amuc_0683	-	UvrD/REP helicase
+804969..805334	-	365	ACD04521.1	-	Amuc_0684	Amuc_0684	-	transcriptional regulator, HxlR family
+805480..805983	+	503	ACD04522.1	-	Amuc_0685	Amuc_0685	-	Conserved protein/domain typically associated            
+806102..808633	+	2531	ACD04523.1	-	Amuc_0686	Amuc_0686	-	ABC transporter related
+809148..812282	+	3134	ACD04524.1	-	Amuc_0687	Amuc_0687	-	outer membrane autotransporter barrel domain
+812610..813350	+	740	ACD04525.1	-	Amuc_0688	Amuc_0688	-	hypothetical protein
+813515..814885	-	1370	ACD04526.1	-	Amuc_0689	Amuc_0689	-	asparaginyl-tRNA synthetase
+814991..816271	-	1280	ACD04527.1	-	Amuc_0690	Amuc_0690	-	hypothetical protein
+816498..816815	-	317	ACD04528.1	-	Amuc_0691	Amuc_0691	-	thioredoxin
+816854..817192	-	338	ACD04529.1	-	Amuc_0692	Amuc_0692	-	hypothetical protein
+817720..818400	+	680	ACD04530.1	-	Amuc_0693	Amuc_0693	-	conserved hypothetical protein
+818416..819600	+	1184	ACD04531.1	-	Amuc_0694	Amuc_0694	-	hypothetical protein
+819620..820846	+	1226	ACD04532.1	-	Amuc_0695	Amuc_0695	-	conserved hypothetical protein-signal peptide
+820850..822103	+	1253	ACD04533.1	-	Amuc_0696	Amuc_0696	-	conserved hypothetical protein-signal peptide
+822100..823245	+	1145	ACD04534.1	-	Amuc_0697	Amuc_0697	-	beta-glucanase precursor
+823266..824375	+	1109	ACD04535.1	-	Amuc_0698	Amuc_0698	-	beta-glucanase precursor
+824365..824868	+	503	ACD04536.1	-	Amuc_0699	Amuc_0699	-	hypothetical protein
+824865..825284	-	419	ACD04537.1	-	Amuc_0700	Amuc_0700	-	hypothetical protein
+825435..826358	+	923	ACD04538.1	-	Amuc_0701	Amuc_0701	-	transcriptional regulator, LysR family
+826477..827499	+	1022	ACD04539.1	-	Amuc_0702	Amuc_0702	-	conserved hypothetical protein
+827881..828954	+	1073	ACD04540.1	-	Amuc_0703	Amuc_0703	-	Alanine--glyoxylate transaminase
+829284..830537	+	1253	ACD04541.1	-	Amuc_0704	Amuc_0704	-	conserved hypothetical protein
+830557..832128	+	1571	ACD04542.1	-	Amuc_0705	Amuc_0705	-	D-isomer specific 2-hydroxyacid dehydrogenase
+832273..833322	+	1049	ACD04543.1	-	Amuc_0706	Amuc_0706	-	hypothetical protein
+833429..834112	+	683	ACD04544.1	-	Amuc_0707	Amuc_0707	-	Radical SAM domain protein
+834204..836183	-	1979	ACD04545.1	-	Amuc_0708	Amuc_0708	-	transcription termination factor Rho
+836235..836990	-	755	ACD04546.1	-	Amuc_0709	Amuc_0709	-	protein of unknown function DUF28
+837527..838957	+	1430	ACD04547.1	-	Amuc_0710	Amuc_0710	-	cation diffusion facilitator family transporter
+839064..840809	-	1745	ACD04548.1	-	Amuc_0711	Amuc_0711	-	sodium/hydrogen exchanger
+841327..842001	+	674	ACD04549.1	-	Amuc_0712	Amuc_0712	-	hypothetical protein
+842050..843039	-	989	ACD04550.1	-	Amuc_0713	Amuc_0713	-	S-adenosylmethionine/tRNA-ribosyltransferase-
+843134..844183	+	1049	ACD04551.1	-	Amuc_0714	Amuc_0714	-	protein of unknown function DUF1432
+844238..844879	+	641	ACD04552.1	-	Amuc_0715	Amuc_0715	-	hypothetical protein
+844986..845768	+	782	ACD04553.1	-	Amuc_0716	Amuc_0716	-	thiazole biosynthesis family protein
+845810..847114	-	1304	ACD04554.1	-	Amuc_0717	Amuc_0717	-	amino acid permease-associated region
+847267..847932	+	665	ACD04555.1	-	Amuc_0718	Amuc_0718	-	HAD-superfamily hydrolase, subfamily IA, variant
+847992..849104	+	1112	ACD04556.1	-	Amuc_0719	Amuc_0719	-	protein of unknown function UPF0118
+849108..850397	+	1289	ACD04557.1	-	Amuc_0720	Amuc_0720	-	diaminopimelate decarboxylase
+850692..851723	+	1031	ACD04558.1	-	Amuc_0721	Amuc_0721	-	fructose-bisphosphate aldolase, class II
+852109..853944	-	1835	ACD04559.1	-	Amuc_0722	Amuc_0722	-	GTP-binding protein TypA
+854152..855018	+	866	ACD04560.1	-	Amuc_0723	Amuc_0723	-	branched-chain amino acid aminotransferase
+855308..856180	-	872	ACD04561.1	-	Amuc_0724	Amuc_0724	-	Glucan endo-1,3-beta-D-glucosidase
+856366..856914	+	548	ACD04562.1	-	Amuc_0725	Amuc_0725	-	methylated-DNA/protein-cysteine
+856939..857535	-	596	ACD04563.1	-	Amuc_0726	Amuc_0726	-	FHA domain containing protein
+857843..857962	+	119	ACD04564.1	-	Amuc_0727	Amuc_0727	-	hypothetical protein
+858403..859473	+	1070	ACD04565.1	-	Amuc_0728	Amuc_0728	-	GTP-binding protein Obg/CgtA
+859506..860663	+	1157	ACD04566.1	-	Amuc_0729	Amuc_0729	-	aminoglycoside phosphotransferase
+860791..861816	+	1025	ACD04567.1	-	Amuc_0730	Amuc_0730	-	conserved hypothetical protein
+861865..862905	-	1040	ACD04568.1	-	Amuc_0731	Amuc_0731	-	hypothetical protein
+863213..863869	-	656	ACD04569.1	-	Amuc_0732	Amuc_0732	-	hypothetical protein
+864887..865402	-	515	ACD04570.1	-	Amuc_0734	Amuc_0734	-	hypothetical protein
+865444..871260	-	5816	ACD04571.1	-	Amuc_0735	Amuc_0735	-	YD repeat protein
+871714..872208	-	494	ACD04572.1	-	Amuc_0736	Amuc_0736	-	protein tyrosine phosphatase
+872397..873848	+	1451	ACD04573.1	-	Amuc_0737	Amuc_0737	-	inosine-5'-monophosphate dehydrogenase
+873861..875384	+	1523	ACD04574.1	-	Amuc_0738	Amuc_0738	-	GMP synthase, large subunit
+875469..876071	+	602	ACD04575.1	-	Amuc_0739	Amuc_0739	-	transferase hexapeptide repeat containing
+876068..876706	+	638	ACD04576.1	-	Amuc_0740	Amuc_0740	-	Haloacid dehalogenase domain protein hydrolase
+876739..877494	+	755	ACD04577.1	-	Amuc_0741	Amuc_0741	-	protein of unknown function DUF88
+877519..878505	+	986	ACD04578.1	-	Amuc_0742	Amuc_0742	-	Auxin Efflux Carrier
+878705..879238	+	533	ACD04579.1	-	Amuc_0743	Amuc_0743	-	hypothetical protein
+879379..880446	-	1067	ACD04580.1	-	Amuc_0744	Amuc_0744	-	phospho-2-dehydro-3-deoxyheptonate aldolase
+880605..881246	-	641	ACD04581.1	-	Amuc_0745	Amuc_0745	-	hypothetical protein
+881408..881887	-	479	ACD04582.1	-	Amuc_0746	Amuc_0746	-	preprotein translocase, SecG subunit
+881929..882267	-	338	ACD04583.1	-	Amuc_0747	Amuc_0747	-	aspartate decarboxylase
+882341..883276	-	935	ACD04584.1	-	Amuc_0748	Amuc_0748	-	riboflavin biosynthesis protein RibF
+883280..884014	-	734	ACD04585.1	-	Amuc_0749	Amuc_0749	-	tRNA pseudouridine synthase B
+884011..885024	-	1013	ACD04586.1	-	Amuc_0750	Amuc_0750	-	phosphoesterase RecJ domain protein
+885112..885330	-	218	ACD04587.1	-	Amuc_0751	Amuc_0751	-	hypothetical protein
+885471..886322	+	851	ACD04588.1	-	Amuc_0752	Amuc_0752	-	metallophosphoesterase
+886436..887422	-	986	ACD04589.1	-	Amuc_0753	Amuc_0753	-	glycosyl transferase family 8
+887433..888458	-	1025	ACD04590.1	-	Amuc_0754	Amuc_0754	-	glycosyl transferase family 2
+888455..889429	-	974	ACD04591.1	-	Amuc_0755	Amuc_0755	-	glycosyl transferase family 9
+889451..890437	-	986	ACD04592.1	-	Amuc_0756	Amuc_0756	-	ADP-L-glycero-D-manno-heptose-6-epimerase
+890740..891894	+	1154	ACD04593.1	-	Amuc_0757	Amuc_0757	-	glycosyl transferase family 2
+891922..892728	+	806	ACD04594.1	-	Amuc_0758	Amuc_0758	-	hypothetical protein
+893181..894455	+	1274	ACD04595.1	-	Amuc_0759	Amuc_0759	-	glycosyl transferase group 1
+894576..895574	+	998	ACD04596.1	-	Amuc_0760	Amuc_0760	-	hypothetical protein
+895656..897728	+	2072	ACD04597.1	-	Amuc_0761	Amuc_0761	-	acyltransferase 3
+897888..898919	+	1031	ACD04598.1	-	Amuc_0762	Amuc_0762	-	conserved hypothetical protein
+898879..899091	-	212	ACD04599.1	-	Amuc_0763	Amuc_0763	-	hypothetical protein
+899091..899183	-	92	ACD04600.1	-	Amuc_0764	Amuc_0764	-	hypothetical protein
+899652..901517	-	1865	ACD04601.1	-	Amuc_0766	Amuc_0766	-	Citrate transporter
+902001..902486	-	485	ACD04602.1	-	Amuc_0767	Amuc_0767	-	conserved hypothetical protein
+902506..903042	-	536	ACD04603.1	-	Amuc_0768	Amuc_0768	-	ferripyochelin binding protein (fbp)
+903163..905391	-	2228	ACD04604.1	-	Amuc_0769	Amuc_0769	-	hypothetical protein
+905682..906335	+	653	ACD04605.1	-	Amuc_0770	Amuc_0770	-	nitroreductase
+906706..908637	-	1931	ACD04606.1	-	Amuc_0771	Amuc_0771	-	Beta-galactosidase
+908842..910647	+	1805	ACD04607.1	-	Amuc_0772	Amuc_0772	-	phosphoglycerate mutase 1 family
+910779..911927	+	1148	ACD04608.1	-	Amuc_0773	Amuc_0773	-	acyltransferase 3
+911990..913399	+	1409	ACD04609.1	-	Amuc_0774	Amuc_0774	-	major facilitator superfamily MFS_1
+913422..913889	-	467	ACD04610.1	-	Amuc_0775	Amuc_0775	-	thioesterase superfamily protein
+914942..915841	+	899	ACD04611.1	-	Amuc_0777	Amuc_0777	-	short-chain dehydrogenase/reductase SDR
+916014..917036	+	1022	ACD04612.1	-	Amuc_0778	Amuc_0778	-	hypothetical protein
+917128..917637	-	509	ACD04613.1	-	Amuc_0779	Amuc_0779	-	nuclease (SNase domain protein)
+917723..917941	+	218	ACD04614.1	-	Amuc_0780	Amuc_0780	-	hypothetical protein
+918013..918207	-	194	ACD04615.1	-	Amuc_0781	Amuc_0781	-	hypothetical protein
+918224..918739	-	515	ACD04616.1	-	Amuc_0782	Amuc_0782	-	ParB domain protein nuclease
+918736..920031	-	1295	ACD04617.1	-	Amuc_0783	Amuc_0783	-	phosphoadenosine phosphosulfate reductase
+920028..920237	-	209	ACD04618.1	-	Amuc_0784	Amuc_0784	-	hypothetical protein
+921168..922277	+	1109	ACD04619.1	-	Amuc_0785	Amuc_0785	-	3-isopropylmalate dehydrogenase
+922410..923450	+	1040	ACD04620.1	-	Amuc_0786	Amuc_0786	-	FAD dependent oxidoreductase
+923535..924410	+	875	ACD04621.1	-	Amuc_0787	Amuc_0787	-	Rhomboid family protein
+924484..926019	+	1535	ACD04622.1	-	Amuc_0788	Amuc_0788	-	Mg chelatase, subunit ChlI
+926132..926785	-	653	ACD04623.1	-	Amuc_0789	Amuc_0789	-	hypothetical protein
+927172..928473	-	1301	ACD04624.1	-	Amuc_0790	Amuc_0790	-	O-acetylhomoserine/O-acetylserine sulfhydrylase
+928722..929969	-	1247	ACD04625.1	-	Amuc_0791	Amuc_0791	-	Radical SAM domain protein
+929962..931023	-	1061	ACD04626.1	-	Amuc_0792	Amuc_0792	-	Radical SAM domain protein
+931095..931913	-	818	ACD04627.1	-	Amuc_0793	Amuc_0793	-	hypothetical protein
+932054..932488	-	434	ACD04628.1	-	Amuc_0794	Amuc_0794	-	hypothetical protein
+932546..933556	-	1010	ACD04629.1	-	Amuc_0795	Amuc_0795	-	Glycerol-3-phosphate dehydrogenase (NAD(P)(+))
+933558..934202	-	644	ACD04630.1	-	Amuc_0796	Amuc_0796	-	protein of unknown function DUF205
+934455..935240	-	785	ACD04631.1	-	Amuc_0797	Amuc_0797	-	protein serine/threonine phosphatase
+935258..936739	-	1481	ACD04632.1	-	Amuc_0798	Amuc_0798	-	lysyl-tRNA synthetase
+937083..940661	+	3578	ACD04633.1	-	Amuc_0799	Amuc_0799	-	pyruvate flavodoxin/ferredoxin oxidoreductase
+941128..941565	-	437	ACD04634.1	-	Amuc_0801	Amuc_0801	-	Cupin 2 conserved barrel domain protein
+941690..942010	+	320	ACD04635.1	-	Amuc_0802	Amuc_0802	-	transcriptional regulator, HxlR family
+942092..944230	-	2138	ACD04636.1	-	Amuc_0803	Amuc_0803	-	coagulation factor 5/8 type domain protein
+944278..945045	-	767	ACD04637.1	-	Amuc_0804	Amuc_0804	-	imidazoleglycerol phosphate synthase, cyclase
+945105..945305	+	200	ACD04638.1	-	Amuc_0805	Amuc_0805	-	hypothetical protein
+945359..947107	+	1748	ACD04639.1	-	Amuc_0806	Amuc_0806	-	H(+)-transporting two-sector ATPase
+947118..947822	+	704	ACD04640.1	-	Amuc_0807	Amuc_0807	-	TrkA-N domain protein
+947915..951610	-	3695	ACD04641.1	-	Amuc_0808	Amuc_0808	-	ATP-dependent helicase HrpA
+951679..952161	-	482	ACD04642.1	-	Amuc_0809	Amuc_0809	-	acetolactate synthase, small subunit
+952283..953746	-	1463	ACD04643.1	-	Amuc_0810	Amuc_0810	-	2-alkenal reductase
+953940..955103	+	1163	ACD04644.1	-	Amuc_0811	Amuc_0811	-	DNA polymerase III, delta subunit
+955103..956989	+	1886	ACD04645.1	-	Amuc_0812	Amuc_0812	-	glucose inhibited division protein A
+957476..958546	-	1070	ACD04646.1	-	Amuc_0813	Amuc_0813	-	riboflavin biosynthesis protein RibD
+958955..959764	+	809	ACD04647.1	-	Amuc_0814	Amuc_0814	-	transferase hexapeptide repeat containing
+959856..960539	-	683	ACD04648.1	-	Amuc_0815	Amuc_0815	-	hypothetical protein
+961035..962135	+	1100	ACD04649.1	-	Amuc_0816	Amuc_0816	-	DNA polymerase III, beta subunit
+962440..962880	-	440	ACD04650.1	-	Amuc_0817	Amuc_0817	-	hypothetical protein
+962983..964035	-	1052	ACD04651.1	-	Amuc_0818	Amuc_0818	-	adenosylhomocysteinase
+964236..965615	-	1379	ACD04652.1	-	Amuc_0819	Amuc_0819	-	multi antimicrobial extrusion protein MatE
+965905..966636	-	731	ACD04653.1	-	Amuc_0820	Amuc_0820	-	ErfK/YbiS/YcfS/YnhG family protein
+966666..967160	-	494	ACD04654.1	-	Amuc_0821	Amuc_0821	-	Peptidoglycan-binding LysM
+967215..968030	-	815	ACD04655.1	-	Amuc_0822	Amuc_0822	-	TatD-related deoxyribonuclease
+968155..969216	+	1061	ACD04656.1	-	Amuc_0823	Amuc_0823	-	conserved hypothetical protein
+969353..973147	+	3794	ACD04657.1	-	Amuc_0824	Amuc_0824	-	glycoside hydrolase family 2 TIM barrel
+973336..974019	-	683	ACD04658.1	-	Amuc_0825	Amuc_0825	-	hypothetical protein
+974026..975036	-	1010	ACD04659.1	-	Amuc_0826	Amuc_0826	-	hypothetical protein
+975477..978155	+	2678	ACD04660.1	-	Amuc_0827	Amuc_0827	-	osmosensitive K+ channel signal transduction
+978169..978867	+	698	ACD04661.1	-	Amuc_0828	Amuc_0828	-	two component transcriptional regulator, winged
+979021..979800	+	779	ACD04662.1	-	Amuc_0829	Amuc_0829	-	hypothetical protein
+979913..981613	+	1700	ACD04663.1	-	Amuc_0830	Amuc_0830	-	potassium-transporting ATPase, A subunit
+981636..983756	+	2120	ACD04664.1	-	Amuc_0831	Amuc_0831	-	K+-transporting ATPase, B subunit
+983786..984361	+	575	ACD04665.1	-	Amuc_0832	Amuc_0832	-	potassium-transporting ATPase, C subunit
+984634..984987	-	353	ACD04666.1	-	Amuc_0833	Amuc_0833	-	Cupin 2 conserved barrel domain protein
+984989..985945	-	956	ACD04667.1	-	Amuc_0834	Amuc_0834	-	transcriptional regulator, MarR family with
+986155..986328	+	173	ACD04668.1	-	Amuc_0835	Amuc_0835	-	hypothetical protein
+986447..989029	+	2582	ACD04669.1	-	Amuc_0836	Amuc_0836	-	ATP-dependent chaperone ClpB
+995681..997237	+	1556	ACD04670.1	-	Amuc_0837	Amuc_0837	-	hypothetical protein
+997516..998007	+	491	ACD04671.1	-	Amuc_0838	Amuc_0838	-	ATP-cone domain protein
+998020..998547	+	527	ACD04672.1	-	Amuc_0839	Amuc_0839	-	hypothetical protein
+998943..1000622	-	1679	ACD04673.1	-	Amuc_0840	Amuc_0840	-	sulfate transporter
+1000759..1002135	-	1376	ACD04674.1	-	Amuc_0841	Amuc_0841	-	argininosuccinate lyase
+1002318..1003007	+	689	ACD04675.1	-	Amuc_0842	Amuc_0842	-	zinc finger SWIM domain protein
+1003008..1004507	-	1499	ACD04676.1	-	Amuc_0843	Amuc_0843	-	hypothetical protein
+1004673..1005962	-	1289	ACD04677.1	-	Amuc_0844	Amuc_0844	-	Phosphopyruvate hydratase
+1006117..1006950	-	833	ACD04678.1	-	Amuc_0845	Amuc_0845	-	apurinic endonuclease Apn1
+1007089..1009203	+	2114	ACD04679.1	-	Amuc_0846	Amuc_0846	-	coagulation factor 5/8 type domain protein
+1009272..1010336	+	1064	ACD04680.1	-	Amuc_0847	Amuc_0847	-	metal dependent phosphohydrolase
+1010391..1012460	+	2069	ACD04681.1	-	Amuc_0848	Amuc_0848	-	ComEC/Rec2-related protein
+1012423..1013799	-	1376	ACD04682.1	-	Amuc_0849	Amuc_0849	-	RNA modification enzyme, MiaB family
+1013808..1015031	-	1223	ACD04683.1	-	Amuc_0850	Amuc_0850	-	RNA methyltransferase, TrmA family
+1015047..1015370	-	323	ACD04684.1	-	Amuc_0851	Amuc_0851	-	hypothetical protein
+1015516..1016088	+	572	ACD04685.1	-	Amuc_0852	Amuc_0852	-	hypothetical protein
+1016268..1017731	-	1463	ACD04686.1	-	Amuc_0853	Amuc_0853	-	hypothetical protein
+1017886..1018158	+	272	ACD04687.1	-	Amuc_0854	Amuc_0854	-	histone family protein DNA-binding protein
+1018288..1020438	+	2150	ACD04688.1	-	Amuc_0855	Amuc_0855	-	glycoside hydrolase clan GH-D
+1020760..1022373	-	1613	ACD04689.1	-	Amuc_0856	Amuc_0856	-	YidE/YbjL duplication
+1022488..1022967	-	479	ACD04690.1	-	Amuc_0857	Amuc_0857	-	response regulator receiver protein
+1022954..1024396	-	1442	ACD04691.1	-	Amuc_0858	Amuc_0858	-	cyclic nucleotide-binding protein
+1024464..1026203	-	1739	ACD04692.1	-	Amuc_0859	Amuc_0859	-	anion transporter
+1026282..1027034	-	752	ACD04693.1	-	Amuc_0860	Amuc_0860	-	anaerobic ribonucleoside-triphosphate reductase
+1027061..1027255	-	194	ACD04694.1	-	Amuc_0861	Amuc_0861	-	hypothetical protein
+1027307..1029403	-	2096	ACD04695.1	-	Amuc_0862	Amuc_0862	-	anaerobic ribonucleoside-triphosphate reductase
+1029953..1032187	+	2234	ACD04696.1	-	Amuc_0863	Amuc_0863	-	glycosyl hydrolase family 88
+1032239..1033957	-	1718	ACD04697.1	-	Amuc_0864	Amuc_0864	-	sulfatase
+1034186..1034734	-	548	ACD04698.1	-	Amuc_0865	Amuc_0865	-	Rubrerythrin
+1034862..1035437	+	575	ACD04699.1	-	Amuc_0866	Amuc_0866	-	mucin-associated surface protein (MASP)
+1035676..1036824	-	1148	ACD04700.1	-	Amuc_0867	Amuc_0867	-	peptidase M42 family protein
+1036915..1038564	-	1649	ACD04701.1	-	Amuc_0868	Amuc_0868	-	Beta-N-acetylhexosaminidase
+1038694..1039884	+	1190	ACD04702.1	-	Amuc_0869	Amuc_0869	-	conserved hypothetical protein
+1039893..1041038	-	1145	ACD04703.1	-	Amuc_0870	Amuc_0870	-	Alkaline phosphatase
+1041128..1041541	-	413	ACD04704.1	-	Amuc_0871	Amuc_0871	-	large conductance mechanosensitive channel
+1041730..1042986	+	1256	ACD04705.1	-	Amuc_0872	Amuc_0872	-	acetylornithine and succinylornithine
+1043014..1043472	+	458	ACD04706.1	-	Amuc_0873	Amuc_0873	-	amino acid-binding ACT
+1043596..1044162	+	566	ACD04707.1	-	Amuc_0874	Amuc_0874	-	Elongation factor P
+1044268..1045209	-	941	ACD04708.1	-	Amuc_0875	Amuc_0875	-	glycoside hydrolase family 16
+1045389..1047641	+	2252	ACD04709.1	-	Amuc_0876	Amuc_0876	-	heavy metal translocating P-type ATPase
+1047672..1049330	-	1658	ACD04710.1	-	Amuc_0877	Amuc_0877	-	DNA repair protein RecN
+1049383..1050168	+	785	ACD04711.1	-	Amuc_0878	Amuc_0878	-	beta-lactamase domain protein
+1050194..1050991	+	797	ACD04712.1	-	Amuc_0879	Amuc_0879	-	glycosyl transferase, WecB/TagA/CpsF family
+1051143..1051847	+	704	ACD04713.1	-	Amuc_0880	Amuc_0880	-	protein of unknown function DUF419
+1051895..1052278	+	383	ACD04714.1	-	Amuc_0881	Amuc_0881	-	hypothetical protein
+1052357..1052686	+	329	ACD04715.1	-	Amuc_0882	Amuc_0882	-	hypothetical protein
+1052721..1052909	+	188	ACD04716.1	-	Amuc_0883	Amuc_0883	-	hypothetical protein
+1053001..1053864	-	863	ACD04717.1	-	Amuc_0884	Amuc_0884	-	protein of unknown function DUF1009
+1053894..1055168	-	1274	ACD04718.1	-	Amuc_0885	Amuc_0885	-	catalytic domain of components of various
+1055187..1056161	-	974	ACD04719.1	-	Amuc_0886	Amuc_0886	-	Transketolase central region
+1056183..1057121	-	938	ACD04720.1	-	Amuc_0887	Amuc_0887	-	dehydrogenase E1 component
+1057369..1058181	-	812	ACD04721.1	-	Amuc_0888	Amuc_0888	-	transcriptional regulator, MerR family
+1058478..1059632	+	1154	ACD04722.1	-	Amuc_0889	Amuc_0889	-	efflux transporter, RND family, MFP subunit
+1059639..1062743	+	3104	ACD04723.1	-	Amuc_0890	Amuc_0890	-	transporter, hydrophobe/amphiphile efflux-1
+1063171..1063773	+	602	ACD04724.1	-	Amuc_0891	Amuc_0891	-	hypothetical protein
+1063785..1066232	+	2447	ACD04725.1	-	Amuc_0892	Amuc_0892	-	outer membrane autotransporter barrel domain
+1066280..1066723	+	443	ACD04726.1	-	Amuc_0893	Amuc_0893	-	conserved hypothetical protein
+1066958..1067716	-	758	ACD04727.1	-	Amuc_0894	Amuc_0894	-	peptidase membrane zinc metallopeptidase
+1067831..1068289	-	458	ACD04728.1	-	Amuc_0895	Amuc_0895	-	conserved hypothetical protein
+1068430..1069950	+	1520	ACD04729.1	-	Amuc_0896	Amuc_0896	-	uroporphyrin-III C-methyltransferase
+1070019..1070456	-	437	ACD04730.1	-	Amuc_0897	Amuc_0897	-	hypothetical protein
+1070694..1073303	+	2609	ACD04731.1	-	Amuc_0898	Amuc_0898	-	DNA topoisomerase III
+1073416..1074588	+	1172	ACD04732.1	-	Amuc_0899	Amuc_0899	-	hypothetical protein
+1074810..1075241	-	431	ACD04733.1	-	Amuc_0900	Amuc_0900	-	hypothetical protein
+1075265..1075669	-	404	ACD04734.1	-	Amuc_0901	Amuc_0901	-	hypothetical protein
+1076612..1077277	-	665	ACD04735.1	-	Amuc_0903	Amuc_0903	-	N-acetylmuramoyl-L-alanine amidase family 2
+1077467..1080220	-	2753	ACD04736.1	-	Amuc_0904	Amuc_0904	-	aconitate hydratase 1
+1080489..1081052	+	563	ACD04737.1	-	Amuc_0905	Amuc_0905	-	ErfK/YbiS/YcfS/YnhG family protein
+1081425..1082552	-	1127	ACD04738.1	-	Amuc_0906	Amuc_0906	-	methionine-R-sulfoxide reductase
+1082693..1083208	-	515	ACD04739.1	-	Amuc_0907	Amuc_0907	-	hypothetical protein
+1083348..1085591	+	2243	ACD04740.1	-	Amuc_0908	Amuc_0908	-	hypothetical protein
+1085664..1086779	-	1115	ACD04741.1	-	Amuc_0909	Amuc_0909	-	protein of unknown function UPF0027
+1086910..1087827	+	917	ACD04742.1	-	Amuc_0910	Amuc_0910	-	transcriptional regulator, LysR family
+1087839..1089071	-	1232	ACD04743.1	-	Amuc_0911	Amuc_0911	-	major facilitator superfamily MFS_1
+1089172..1089921	-	749	ACD04744.1	-	Amuc_0912	Amuc_0912	-	hypothetical protein
+1090068..1090625	+	557	ACD04745.1	-	Amuc_0913	Amuc_0913	-	ATP/cobalamin adenosyltransferase
+1090786..1091124	-	338	ACD04746.1	-	Amuc_0914	Amuc_0914	-	Cupin 2 conserved barrel domain protein
+1091430..1093700	-	2270	ACD04747.1	-	Amuc_0915	Amuc_0915	-	VacB and RNase II family 3'-5' exoribonuclease
+1093987..1094265	+	278	ACD04748.1	-	Amuc_0916	Amuc_0916	-	hypothetical protein
+1094295..1096802	-	2507	ACD04749.1	-	Amuc_0917	Amuc_0917	-	peptidase U32
+1096830..1098044	-	1214	ACD04750.1	-	Amuc_0918	Amuc_0918	-	FolC bifunctional protein
+1098255..1099271	-	1016	ACD04751.1	-	Amuc_0919	Amuc_0919	-	hypothetical protein
+1099438..1100859	+	1421	ACD04752.1	-	Amuc_0920	Amuc_0920	-	oxidoreductase domain protein
+1100933..1103620	-	2687	ACD04753.1	-	Amuc_0921	Amuc_0921	-	Non-specific serine/threonine protein kinase
+1103658..1105115	-	1457	ACD04754.1	-	Amuc_0922	Amuc_0922	-	metallophosphoesterase
+1105158..1105679	-	521	ACD04755.1	-	Amuc_0923	Amuc_0923	-	rare lipoprotein A
+1105799..1106683	+	884	ACD04756.1	-	Amuc_0924	Amuc_0924	-	ATP-NAD/AcoX kinase
+1106907..1107134	+	227	ACD04757.1	-	Amuc_0925	Amuc_0925	-	KOW domain protein
+1107201..1107782	+	581	ACD04758.1	-	Amuc_0926	Amuc_0926	-	ribosomal protein L5
+1107795..1108196	+	401	ACD04759.1	-	Amuc_0927	Amuc_0927	-	ribosomal protein S8
+1108218..1108757	+	539	ACD04760.1	-	Amuc_0928	Amuc_0928	-	ribosomal protein L6
+1108793..1109155	+	362	ACD04761.1	-	Amuc_0929	Amuc_0929	-	ribosomal protein L18
+1109349..1109834	+	485	ACD04762.1	-	Amuc_0930	Amuc_0930	-	ribosomal protein S5
+1109897..1110355	+	458	ACD04763.1	-	Amuc_0931	Amuc_0931	-	ribosomal protein L15
+1110377..1110499	+	122	ACD04764.1	-	Amuc_0932	Amuc_0932	-	hypothetical protein
+1110496..1111998	+	1502	ACD04765.1	-	Amuc_0933	Amuc_0933	-	preprotein translocase, SecY subunit
+1112026..1112676	+	650	ACD04766.1	-	Amuc_0934	Amuc_0934	-	adenylate kinase
+1112690..1113487	+	797	ACD04767.1	-	Amuc_0935	Amuc_0935	-	methionine aminopeptidase, type I
+1113506..1114573	+	1067	ACD04768.1	-	Amuc_0936	Amuc_0936	-	hypothetical protein
+1114739..1116295	+	1556	ACD04769.1	-	Amuc_0937	Amuc_0937	-	metal dependent phosphohydrolase
+1116331..1118418	+	2087	ACD04770.1	-	Amuc_0938	Amuc_0938	-	Polyphosphate kinase
+1118530..1119645	-	1115	ACD04771.1	-	Amuc_0939	Amuc_0939	-	glycosyl transferase family 8
+1119855..1121204	-	1349	ACD04772.1	-	Amuc_0940	Amuc_0940	-	hypothetical protein
+1121219..1122349	-	1130	ACD04773.1	-	Amuc_0941	Amuc_0941	-	glycosyl transferase family 2
+1122373..1123245	-	872	ACD04774.1	-	Amuc_0942	Amuc_0942	-	glycosyl transferase family 11
+1123289..1124344	-	1055	ACD04775.1	-	Amuc_0943	Amuc_0943	-	glycosyl transferase family 2
+1124341..1125540	-	1199	ACD04776.1	-	Amuc_0944	Amuc_0944	-	conserved hypothetical protein
+1125947..1127023	+	1076	ACD04777.1	-	Amuc_0945	Amuc_0945	-	glycosyl transferase family 2
+1127105..1127668	-	563	ACD04778.1	-	Amuc_0946	Amuc_0946	-	DJ-1 family protein
+1127732..1128772	-	1040	ACD04779.1	-	Amuc_0947	Amuc_0947	-	biotin/lipoyl attachment domain-containing
+1128857..1130005	-	1148	ACD04780.1	-	Amuc_0948	Amuc_0948	-	N-acetylglucosamine-6-phosphate deacetylase
+1130150..1130743	-	593	ACD04781.1	-	Amuc_0949	Amuc_0949	-	Peptidylprolyl isomerase
+1130901..1132244	-	1343	ACD04782.1	-	Amuc_0950	Amuc_0950	-	hypothetical protein
+1132249..1133721	-	1472	ACD04783.1	-	Amuc_0951	Amuc_0951	-	carbon starvation protein CstA
+1134049..1134807	+	758	ACD04784.1	-	Amuc_0952	Amuc_0952	-	hypothetical protein
+1134988..1139232	+	4244	ACD04785.1	-	Amuc_0953	Amuc_0953	-	sulfatase
+1139263..1139406	+	143	ACD04786.1	-	Amuc_0954	Amuc_0954	-	hypothetical protein
+1139421..1139798	-	377	ACD04787.1	-	Amuc_0955	Amuc_0955	-	ribosome-binding factor A
+1139940..1141991	-	2051	ACD04788.1	-	Amuc_0956	Amuc_0956	-	translation initiation factor IF-2
+1142034..1143329	-	1295	ACD04789.1	-	Amuc_0957	Amuc_0957	-	NusA antitermination factor
+1143584..1144345	+	761	ACD04790.1	-	Amuc_0958	Amuc_0958	-	exodeoxyribonuclease III Xth
+1144360..1145004	+	644	ACD04791.1	-	Amuc_0959	Amuc_0959	-	Ham1 family protein
+1145036..1145743	-	707	ACD04792.1	-	Amuc_0960	Amuc_0960	-	putative rRNA methylase
+1145841..1146689	+	848	ACD04793.1	-	Amuc_0961	Amuc_0961	-	protein of unknown function DUF362
+1146758..1148524	+	1766	ACD04794.1	-	Amuc_0962	Amuc_0962	-	4Fe-4S ferredoxin iron-sulfur binding domain
+1148831..1150603	+	1772	ACD04795.1	-	Amuc_0963	Amuc_0963	-	ABC transporter related
+1150657..1151088	+	431	ACD04796.1	-	Amuc_0964	Amuc_0964	-	hypothetical protein
+1151124..1152998	+	1874	ACD04797.1	-	Amuc_0965	Amuc_0965	-	hypothetical protein
+1153070..1153816	+	746	ACD04798.1	-	Amuc_0966	Amuc_0966	-	conserved hypothetical protein
+1154023..1154688	-	665	ACD04799.1	-	Amuc_0967	Amuc_0967	-	RNP-1 like RNA-binding protein
+1155091..1156467	+	1376	ACD04800.1	-	Amuc_0968	Amuc_0968	-	exopolysaccharide biosynthesis polyprenyl
+1156686..1157864	+	1178	ACD04801.1	-	Amuc_0969	Amuc_0969	-	galactokinase
+1157874..1160171	+	2297	ACD04802.1	-	Amuc_0970	Amuc_0970	-	SSS sodium solute transporter superfamily
+1160384..1162390	-	2006	ACD04803.1	-	Amuc_0971	Amuc_0971	-	UvrD/REP helicase
+1162391..1163335	-	944	ACD04804.1	-	Amuc_0972	Amuc_0972	-	methionyl-tRNA formyltransferase
+1163546..1164673	+	1127	ACD04805.1	-	Amuc_0973	Amuc_0973	-	Monogalactosyldiacylglycerol synthase
+1164679..1165407	+	728	ACD04806.1	-	Amuc_0974	Amuc_0974	-	putative transcriptional acitvator, Baf family
+1165539..1165781	+	242	ACD04807.1	-	Amuc_0975	Amuc_0975	-	acyl carrier protein
+1165850..1166419	+	569	ACD04808.1	-	Amuc_0976	Amuc_0976	-	hypothetical protein
+1166424..1167152	+	728	ACD04809.1	-	Amuc_0977	Amuc_0977	-	hypothetical protein
+1167149..1167601	+	452	ACD04810.1	-	Amuc_0978	Amuc_0978	-	D-tyrosyl-tRNA(Tyr) deacylase
+1169843..1170697	-	854	ACD04811.1	-	Amuc_0982	Amuc_0982	-	hypothetical protein
+1171299..1177088	-	5789	ACD04812.1	-	Amuc_0983	Amuc_0983	-	YD repeat protein
+1177646..1178413	-	767	ACD04813.1	-	Amuc_0984	Amuc_0984	-	4Fe-4S ferredoxin iron-sulfur binding domain
+1178454..1180412	-	1958	ACD04814.1	-	Amuc_0985	Amuc_0985	-	succinate dehydrogenase or fumarate reductase,
+1180434..1181135	-	701	ACD04815.1	-	Amuc_0986	Amuc_0986	-	succinate dehydrogenase (or fumarate reductase)
+1181336..1181608	+	272	ACD04816.1	-	Amuc_0987	Amuc_0987	-	conserved hypothetical protein
+1181611..1182426	+	815	ACD04817.1	-	Amuc_0988	Amuc_0988	-	TatD-related deoxyribonuclease
+1182460..1182693	-	233	ACD04818.1	-	Amuc_0989	Amuc_0989	-	hypothetical protein
+1183125..1183832	-	707	ACD04819.1	-	Amuc_0990	Amuc_0990	-	hypothetical protein
+1184127..1184867	+	740	ACD04820.1	-	Amuc_0991	Amuc_0991	-	hypothetical protein
+1185518..1186723	-	1205	ACD04821.1	-	Amuc_0993	Amuc_0993	-	protein of unknown function DUF323
+1186747..1187493	-	746	ACD04822.1	-	Amuc_0994	Amuc_0994	-	3-oxoacyl-(acyl-carrier-protein) reductase
+1187620..1188138	-	518	ACD04823.1	-	Amuc_0995	Amuc_0995	-	hypothetical protein
+1188201..1189811	-	1610	ACD04824.1	-	Amuc_0996	Amuc_0996	-	ABC transporter related
+1189934..1190641	+	707	ACD04825.1	-	Amuc_0997	Amuc_0997	-	hypothetical protein
+1190851..1190979	-	128	ACD04826.1	-	Amuc_0998	Amuc_0998	-	hypothetical protein
+1191193..1191786	-	593	ACD04827.1	-	Amuc_0999	Amuc_0999	-	sigma 54 modulation protein/ribosomal protein
+1192801..1193706	-	905	ACD04828.1	-	Amuc_1001	Amuc_1001	-	short-chain dehydrogenase/reductase SDR
+1193888..1195174	-	1286	ACD04829.1	-	Amuc_1002	Amuc_1002	-	Carboxymuconolactone decarboxylase
+1195193..1196326	-	1133	ACD04830.1	-	Amuc_1003	Amuc_1003	-	hydrolase of the alpha/beta superfamily
+1197636..1198091	-	455	ACD04831.1	-	Amuc_1005	Amuc_1005	-	aldo/keto reductase
+1198127..1198675	-	548	ACD04832.1	-	Amuc_1006	Amuc_1006	-	aldo/keto reductase
+1198815..1199711	+	896	ACD04833.1	-	Amuc_1007	Amuc_1007	-	transcriptional regulator, AraC family
+1200228..1204163	+	3935	ACD04834.1	-	Amuc_1008	Amuc_1008	-	glycoside hydrolase family 31
+1204447..1205757	+	1310	ACD04835.1	-	Amuc_1009	Amuc_1009	-	4Fe-4S ferredoxin iron-sulfur binding domain
+1206019..1206504	+	485	ACD04836.1	-	Amuc_1010	Amuc_1010	-	response regulator receiver protein
+1206664..1207503	+	839	ACD04837.1	-	Amuc_1011	Amuc_1011	-	conserved hypothetical protein
+1207542..1208348	+	806	ACD04838.1	-	Amuc_1012	Amuc_1012	-	hypothetical protein
+1208355..1208951	+	596	ACD04839.1	-	Amuc_1013	Amuc_1013	-	conserved hypothetical protein
+1208966..1209196	+	230	ACD04840.1	-	Amuc_1014	Amuc_1014	-	conserved hypothetical protein
+1209193..1209546	+	353	ACD04841.1	-	Amuc_1015	Amuc_1015	-	hypothetical protein
+1209564..1209884	-	320	ACD04842.1	-	Amuc_1016	Amuc_1016	-	conserved hypothetical protein
+1209881..1210585	-	704	ACD04843.1	-	Amuc_1017	Amuc_1017	-	conserved hypothetical protein
+1210602..1211207	-	605	ACD04844.1	-	Amuc_1018	Amuc_1018	-	multiple antibiotic resistance (MarC)-related
+1211402..1211977	-	575	ACD04845.1	-	Amuc_1019	Amuc_1019	-	hypothetical protein
+1211974..1213614	-	1640	ACD04846.1	-	Amuc_1020	Amuc_1020	-	hypothetical protein
+1214024..1214431	-	407	ACD04847.1	-	Amuc_1021	Amuc_1021	-	hypothetical protein
+1214499..1215464	-	965	ACD04848.1	-	Amuc_1022	Amuc_1022	-	lipolytic protein G-D-S-L family
+1215461..1216519	-	1058	ACD04849.1	-	Amuc_1023	Amuc_1023	-	hypothetical protein
+1216516..1217136	-	620	ACD04850.1	-	Amuc_1024	Amuc_1024	-	hypothetical protein
+1217203..1217976	-	773	ACD04851.1	-	Amuc_1025	Amuc_1025	-	Disulfide bond chaperones of the HSP33
+1218179..1218682	+	503	ACD04852.1	-	Amuc_1026	Amuc_1026	-	Peptidylprolyl isomerase
+1218763..1220757	+	1994	ACD04853.1	-	Amuc_1027	Amuc_1027	-	ABC transporter related
+1220845..1221495	-	650	ACD04854.1	-	Amuc_1028	Amuc_1028	-	hypothetical protein
+1221833..1222747	-	914	ACD04855.1	-	Amuc_1029	Amuc_1029	-	protein of unknown function DUF6 transmembrane
+1222747..1223085	-	338	ACD04856.1	-	Amuc_1030	Amuc_1030	-	Cupin 2 conserved barrel domain protein
+1223090..1224505	-	1415	ACD04857.1	-	Amuc_1031	Amuc_1031	-	cysteinyl-tRNA synthetase
+1224627..1226183	-	1556	ACD04858.1	-	Amuc_1032	Amuc_1032	-	Beta-N-acetylhexosaminidase
+1226293..1228038	-	1745	ACD04859.1	-	Amuc_1033	Amuc_1033	-	sulfatase
+1228269..1229252	-	983	ACD04860.1	-	Amuc_1034	Amuc_1034	-	hypothetical protein
+1229318..1229599	-	281	ACD04861.1	-	Amuc_1035	Amuc_1035	-	hypothetical protein
+1229683..1231482	-	1799	ACD04862.1	-	Amuc_1036	Amuc_1036	-	GTP-binding protein LepA
+1231730..1231933	+	203	ACD04863.1	-	Amuc_1037	Amuc_1037	-	conserved hypothetical protein
+1232004..1232171	-	167	ACD04864.1	-	Amuc_1038	Amuc_1038	-	hypothetical protein
+1232285..1237882	-	5597	ACD04865.1	-	Amuc_1039	Amuc_1039	-	outer membrane autotransporter barrel domain
+1238246..1242442	-	4196	ACD04866.1	-	Amuc_1040	Amuc_1040	-	DNA-directed RNA polymerase, beta' subunit
+1242515..1246453	-	3938	ACD04867.1	-	Amuc_1041	Amuc_1041	-	DNA-directed RNA polymerase, beta subunit
+1246655..1247029	-	374	ACD04868.1	-	Amuc_1042	Amuc_1042	-	ribosomal protein L7/L12
+1247188..1247691	-	503	ACD04869.1	-	Amuc_1043	Amuc_1043	-	ribosomal protein L10
+1247713..1248414	-	701	ACD04870.1	-	Amuc_1044	Amuc_1044	-	ribosomal protein L1
+1248466..1248894	-	428	ACD04871.1	-	Amuc_1045	Amuc_1045	-	ribosomal protein L11
+1248961..1249530	-	569	ACD04872.1	-	Amuc_1046	Amuc_1046	-	NusG antitermination factor
+1249560..1249787	-	227	ACD04873.1	-	Amuc_1047	Amuc_1047	-	preprotein translocase, SecE subunit
+1249991..1251175	-	1184	ACD04874.1	-	Amuc_1048	Amuc_1048	-	translation elongation factor Tu
+1251501..1252583	-	1082	ACD04875.1	-	Amuc_1049	Amuc_1049	-	metalloendopeptidase, glycoprotease family
+1252607..1253977	-	1370	ACD04876.1	-	Amuc_1050	Amuc_1050	-	ATP-dependent Clp protease, ATP-binding subunit
+1254017..1254673	-	656	ACD04877.1	-	Amuc_1051	Amuc_1051	-	Endopeptidase Clp
+1254796..1256106	-	1310	ACD04878.1	-	Amuc_1052	Amuc_1052	-	trigger factor
+1256369..1258792	+	2423	ACD04879.1	-	Amuc_1053	Amuc_1053	-	outer membrane protein assembly complex, YaeT
+1258826..1259575	+	749	ACD04880.1	-	Amuc_1054	Amuc_1054	-	hypothetical protein
+1259612..1260547	+	935	ACD04881.1	-	Amuc_1055	Amuc_1055	-	5,10-methylenetetrahydrofolate reductase
+1260600..1261337	+	737	ACD04882.1	-	Amuc_1056	Amuc_1056	-	hypothetical protein
+1261594..1261866	+	272	ACD04883.1	-	Amuc_1057	Amuc_1057	-	hypothetical protein
+1261959..1262585	-	626	ACD04884.1	-	Amuc_1058	Amuc_1058	-	transcriptional regulator, TetR family
+1262718..1265876	-	3158	ACD04885.1	-	Amuc_1059	Amuc_1059	-	acriflavin resistance protein
+1265967..1267391	-	1424	ACD04886.1	-	Amuc_1060	Amuc_1060	-	Membrane-fusion protein-like protein
+1267418..1268698	-	1280	ACD04887.1	-	Amuc_1061	Amuc_1061	-	Outer membrane protein-like protein
+1268845..1269273	-	428	ACD04888.1	-	Amuc_1062	Amuc_1062	-	hypothetical protein
+1269356..1270381	-	1025	ACD04889.1	-	Amuc_1063	Amuc_1063	-	Ankyrin
+1270394..1271875	-	1481	ACD04890.1	-	Amuc_1064	Amuc_1064	-	major facilitator superfamily MFS_1
+1272008..1272652	-	644	ACD04891.1	-	Amuc_1065	Amuc_1065	-	hypothetical protein
+1272982..1273566	+	584	ACD04892.1	-	Amuc_1066	Amuc_1066	-	hypothetical protein
+1273673..1274590	-	917	ACD04893.1	-	Amuc_1067	Amuc_1067	-	transcriptional regulator, ArsR family
+1274628..1275812	+	1184	ACD04894.1	-	Amuc_1068	Amuc_1068	-	Methionine adenosyltransferase
+1275836..1277251	+	1415	ACD04895.1	-	Amuc_1069	Amuc_1069	-	adenosylhomocysteinase
+1277393..1278406	-	1013	ACD04896.1	-	Amuc_1070	Amuc_1070	-	glycosyl transferase family 2
+1278857..1279840	+	983	ACD04897.1	-	Amuc_1071	Amuc_1071	-	hypothetical protein
+1279869..1281134	+	1265	ACD04898.1	-	Amuc_1072	Amuc_1072	-	conserved hypothetical protein
+1281418..1282308	+	890	ACD04899.1	-	Amuc_1073	Amuc_1073	-	hypothetical protein
+1282440..1284098	-	1658	ACD04900.1	-	Amuc_1074	Amuc_1074	-	sulfatase
+1284186..1286084	+	1898	ACD04901.1	-	Amuc_1075	Amuc_1075	-	ATP-dependent DNA helicase, RecQ family
+1286081..1287277	-	1196	ACD04902.1	-	Amuc_1076	Amuc_1076	-	Glycosyltransferase-like protein
+1287274..1288482	-	1208	ACD04903.1	-	Amuc_1077	Amuc_1077	-	glycosyl transferase group 1
+1288503..1289528	-	1025	ACD04904.1	-	Amuc_1078	Amuc_1078	-	hypothetical protein
+1289522..1291126	-	1604	ACD04905.1	-	Amuc_1079	Amuc_1079	-	L-aspartate oxidase
+1291233..1291814	+	581	ACD04906.1	-	Amuc_1080	Amuc_1080	-	RNA methyltransferase, TrmH family, group 3
+1291848..1292669	+	821	ACD04907.1	-	Amuc_1081	Amuc_1081	-	hypothetical protein
+1293097..1293504	+	407	ACD04908.1	-	Amuc_1082	Amuc_1082	-	iron dependent repressor
+1293567..1295663	-	2096	ACD04909.1	-	Amuc_1083	Amuc_1083	-	heavy metal translocating P-type ATPase
+1295787..1296056	-	269	ACD04910.1	-	Amuc_1084	Amuc_1084	-	conserved hypothetical protein
+1296592..1297809	+	1217	ACD04911.1	-	Amuc_1085	Amuc_1085	-	Carbohydrate-selective porin OprB
+1298356..1298763	+	407	ACD04912.1	-	Amuc_1086	Amuc_1086	-	hypothetical protein
+1298862..1299047	-	185	ACD04913.1	-	Amuc_1087	Amuc_1087	-	hypothetical protein
+1299082..1301343	-	2261	ACD04914.1	-	Amuc_1088	Amuc_1088	-	ferrous iron transport protein B
+1301420..1301650	-	230	ACD04915.1	-	Amuc_1089	Amuc_1089	-	FeoA family protein
+1301682..1301894	-	212	ACD04916.1	-	Amuc_1090	Amuc_1090	-	FeoA family protein
+1302165..1303544	-	1379	ACD04917.1	-	Amuc_1091	Amuc_1091	-	Cytochrome-c peroxidase
+1303611..1304549	-	938	ACD04918.1	-	Amuc_1092	Amuc_1092	-	lipoic acid synthetase
+1304612..1305157	-	545	ACD04919.1	-	Amuc_1093	Amuc_1093	-	CMP/dCMP deaminase zinc-binding
+1305302..1306300	+	998	ACD04920.1	-	Amuc_1094	Amuc_1094	-	ROK family protein
+1306359..1308284	+	1925	ACD04921.1	-	Amuc_1095	Amuc_1095	-	heavy metal translocating P-type ATPase
+1308450..1309874	-	1424	ACD04922.1	-	Amuc_1096	Amuc_1096	-	transcription termination factor Rho
+1309867..1310472	-	605	ACD04923.1	-	Amuc_1097	Amuc_1097	-	dephospho-CoA kinase
+1310567..1313290	-	2723	ACD04924.1	-	Amuc_1098	Amuc_1098	-	type II and III secretion system protein
+1313362..1314375	-	1013	ACD04925.1	-	Amuc_1099	Amuc_1099	-	hypothetical protein
+1314411..1315364	-	953	ACD04926.1	-	Amuc_1100	Amuc_1100	-	hypothetical protein
+1315394..1317178	-	1784	ACD04927.1	-	Amuc_1101	Amuc_1101	-	cell division protein FtsA
+1317279..1317995	-	716	ACD04928.1	-	Amuc_1102	Amuc_1102	-	hypothetical protein
+1318190..1319269	+	1079	ACD04929.1	-	Amuc_1103	Amuc_1103	-	Glutamyl aminopeptidase
+1319281..1320339	+	1058	ACD04930.1	-	Amuc_1104	Amuc_1104	-	prolipoprotein diacylglyceryl transferase
+1320336..1320995	-	659	ACD04931.1	-	Amuc_1105	Amuc_1105	-	hypothetical protein
+1321347..1322630	+	1283	ACD04932.1	-	Amuc_1106	Amuc_1106	-	peptidase M24
+1322696..1323571	+	875	ACD04933.1	-	Amuc_1107	Amuc_1107	-	ATP phosphoribosyltransferase
+1323614..1323718	+	104	ACD04934.1	-	Amuc_1108	Amuc_1108	-	hypothetical protein
+1324301..1325530	-	1229	ACD04935.1	-	Amuc_1109	Amuc_1109	-	histidine kinase
+1325543..1326247	-	704	ACD04936.1	-	Amuc_1110	Amuc_1110	-	two component transcriptional regulator, winged
+1326464..1328140	+	1676	ACD04937.1	-	Amuc_1111	Amuc_1111	-	dihydroxy-acid dehydratase
+1328437..1328565	+	128	ACD04938.1	-	Amuc_1112	Amuc_1112	-	hypothetical protein
+1328644..1328814	-	170	ACD04939.1	-	Amuc_1113	Amuc_1113	-	hypothetical protein
+1328818..1332894	-	4076	ACD04940.1	-	Amuc_1114	Amuc_1114	-	outer membrane autotransporter barrel domain
+1333195..1334292	+	1097	ACD04941.1	-	Amuc_1115	Amuc_1115	-	integrase family protein
+1334351..1335268	-	917	ACD04942.1	-	Amuc_1116	Amuc_1116	-	phage SPO1 DNA polymerase-related protein
+1335469..1336605	+	1136	ACD04943.1	-	Amuc_1117	Amuc_1117	-	biotin and thiamin synthesis associated
+1336709..1338595	+	1886	ACD04944.1	-	Amuc_1118	Amuc_1118	-	sulfatase
+1338657..1339814	-	1157	ACD04945.1	-	Amuc_1119	Amuc_1119	-	hypothetical protein
+1340007..1342397	+	2390	ACD04946.1	-	Amuc_1120	Amuc_1120	-	conserved hypothetical protein
+1342645..1344018	-	1373	ACD04947.1	-	Amuc_1121	Amuc_1121	-	hypothetical protein
+1344036..1344563	-	527	ACD04948.1	-	Amuc_1122	Amuc_1122	-	Sulfate transporter/antisigma-factor antagonist
+1344712..1346214	-	1502	ACD04949.1	-	Amuc_1123	Amuc_1123	-	hypothetical protein
+1346364..1347887	-	1523	ACD04950.1	-	Amuc_1124	Amuc_1124	-	hypothetical protein
+1348313..1349302	-	989	ACD04951.1	-	Amuc_1125	Amuc_1125	-	UDP-glucose 4-epimerase
+1349585..1350964	+	1379	ACD04952.1	-	Amuc_1126	Amuc_1126	-	dimethyladenosine transferase
+1350951..1351412	+	461	ACD04953.1	-	Amuc_1127	Amuc_1127	-	hypothetical protein
+1351604..1351867	+	263	ACD04954.1	-	Amuc_1128	Amuc_1128	-	conserved hypothetical protein
+1351924..1352745	+	821	ACD04955.1	-	Amuc_1129	Amuc_1129	-	hypothetical protein
+1352830..1352928	+	98	ACD04956.1	-	Amuc_1130	Amuc_1130	-	hypothetical protein
+1353001..1354338	-	1337	ACD04957.1	-	Amuc_1131	Amuc_1131	-	MATE efflux family protein
+1354476..1356230	-	1754	ACD04958.1	-	Amuc_1132	Amuc_1132	-	H(+)-transporting two-sector ATPase
+1356672..1357010	-	338	ACD04959.1	-	Amuc_1133	Amuc_1133	-	hypothetical protein
+1357024..1357611	-	587	ACD04960.1	-	Amuc_1134	Amuc_1134	-	peptidase M15B and M15C DD-carboxypeptidase
+1357604..1357801	-	197	ACD04961.1	-	Amuc_1135	Amuc_1135	-	conserved hypothetical protein
+1358083..1359336	+	1253	ACD04962.1	-	Amuc_1136	Amuc_1136	-	hypothetical protein
+1359326..1360516	+	1190	ACD04963.1	-	Amuc_1137	Amuc_1137	-	hypothetical protein
+1360682..1361275	+	593	ACD04964.1	-	Amuc_1138	Amuc_1138	-	hypothetical protein
+1361297..1362100	+	803	ACD04965.1	-	Amuc_1139	Amuc_1139	-	hypothetical protein
+1362134..1363177	+	1043	ACD04966.1	-	Amuc_1140	Amuc_1140	-	hypothetical protein
+1363174..1363959	+	785	ACD04967.1	-	Amuc_1141	Amuc_1141	-	glycosyl transferase family 11
+1363989..1365677	+	1688	ACD04968.1	-	Amuc_1142	Amuc_1142	-	Glycosyl transferase, family 31
+1365798..1371773	+	5975	ACD04969.1	-	Amuc_1143	Amuc_1143	-	YD repeat protein
+1371786..1372364	+	578	ACD04970.1	-	Amuc_1144	Amuc_1144	-	hypothetical protein
+1372509..1374116	+	1607	ACD04971.1	-	Amuc_1145	Amuc_1145	-	hypothetical protein
+1374701..1375030	+	329	ACD04972.1	-	Amuc_1146	Amuc_1146	-	hypothetical protein
+1375379..1376257	+	878	ACD04973.1	-	Amuc_1147	Amuc_1147	-	hypothetical protein
+1376515..1376718	+	203	ACD04974.1	-	Amuc_1148	Amuc_1148	-	hypothetical protein
+1377253..1377831	+	578	ACD04975.1	-	Amuc_1149	Amuc_1149	-	hypothetical protein
+1379940..1381649	+	1709	ACD04976.1	-	Amuc_1151	Amuc_1151	-	potassium-transporting ATPase, A subunit
+1381734..1383767	+	2033	ACD04977.1	-	Amuc_1152	Amuc_1152	-	K+-transporting ATPase, B subunit
+1383787..1384371	+	584	ACD04978.1	-	Amuc_1153	Amuc_1153	-	potassium-transporting ATPase, C subunit
+1384552..1385679	+	1127	ACD04979.1	-	Amuc_1154	Amuc_1154	-	Osmosensitive K channel His kinase sensor
+1386032..1387018	+	986	ACD04980.1	-	Amuc_1155	Amuc_1155	-	protein of unknown function DUF323
+1387178..1387390	+	212	ACD04981.1	-	Amuc_1156	Amuc_1156	-	hypothetical protein
+1387556..1388395	+	839	ACD04982.1	-	Amuc_1157	Amuc_1157	-	beta-lactamase domain protein
+1388421..1389017	+	596	ACD04983.1	-	Amuc_1158	Amuc_1158	-	RNA polymerase, sigma-24 subunit, ECF subfamily
+1389014..1391317	+	2303	ACD04984.1	-	Amuc_1159	Amuc_1159	-	serine/threonine protein kinase
+1391587..1392735	+	1148	ACD04985.1	-	Amuc_1160	Amuc_1160	-	aldo/keto reductase
+1392964..1393392	-	428	ACD04986.1	-	Amuc_1161	Amuc_1161	-	transcriptional regulator, MerR family
+1393663..1394700	+	1037	ACD04987.1	-	Amuc_1162	Amuc_1162	-	Threonine aldolase
+1394860..1396125	+	1265	ACD04988.1	-	Amuc_1163	Amuc_1163	-	hypothetical protein
+1396118..1398697	-	2579	ACD04989.1	-	Amuc_1164	Amuc_1164	-	von Willebrand factor type A
+1398694..1400421	-	1727	ACD04990.1	-	Amuc_1165	Amuc_1165	-	hypothetical protein
+1400450..1401319	-	869	ACD04991.1	-	Amuc_1166	Amuc_1166	-	hypothetical protein
+1401354..1402802	-	1448	ACD04992.1	-	Amuc_1167	Amuc_1167	-	hypothetical protein
+1402799..1403806	-	1007	ACD04993.1	-	Amuc_1168	Amuc_1168	-	ABC transporter related
+1403809..1405392	-	1583	ACD04994.1	-	Amuc_1169	Amuc_1169	-	hypothetical protein
+1405417..1406442	-	1025	ACD04995.1	-	Amuc_1170	Amuc_1170	-	ATPase associated with various cellular
+1406676..1407860	+	1184	ACD04996.1	-	Amuc_1171	Amuc_1171	-	protein of unknown function DUF418
+1408035..1408232	+	197	ACD04997.1	-	Amuc_1172	Amuc_1172	-	hypothetical protein
+1408234..1409232	+	998	ACD04998.1	-	Amuc_1173	Amuc_1173	-	conserved hypothetical protein
+1409311..1409994	+	683	ACD04999.1	-	Amuc_1174	Amuc_1174	-	hypothetical protein
+1410032..1411084	-	1052	ACD05000.1	-	Amuc_1175	Amuc_1175	-	band 7 protein
+1411344..1412213	+	869	ACD05001.1	-	Amuc_1176	Amuc_1176	-	domain of unknown function DUF1731
+1412210..1412719	+	509	ACD05002.1	-	Amuc_1177	Amuc_1177	-	Lipocalin family protein
+1413087..1414067	+	980	ACD05003.1	-	Amuc_1178	Amuc_1178	-	ketol-acid reductoisomerase
+1414167..1414964	+	797	ACD05004.1	-	Amuc_1179	Amuc_1179	-	ABC transporter related
+1414971..1415666	+	695	ACD05005.1	-	Amuc_1180	Amuc_1180	-	GntR domain protein
+1415843..1416529	+	686	ACD05006.1	-	Amuc_1181	Amuc_1181	-	hypothetical protein
+1416784..1418181	+	1397	ACD05007.1	-	Amuc_1182	Amuc_1182	-	sulfatase
+1418300..1418668	-	368	ACD05008.1	-	Amuc_1183	Amuc_1183	-	hypothetical protein
+1418697..1419977	-	1280	ACD05009.1	-	Amuc_1184	Amuc_1184	-	Phosphopyruvate hydratase
+1420055..1421650	+	1595	ACD05010.1	-	Amuc_1185	Amuc_1185	-	aminotransferase class I and II
+1422095..1423039	+	944	ACD05011.1	-	Amuc_1186	Amuc_1186	-	ApbE family lipoprotein
+1423063..1424664	+	1601	ACD05012.1	-	Amuc_1187	Amuc_1187	-	Alpha-galactosidase
+1425003..1425227	-	224	ACD05013.1	-	Amuc_1188	Amuc_1188	-	hypothetical protein
+1425427..1425690	-	263	ACD05014.1	-	Amuc_1189	Amuc_1189	-	ribosomal protein L28
+1426146..1427147	+	1001	ACD05015.1	-	Amuc_1190	Amuc_1190	-	Alcohol dehydrogenase zinc-binding domain
+1427490..1427915	-	425	ACD05016.1	-	Amuc_1191	Amuc_1191	-	Holliday junction resolvase YqgF
+1427912..1428970	-	1058	ACD05017.1	-	Amuc_1192	Amuc_1192	-	Mannose-1-phosphate guanylyltransferase (GDP)
+1429003..1429719	-	716	ACD05018.1	-	Amuc_1193	Amuc_1193	-	undecaprenyl diphosphate synthase
+1429742..1431583	-	1841	ACD05019.1	-	Amuc_1194	Amuc_1194	-	DNA topoisomerase type IIA subunit B region 2
+1431708..1432556	+	848	ACD05020.1	-	Amuc_1195	Amuc_1195	-	4-diphosphocytidyl-2C-methyl-D-erythritol
+1432620..1433186	+	566	ACD05021.1	-	Amuc_1196	Amuc_1196	-	hypothetical protein
+1433207..1435192	+	1985	ACD05022.1	-	Amuc_1197	Amuc_1197	-	helicase c2
+1435200..1435970	-	770	ACD05023.1	-	Amuc_1198	Amuc_1198	-	cobalt ABC transporter, ATPase subunit
+1435967..1436779	-	812	ACD05024.1	-	Amuc_1199	Amuc_1199	-	cobalt ABC transporter, inner membrane subunit
+1436788..1437831	-	1043	ACD05025.1	-	Amuc_1200	Amuc_1200	-	cobalamin (vitamin B12) biosynthesis CbiM
+1438164..1438448	+	284	ACD05026.1	-	Amuc_1201	Amuc_1201	-	hypothetical protein
+1438464..1438829	-	365	ACD05027.1	-	Amuc_1202	Amuc_1202	-	conserved hypothetical protein
+1438840..1439733	-	893	ACD05028.1	-	Amuc_1203	Amuc_1203	-	acetylglutamate kinase
+1439796..1440788	-	992	ACD05029.1	-	Amuc_1204	Amuc_1204	-	Mg2 transporter protein CorA family protein
+1440958..1441413	-	455	ACD05030.1	-	Amuc_1205	Amuc_1205	-	ribosomal protein L9
+1441659..1443206	+	1547	ACD05031.1	-	Amuc_1206	Amuc_1206	-	phosphoribosylaminoimidazolecarboxamide
+1443246..1443986	+	740	ACD05032.1	-	Amuc_1207	Amuc_1207	-	pyridoxal phosphate biosynthetic protein PdxJ
+1444021..1444407	+	386	ACD05033.1	-	Amuc_1208	Amuc_1208	-	holo-acyl-carrier-protein synthase
+1444463..1445212	-	749	ACD05034.1	-	Amuc_1209	Amuc_1209	-	hypothetical protein
+1445495..1447321	-	1826	ACD05035.1	-	Amuc_1210	Amuc_1210	-	Phosphoenolpyruvate carboxykinase (GTP)
+1447575..1448246	+	671	ACD05036.1	-	Amuc_1211	Amuc_1211	-	N-acetylmuramoyl-L-alanine amidase family 2
+1448260..1450359	+	2099	ACD05037.1	-	Amuc_1212	Amuc_1212	-	DEAD/DEAH box helicase domain protein
+1450497..1450940	+	443	ACD05038.1	-	Amuc_1213	Amuc_1213	-	hypothetical protein
+1451048..1453939	-	2891	ACD05039.1	-	Amuc_1214	Amuc_1214	-	molybdopterin oxidoreductase, iron-sulfur
+1454296..1455000	-	704	ACD05040.1	-	Amuc_1215	Amuc_1215	-	putative cytochrome c
+1455032..1456309	-	1277	ACD05041.1	-	Amuc_1216	Amuc_1216	-	oxidoreductase domain protein
+1456607..1457023	+	416	ACD05042.1	-	Amuc_1217	Amuc_1217	-	hypothetical protein
+1457240..1458352	-	1112	ACD05043.1	-	Amuc_1218	Amuc_1218	-	3-dehydroquinate synthase
+1458428..1458991	-	563	ACD05044.1	-	Amuc_1219	Amuc_1219	-	hypothetical protein
+1465151..1467709	+	2558	ACD05045.1	-	Amuc_1220	Amuc_1220	-	Alpha-N-acetylglucosaminidase
+1467867..1468286	-	419	ACD05046.1	-	Amuc_1221	Amuc_1221	-	hypothetical protein
+1468707..1470575	-	1868	ACD05047.1	-	Amuc_1222	Amuc_1222	-	oligopeptide transporter, OPT superfamily
+1470687..1471481	+	794	ACD05048.1	-	Amuc_1223	Amuc_1223	-	orotidine 5'-phosphate decarboxylase
+1471661..1472377	+	716	ACD05049.1	-	Amuc_1224	Amuc_1224	-	hypothetical protein
+1472399..1474090	+	1691	ACD05050.1	-	Amuc_1225	Amuc_1225	-	Inorganic diphosphatase
+1474169..1475209	-	1040	ACD05051.1	-	Amuc_1226	Amuc_1226	-	hypothetical protein
+1475222..1475536	-	314	ACD05052.1	-	Amuc_1227	Amuc_1227	-	conserved hypothetical protein
+1475565..1477763	-	2198	ACD05053.1	-	Amuc_1228	Amuc_1228	-	DNA polymerase III, subunits gamma and tau
+1477983..1478759	+	776	ACD05054.1	-	Amuc_1229	Amuc_1229	-	hypothetical protein
+1478807..1479622	+	815	ACD05055.1	-	Amuc_1230	Amuc_1230	-	hypothetical protein
+1480161..1480901	-	740	ACD05056.1	-	Amuc_1231	Amuc_1231	-	DNA repair protein RadC
+1480903..1482393	-	1490	ACD05057.1	-	Amuc_1232	Amuc_1232	-	carbohydrate kinase, YjeF related protein
+1482487..1482681	-	194	ACD05058.1	-	Amuc_1233	Amuc_1233	-	translation initiation factor IF-1
+1483238..1483666	+	428	ACD05059.1	-	Amuc_1234	Amuc_1234	-	ribosomal protein L13
+1483681..1484076	+	395	ACD05060.1	-	Amuc_1235	Amuc_1235	-	ribosomal protein S9
+1484306..1484743	-	437	ACD05061.1	-	Amuc_1236	Amuc_1236	-	protein of unknown function DUF163
+1484750..1486246	-	1496	ACD05062.1	-	Amuc_1237	Amuc_1237	-	excinuclease ABC C subunit domain protein
+1486430..1487221	+	791	ACD05063.1	-	Amuc_1238	Amuc_1238	-	MotA/TolQ/ExbB proton channel
+1487261..1487707	+	446	ACD05064.1	-	Amuc_1239	Amuc_1239	-	Biopolymer transport protein ExbD/TolR
+1487749..1490136	+	2387	ACD05065.1	-	Amuc_1240	Amuc_1240	-	Tetratricopeptide TPR_2 repeat protein
+1490161..1491954	+	1793	ACD05066.1	-	Amuc_1241	Amuc_1241	-	glycosyl transferase family 51
+1491983..1492747	+	764	ACD05067.1	-	Amuc_1242	Amuc_1242	-	Inositol-phosphate phosphatase
+1492774..1493283	+	509	ACD05068.1	-	Amuc_1243	Amuc_1243	-	2C-methyl-D-erythritol 2,4-cyclodiphosphate
+1493533..1494264	-	731	ACD05069.1	-	Amuc_1244	Amuc_1244	-	N-acetylmuramoyl-L-alanine amidase family 2
+1494412..1495332	-	920	ACD05070.1	-	Amuc_1245	Amuc_1245	-	Mannose-6-phosphate isomerase
+1495432..1496679	-	1247	ACD05071.1	-	Amuc_1246	Amuc_1246	-	hypothetical protein
+1496790..1498115	-	1325	ACD05072.1	-	Amuc_1247	Amuc_1247	-	Na+/H+ antiporter NhaC
+1498142..1499230	-	1088	ACD05073.1	-	Amuc_1248	Amuc_1248	-	NAD-dependent epimerase/dehydratase
+1499232..1500299	-	1067	ACD05074.1	-	Amuc_1249	Amuc_1249	-	GDP-mannose 4,6-dehydratase
+1500452..1501570	-	1118	ACD05075.1	-	Amuc_1250	Amuc_1250	-	carbamoyl-phosphate synthase, small subunit
+1501602..1504805	-	3203	ACD05076.1	-	Amuc_1251	Amuc_1251	-	carbamoyl-phosphate synthase, large subunit
+1505048..1507183	-	2135	ACD05077.1	-	Amuc_1252	Amuc_1252	-	glutamine synthetase catalytic region
+1507579..1512018	+	4439	ACD05078.1	-	Amuc_1253	Amuc_1253	-	Glutamate synthase (ferredoxin)
+1512812..1514698	-	1886	ACD05079.1	-	Amuc_1254	Amuc_1254	-	60 kDa inner membrane insertion protein
+1514755..1515003	-	248	ACD05080.1	-	Amuc_1255	Amuc_1255	-	protein of unknown function DUF37
+1515000..1515347	-	347	ACD05081.1	-	Amuc_1256	Amuc_1256	-	ribonuclease P protein component
+1515436..1515621	-	185	ACD05082.1	-	Amuc_1257	Amuc_1257	-	ribosomal protein L34
+1515832..1517943	-	2111	ACD05083.1	-	Amuc_1258	Amuc_1258	-	glutamine synthetase catalytic region
+1518353..1520530	+	2177	ACD05084.1	-	Amuc_1259	Amuc_1259	-	lipolytic protein G-D-S-L family
+1520651..1522081	+	1430	ACD05085.1	-	Amuc_1260	Amuc_1260	-	glycoside hydrolase family 37
+1522293..1523147	-	854	ACD05086.1	-	Amuc_1261	Amuc_1261	-	Aldose 1-epimerase
+1523144..1523782	-	638	ACD05087.1	-	Amuc_1262	Amuc_1262	-	pyridoxamine 5'-phosphate oxidase
+1523804..1524667	-	863	ACD05088.1	-	Amuc_1263	Amuc_1263	-	nicotinate-nucleotide pyrophosphorylase
+1524683..1525576	-	893	ACD05089.1	-	Amuc_1264	Amuc_1264	-	Polyprenyl synthetase
+1525615..1526625	-	1010	ACD05090.1	-	Amuc_1265	Amuc_1265	-	aspartate-semialdehyde dehydrogenase
+1526791..1527453	-	662	ACD05091.1	-	Amuc_1266	Amuc_1266	-	hypothetical protein
+1527967..1528656	-	689	ACD05092.1	-	Amuc_1267	Amuc_1267	-	hypothetical protein
+1528758..1530137	-	1379	ACD05093.1	-	Amuc_1268	Amuc_1268	-	L-serine dehydratase 1
+1530208..1531137	-	929	ACD05094.1	-	Amuc_1269	Amuc_1269	-	thioredoxin reductase
+1531134..1532057	-	923	ACD05095.1	-	Amuc_1270	Amuc_1270	-	hypothetical protein
+1532401..1532946	+	545	ACD05096.1	-	Amuc_1271	Amuc_1271	-	GCN5-related N-acetyltransferase
+1533171..1534007	-	836	ACD05097.1	-	Amuc_1272	Amuc_1272	-	hypothetical protein
+1534131..1534982	-	851	ACD05098.1	-	Amuc_1273	Amuc_1273	-	hypothetical protein
+1535136..1536047	-	911	ACD05099.1	-	Amuc_1274	Amuc_1274	-	hypothetical protein
+1536062..1537108	-	1046	ACD05100.1	-	Amuc_1275	Amuc_1275	-	hypothetical protein
+1537129..1538814	-	1685	ACD05101.1	-	Amuc_1276	Amuc_1276	-	hypothetical protein
+1538996..1539667	-	671	ACD05102.1	-	Amuc_1277	Amuc_1277	-	TatD-related deoxyribonuclease
+1539674..1541401	-	1727	ACD05103.1	-	Amuc_1278	Amuc_1278	-	sodium/hydrogen exchanger
+1541420..1542271	-	851	ACD05104.1	-	Amuc_1279	Amuc_1279	-	metallophosphoesterase
+1542268..1543377	-	1109	ACD05105.1	-	Amuc_1280	Amuc_1280	-	aminopeptidase
+1543459..1544046	+	587	ACD05106.1	-	Amuc_1281	Amuc_1281	-	phosphoribosylglycinamide formyltransferase
+1544185..1545018	+	833	ACD05107.1	-	Amuc_1282	Amuc_1282	-	peptidylprolyl isomerase FKBP-type
+1545326..1554373	+	9047	ACD05108.1	-	Amuc_1283	Amuc_1283	-	outer membrane autotransporter barrel domain
+1554499..1554687	+	188	ACD05109.1	-	Amuc_1284	Amuc_1284	-	hypothetical protein
+1554802..1557360	+	2558	ACD05110.1	-	Amuc_1285	Amuc_1285	-	DNA gyrase, B subunit
+1557384..1560005	+	2621	ACD05111.1	-	Amuc_1286	Amuc_1286	-	DNA gyrase, A subunit
+1560065..1560697	+	632	ACD05112.1	-	Amuc_1287	Amuc_1287	-	protein of unknown function DUF1121
+1560701..1561972	+	1271	ACD05113.1	-	Amuc_1288	Amuc_1288	-	peptidase U32
+1562485..1565967	+	3482	ACD05114.1	-	Amuc_1290	Amuc_1290	-	protein of unknown function DUF323
+1565982..1567844	+	1862	ACD05115.1	-	Amuc_1291	Amuc_1291	-	putative surface layer protein, with cytochrome
+1567859..1568986	+	1127	ACD05116.1	-	Amuc_1292	Amuc_1292	-	Endoribonuclease L-PSP
+1569066..1569449	+	383	ACD05117.1	-	Amuc_1293	Amuc_1293	-	hypothetical protein
+1569682..1571322	-	1640	ACD05118.1	-	Amuc_1294	Amuc_1294	-	Sulfite reductase (NADPH)
+1571338..1572117	-	779	ACD05119.1	-	Amuc_1295	Amuc_1295	-	binding-protein-dependent transport systems
+1572102..1572899	-	797	ACD05120.1	-	Amuc_1296	Amuc_1296	-	ABC transporter related
+1572892..1573965	-	1073	ACD05121.1	-	Amuc_1297	Amuc_1297	-	putative substrate-binding protein of aliphatic
+1573952..1575679	-	1727	ACD05122.1	-	Amuc_1298	Amuc_1298	-	sulfate adenylyltransferase, large subunit
+1575725..1576636	-	911	ACD05123.1	-	Amuc_1299	Amuc_1299	-	sulfate adenylyltransferase, small subunit
+1576655..1577338	-	683	ACD05124.1	-	Amuc_1300	Amuc_1300	-	adenylylsulfate reductase, thioredoxin
+1577395..1578324	-	929	ACD05125.1	-	Amuc_1301	Amuc_1301	-	cysteine synthase A
+1578998..1579672	-	674	ACD05126.1	-	Amuc_1302	Amuc_1302	-	phosphate uptake regulator, PhoU
+1579698..1580477	-	779	ACD05127.1	-	Amuc_1303	Amuc_1303	-	phosphate ABC transporter, ATPase subunit
+1580500..1582254	-	1754	ACD05128.1	-	Amuc_1304	Amuc_1304	-	phosphate ABC transporter, inner membrane
+1582292..1584646	-	2354	ACD05129.1	-	Amuc_1305	Amuc_1305	-	binding-protein-dependent transport systems
+1584738..1585700	-	962	ACD05130.1	-	Amuc_1306	Amuc_1306	-	phosphate binding protein
+1585903..1586685	+	782	ACD05131.1	-	Amuc_1307	Amuc_1307	-	phosphate ABC transporter, ATPase subunit
+1586871..1587518	+	647	ACD05132.1	-	Amuc_1308	Amuc_1308	-	phosphate uptake regulator, PhoU
+1587603..1588562	-	959	ACD05133.1	-	Amuc_1309	Amuc_1309	-	Aldose 1-epimerase
+1588598..1589077	-	479	ACD05134.1	-	Amuc_1310	Amuc_1310	-	17 kDa surface antigen
+1589223..1589465	-	242	ACD05135.1	-	Amuc_1311	Amuc_1311	-	hypothetical protein
+1589705..1592227	+	2522	ACD05136.1	-	Amuc_1312	Amuc_1312	-	peptidase M16 domain protein
+1592381..1593007	+	626	ACD05137.1	-	Amuc_1313	Amuc_1313	-	metal dependent phosphohydrolase
+1593140..1594075	-	935	ACD05138.1	-	Amuc_1314	Amuc_1314	-	Radical SAM domain protein
+1594072..1594986	-	914	ACD05139.1	-	Amuc_1315	Amuc_1315	-	Domain of unknown function DUF1848
+1594983..1595444	-	461	ACD05140.1	-	Amuc_1316	Amuc_1316	-	transcriptional regulator, MarR family
+1596195..1596515	-	320	ACD05141.1	-	Amuc_1317	Amuc_1317	-	protein of unknown function DUF583
+1596540..1597106	-	566	ACD05142.1	-	Amuc_1318	Amuc_1318	-	ribosome recycling factor
+1597158..1597883	-	725	ACD05143.1	-	Amuc_1319	Amuc_1319	-	uridylate kinase
+1597950..1598852	-	902	ACD05144.1	-	Amuc_1320	Amuc_1320	-	MscS Mechanosensitive ion channel
+1599129..1599752	-	623	ACD05145.1	-	Amuc_1321	Amuc_1321	-	alkyl hydroperoxide reductase/ Thiol specific
+1599887..1601596	+	1709	ACD05146.1	-	Amuc_1322	Amuc_1322	-	sodium:neurotransmitter symporter
+1601701..1603260	+	1559	ACD05147.1	-	Amuc_1323	Amuc_1323	-	hypothetical protein
+1603275..1603499	+	224	ACD05148.1	-	Amuc_1324	Amuc_1324	-	translation initiation factor IF-1
+1603615..1604223	-	608	ACD05149.1	-	Amuc_1325	Amuc_1325	-	recombination protein RecR
+1604216..1604665	-	449	ACD05150.1	-	Amuc_1326	Amuc_1326	-	hypothetical protein
+1604753..1606000	-	1247	ACD05151.1	-	Amuc_1327	Amuc_1327	-	3-oxoacyl-(acyl-carrier-protein) synthase 2
+1606145..1606288	-	143	ACD05152.1	-	Amuc_1328	Amuc_1328	-	hypothetical protein
+1606275..1606721	-	446	ACD05153.1	-	Amuc_1329	Amuc_1329	-	Methionine sulfoxide reductase B
+1606901..1607980	-	1079	ACD05154.1	-	Amuc_1330	Amuc_1330	-	DNA-directed DNA polymerase
+1608167..1609486	+	1319	ACD05155.1	-	Amuc_1331	Amuc_1331	-	major facilitator superfamily MFS_1
+1609760..1609930	+	170	ACD05156.1	-	Amuc_1332	Amuc_1332	-	hypothetical protein
+1610203..1611048	+	845	ACD05157.1	-	Amuc_1333	Amuc_1333	-	hypothetical protein
+1611606..1611884	+	278	ACD05158.1	-	Amuc_1334	Amuc_1334	-	hypothetical protein
+1611881..1613281	+	1400	ACD05159.1	-	Amuc_1335	Amuc_1335	-	Bacteriophage capsid protein-like protein
+1613286..1614029	+	743	ACD05160.1	-	Amuc_1336	Amuc_1336	-	peptidase S49
+1614054..1614443	+	389	ACD05161.1	-	Amuc_1337	Amuc_1337	-	hypothetical protein
+1614484..1615320	+	836	ACD05162.1	-	Amuc_1338	Amuc_1338	-	hypothetical protein
+1615399..1615698	+	299	ACD05163.1	-	Amuc_1339	Amuc_1339	-	hypothetical protein
+1615700..1616446	+	746	ACD05164.1	-	Amuc_1340	Amuc_1340	-	hypothetical protein
+1616443..1616778	+	335	ACD05165.1	-	Amuc_1341	Amuc_1341	-	hypothetical protein
+1616999..1617937	+	938	ACD05166.1	-	Amuc_1342	Amuc_1342	-	hypothetical protein
+1618027..1618593	+	566	ACD05167.1	-	Amuc_1343	Amuc_1343	-	hypothetical protein
+1618648..1619166	+	518	ACD05168.1	-	Amuc_1344	Amuc_1344	-	hypothetical protein
+1619235..1619609	+	374	ACD05169.1	-	Amuc_1345	Amuc_1345	-	hypothetical protein
+1619620..1620003	+	383	ACD05170.1	-	Amuc_1346	Amuc_1346	-	hypothetical protein
+1620033..1620170	+	137	ACD05171.1	-	Amuc_1347	Amuc_1347	-	hypothetical protein
+1620167..1622287	+	2120	ACD05172.1	-	Amuc_1348	Amuc_1348	-	phage tape measure protein
+1622289..1623068	+	779	ACD05173.1	-	Amuc_1349	Amuc_1349	-	hypothetical protein
+1623065..1623904	+	839	ACD05174.1	-	Amuc_1350	Amuc_1350	-	hypothetical protein
+1623897..1625270	+	1373	ACD05175.1	-	Amuc_1351	Amuc_1351	-	hypothetical protein
+1625276..1626028	+	752	ACD05176.1	-	Amuc_1352	Amuc_1352	-	hypothetical protein
+1626018..1626488	-	470	ACD05177.1	-	Amuc_1353	Amuc_1353	-	hypothetical protein
+1626547..1627050	+	503	ACD05178.1	-	Amuc_1354	Amuc_1354	-	hypothetical protein
+1627047..1628744	+	1697	ACD05179.1	-	Amuc_1355	Amuc_1355	-	Bacteriophage tail assembly protein-like
+1628768..1630327	+	1559	ACD05180.1	-	Amuc_1356	Amuc_1356	-	hypothetical protein
+1630363..1630773	+	410	ACD05181.1	-	Amuc_1357	Amuc_1357	-	hypothetical protein
+1630786..1631250	+	464	ACD05182.1	-	Amuc_1358	Amuc_1358	-	hypothetical protein
+1631255..1631533	+	278	ACD05183.1	-	Amuc_1359	Amuc_1359	-	hypothetical protein
+1631616..1632176	+	560	ACD05184.1	-	Amuc_1360	Amuc_1360	-	hypothetical protein
+1632243..1632686	-	443	ACD05185.1	-	Amuc_1361	Amuc_1361	-	transcriptional regulator, XRE family
+1632716..1632925	-	209	ACD05186.1	-	Amuc_1362	Amuc_1362	-	conserved hypothetical protein
+1633146..1633742	-	596	ACD05187.1	-	Amuc_1363	Amuc_1363	-	hypothetical protein
+1633843..1634412	-	569	ACD05188.1	-	Amuc_1364	Amuc_1364	-	hypothetical protein
+1634688..1635446	-	758	ACD05189.1	-	Amuc_1365	Amuc_1365	-	hypothetical protein
+1635562..1635774	+	212	ACD05190.1	-	Amuc_1366	Amuc_1366	-	hypothetical protein
+1635927..1636721	+	794	ACD05191.1	-	Amuc_1367	Amuc_1367	-	prophage antirepressor
+1636881..1637228	-	347	ACD05192.1	-	Amuc_1368	Amuc_1368	-	hypothetical protein
+1637637..1638020	+	383	ACD05193.1	-	Amuc_1369	Amuc_1369	-	hypothetical protein
+1638020..1638373	+	353	ACD05194.1	-	Amuc_1370	Amuc_1370	-	hypothetical protein
+1638396..1638656	+	260	ACD05195.1	-	Amuc_1371	Amuc_1371	-	hypothetical protein
+1638737..1639426	+	689	ACD05196.1	-	Amuc_1372	Amuc_1372	-	hypothetical protein
+1639426..1639662	+	236	ACD05197.1	-	Amuc_1373	Amuc_1373	-	hypothetical protein
+1639659..1639901	+	242	ACD05198.1	-	Amuc_1374	Amuc_1374	-	hypothetical protein
+1639957..1640196	+	239	ACD05199.1	-	Amuc_1375	Amuc_1375	-	hypothetical protein
+1640200..1641009	+	809	ACD05200.1	-	Amuc_1376	Amuc_1376	-	hypothetical protein
+1641031..1642344	+	1313	ACD05201.1	-	Amuc_1377	Amuc_1377	-	DnaB domain protein helicase domain protein
+1642372..1643622	-	1250	ACD05202.1	-	Amuc_1378	Amuc_1378	-	integrase family protein
+1644002..1645114	-	1112	ACD05203.1	-	Amuc_1379	Amuc_1379	-	ABC-2 type transporter
+1645119..1646225	-	1106	ACD05204.1	-	Amuc_1380	Amuc_1380	-	ABC-2 type transporter
+1646222..1647985	-	1763	ACD05205.1	-	Amuc_1381	Amuc_1381	-	ABC transporter related
+1647982..1649004	-	1022	ACD05206.1	-	Amuc_1382	Amuc_1382	-	secretion protein HlyD family protein
+1649138..1651966	+	2828	ACD05207.1	-	Amuc_1383	Amuc_1383	-	alanyl-tRNA synthetase
+1651999..1652823	+	824	ACD05208.1	-	Amuc_1384	Amuc_1384	-	CDP-diacylglycerol/serine
+1653094..1653609	-	515	ACD05209.1	-	Amuc_1385	Amuc_1385	-	hypothetical protein
+1653674..1654513	+	839	ACD05210.1	-	Amuc_1386	Amuc_1386	-	dihydropteroate synthase
+1654521..1657112	+	2591	ACD05211.1	-	Amuc_1387	Amuc_1387	-	hypothetical protein
+1657289..1659046	+	1757	ACD05212.1	-	Amuc_1388	Amuc_1388	-	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate
+1659074..1659724	+	650	ACD05213.1	-	Amuc_1389	Amuc_1389	-	short-chain dehydrogenase/reductase SDR
+1660025..1661212	+	1187	ACD05214.1	-	Amuc_1390	Amuc_1390	-	conserved hypothetical protein
+1661268..1662551	-	1283	ACD05215.1	-	Amuc_1391	Amuc_1391	-	conserved hypothetical protein
+1662676..1663848	+	1172	ACD05216.1	-	Amuc_1392	Amuc_1392	-	Beta-ketoacyl synthase
+1663872..1665035	+	1163	ACD05217.1	-	Amuc_1393	Amuc_1393	-	8-amino-7-oxononanoate synthase
+1665288..1665743	+	455	ACD05218.1	-	Amuc_1394	Amuc_1394	-	hypothetical protein
+1666647..1667210	+	563	ACD05219.1	-	Amuc_1395	Amuc_1395	-	hypothetical protein
+1667480..1669273	-	1793	ACD05220.1	-	Amuc_1396	Amuc_1396	-	aspartyl-tRNA synthetase
+1669309..1670583	-	1274	ACD05221.1	-	Amuc_1397	Amuc_1397	-	Histidine--tRNA ligase
+1671073..1671813	+	740	ACD05222.1	-	Amuc_1398	Amuc_1398	-	hydrogenase accessory protein HypB
+1671794..1674121	+	2327	ACD05223.1	-	Amuc_1399	Amuc_1399	-	(NiFe) hydrogenase maturation protein HypF
+1674125..1674367	+	242	ACD05224.1	-	Amuc_1400	Amuc_1400	-	hydrogenase assembly chaperone hypC/hupF
+1674401..1675468	+	1067	ACD05225.1	-	Amuc_1401	Amuc_1401	-	hydrogenase expression/formation protein HypD
+1675473..1676507	+	1034	ACD05226.1	-	Amuc_1402	Amuc_1402	-	hydrogenase expression/formation protein HypE
+1676665..1677786	-	1121	ACD05227.1	-	Amuc_1404	Amuc_1404	-	Sel1 domain protein repeat-containing protein
+1678686..1680653	+	1967	ACD05228.1	-	Amuc_1405	Amuc_1405	-	glycosyl transferase group 1
+1680958..1682886	+	1928	ACD05229.1	-	Amuc_1406	Amuc_1406	-	chaperone protein DnaK
+1682982..1683272	+	290	ACD05230.1	-	Amuc_1407	Amuc_1407	-	chaperonin Cpn10
+1683318..1684970	+	1652	ACD05231.1	-	Amuc_1408	Amuc_1408	-	chaperonin GroEL
+1685144..1685596	+	452	ACD05232.1	-	Amuc_1409	Amuc_1409	-	conserved hypothetical protein
+1685768..1687999	+	2231	ACD05233.1	-	Amuc_1410	Amuc_1410	-	putative phosphate/sulphate permease
+1688582..1689256	+	674	ACD05234.1	-	Amuc_1411	Amuc_1411	-	hypothetical protein
+1689282..1690496	+	1214	ACD05235.1	-	Amuc_1412	Amuc_1412	-	hypothetical protein
+1690589..1692796	+	2207	ACD05236.1	-	Amuc_1413	Amuc_1413	-	capsular exopolysaccharide family
+1692808..1693413	+	605	ACD05237.1	-	Amuc_1414	Amuc_1414	-	polysaccharide export protein
+1694000..1694533	+	533	ACD05238.1	-	Amuc_1415	Amuc_1415	-	hypothetical protein
+1694530..1695192	+	662	ACD05239.1	-	Amuc_1416	Amuc_1416	-	Holliday junction DNA helicase RuvA
+1695420..1696445	+	1025	ACD05240.1	-	Amuc_1417	Amuc_1417	-	glyceraldehyde-3-phosphate dehydrogenase, type
+1696613..1697824	+	1211	ACD05241.1	-	Amuc_1418	Amuc_1418	-	Phosphoglycerate kinase
+1698044..1699048	+	1004	ACD05242.1	-	Amuc_1419	Amuc_1419	-	hypothetical protein
+1699183..1701132	-	1949	ACD05243.1	-	Amuc_1420	Amuc_1420	-	conserved hypothetical protein
+1701473..1704088	+	2615	ACD05244.1	-	Amuc_1421	Amuc_1421	-	serine/threonine protein kinase
+1704234..1707411	-	3177	TBD	-	Amuc_1422	Amuc_1422	-	recG, transcription-repair coupling factor
+1707538..1708749	-	1211	ACD05245.1	-	Amuc_1423	Amuc_1423	-	hypothetical protein
+1708758..1711310	-	2552	ACD05246.1	-	Amuc_1424	Amuc_1424	-	major facilitator superfamily MFS_1
+1711343..1712326	-	983	ACD05247.1	-	Amuc_1425	Amuc_1425	-	Kelch repeat-containing protein
+1712456..1713289	+	833	ACD05248.1	-	Amuc_1426	Amuc_1426	-	hypothetical protein
+1713438..1714247	-	809	ACD05249.1	-	Amuc_1427	Amuc_1427	-	histidinol phosphate phosphatase HisJ family
+1714392..1715483	+	1091	ACD05250.1	-	Amuc_1428	Amuc_1428	-	Phosphate acetyltransferase
+1715437..1716441	-	1004	ACD05251.1	-	Amuc_1429	Amuc_1429	-	tRNA(Ile)-lysidine synthetase
+1716548..1716877	-	329	ACD05252.1	-	Amuc_1430	Amuc_1430	-	ribosomal protein L31
+1716975..1717850	+	875	ACD05253.1	-	Amuc_1431	Amuc_1431	-	hypothetical protein
+1718558..1718989	-	431	ACD05254.1	-	Amuc_1432	Amuc_1432	-	putative lipoprotein
+1719366..1719647	+	281	ACD05255.1	-	Amuc_1433	Amuc_1433	-	hypothetical protein
+1719706..1720686	+	980	ACD05256.1	-	Amuc_1434	Amuc_1434	-	hypothetical protein
+1720796..1722118	-	1322	ACD05257.1	-	Amuc_1435	Amuc_1435	-	nucleotide sugar dehydrogenase
+1722303..1723292	+	989	ACD05258.1	-	Amuc_1436	Amuc_1436	-	malate dehydrogenase
+1723436..1725586	+	2150	ACD05259.1	-	Amuc_1437	Amuc_1437	-	hypothetical protein
+1725596..1727515	+	1919	ACD05260.1	-	Amuc_1438	Amuc_1438	-	Glycosyl hydrolase family 98 putative
+1727595..1729982	+	2387	ACD05261.1	-	Amuc_1439	Amuc_1439	-	Organic solvent tolerance protein OstA-like
+1730319..1730966	+	647	ACD05262.1	-	Amuc_1440	Amuc_1440	-	nitroreductase
+1730979..1731755	-	776	ACD05263.1	-	Amuc_1441	Amuc_1441	-	pseudouridine synthase
+1731770..1732462	-	692	ACD05264.1	-	Amuc_1442	Amuc_1442	-	pseudouridine synthase
+1732599..1733981	+	1382	ACD05265.1	-	Amuc_1443	Amuc_1443	-	hypothetical protein
+1734392..1734907	+	515	ACD05266.1	-	Amuc_1444	Amuc_1444	-	conserved hypothetical protein
+1735037..1735786	-	749	ACD05267.1	-	Amuc_1445	Amuc_1445	-	ABC transporter related
+1735779..1737263	-	1484	ACD05268.1	-	Amuc_1446	Amuc_1446	-	polar amino acid ABC transporter, inner membrane
+1737890..1738933	+	1043	ACD05269.1	-	Amuc_1447	Amuc_1447	-	N-acetyl-gamma-glutamyl-phosphate reductase
+1738967..1740220	+	1253	ACD05270.1	-	Amuc_1448	Amuc_1448	-	arginine biosynthesis bifunctional protein ArgJ
+1740271..1740732	+	461	ACD05271.1	-	Amuc_1449	Amuc_1449	-	hypothetical protein
+1740870..1742012	-	1142	ACD05272.1	-	Amuc_1450	Amuc_1450	-	Sel1 domain protein repeat-containing protein
+1742143..1743168	-	1025	ACD05273.1	-	Amuc_1451	Amuc_1451	-	hypothetical protein
+1743346..1745847	-	2501	ACD05274.1	-	Amuc_1452	Amuc_1452	-	excinuclease ABC, A subunit
+1745849..1746487	-	638	ACD05275.1	-	Amuc_1453	Amuc_1453	-	hypothetical protein
+1746558..1747145	-	587	ACD05276.1	-	Amuc_1454	Amuc_1454	-	protein of unknown function DUF583
+1747354..1748367	+	1013	ACD05277.1	-	Amuc_1455	Amuc_1455	-	hypothetical protein
+1748418..1748936	-	518	ACD05278.1	-	Amuc_1456	Amuc_1456	-	hypothetical protein
+1749000..1749785	+	785	ACD05279.1	-	Amuc_1457	Amuc_1457	-	phosphoribosylformimino-5-aminoimidazole
+1749782..1750072	+	290	ACD05280.1	-	Amuc_1458	Amuc_1458	-	protein of unknown function DUF167
+1750207..1750761	+	554	ACD05281.1	-	Amuc_1459	Amuc_1459	-	GrpE protein
+1750786..1751943	+	1157	ACD05282.1	-	Amuc_1460	Amuc_1460	-	chaperone protein DnaJ
+1751966..1752703	+	737	ACD05283.1	-	Amuc_1461	Amuc_1461	-	protein of unknown function DUF558
+1752725..1753717	+	992	ACD05284.1	-	Amuc_1462	Amuc_1462	-	Haloacid dehalogenase domain protein hydrolase
+1753730..1755520	-	1790	ACD05285.1	-	Amuc_1463	Amuc_1463	-	hypothetical protein
+1755605..1756540	-	935	ACD05286.1	-	Amuc_1464	Amuc_1464	-	Squalene/phytoene synthase
+1756580..1757875	-	1295	ACD05287.1	-	Amuc_1465	Amuc_1465	-	signal peptidase I
+1757919..1759295	-	1376	ACD05288.1	-	Amuc_1466	Amuc_1466	-	FAD linked oxidase domain protein
+1759299..1759883	-	584	ACD05289.1	-	Amuc_1467	Amuc_1467	-	hypothetical protein
+1759964..1760629	+	665	ACD05290.1	-	Amuc_1468	Amuc_1468	-	hypothetical protein
+1760645..1761367	-	722	ACD05291.1	-	Amuc_1469	Amuc_1469	-	hypothetical protein
+1761382..1762329	-	947	ACD05292.1	-	Amuc_1470	Amuc_1470	-	eight transmembrane protein EpsH
+1762415..1763344	+	929	ACD05293.1	-	Amuc_1471	Amuc_1471	-	ribose-phosphate pyrophosphokinase
+1763478..1764083	+	605	ACD05294.1	-	Amuc_1472	Amuc_1472	-	ribosomal 5S rRNA E-loop binding protein
+1764225..1765451	+	1226	ACD05295.1	-	Amuc_1473	Amuc_1473	-	hypothetical protein
+1765736..1766326	+	590	ACD05296.1	-	Amuc_1474	Amuc_1474	-	Imidazoleglycerol-phosphate dehydratase
+1766332..1766940	+	608	ACD05297.1	-	Amuc_1475	Amuc_1475	-	imidazole glycerol phosphate synthase, glutamine
+1767339..1767623	-	284	ACD05298.1	-	Amuc_1476	Amuc_1476	-	ribosomal protein S6
+1768112..1768981	-	869	ACD05299.1	-	Amuc_1477	Amuc_1477	-	4-hydroxythreonine-4-phosphate dehydrogenase
+1769001..1769261	-	260	ACD05300.1	-	Amuc_1478	Amuc_1478	-	hypothetical protein
+1769422..1769832	-	410	ACD05301.1	-	Amuc_1479	Amuc_1479	-	hypothetical protein
+1770006..1770977	+	971	ACD05302.1	-	Amuc_1480	Amuc_1480	-	peptidase S11 D-alanyl-D-alanine
+1771022..1772101	+	1079	ACD05303.1	-	Amuc_1481	Amuc_1481	-	6-phosphofructokinase
+1772176..1773291	-	1115	ACD05304.1	-	Amuc_1482	Amuc_1482	-	protein of unknown function DUF805
+1773387..1774199	-	812	ACD05305.1	-	Amuc_1483	Amuc_1483	-	zinc/iron permease
+1774250..1775269	-	1019	ACD05306.1	-	Amuc_1484	Amuc_1484	-	hypothetical protein
+1775283..1776287	-	1004	ACD05307.1	-	Amuc_1485	Amuc_1485	-	hypothetical protein
+1776308..1776769	-	461	ACD05308.1	-	Amuc_1486	Amuc_1486	-	hypothetical protein
+1776878..1778152	+	1274	ACD05309.1	-	Amuc_1487	Amuc_1487	-	aminotransferase class I and II
+1778173..1779048	+	875	ACD05310.1	-	Amuc_1488	Amuc_1488	-	domain of unknown function DUF1732
+1779045..1779647	+	602	ACD05311.1	-	Amuc_1489	Amuc_1489	-	Guanylate kinase
+1780159..1782033	-	1874	ACD05312.1	-	Amuc_1490	Amuc_1490	-	TrkA-C domain protein
+1782165..1783010	+	845	ACD05313.1	-	Amuc_1491	Amuc_1491	-	glutamyl-tRNA synthetase class Ic
+1783067..1783546	-	479	ACD05314.1	-	Amuc_1492	Amuc_1492	-	hypothetical protein
+1783554..1783985	-	431	ACD05315.1	-	Amuc_1493	Amuc_1493	-	hypothetical protein
+1784026..1784952	-	926	ACD05316.1	-	Amuc_1494	Amuc_1494	-	1,4-dihydroxy-2-naphthoate
+1784972..1785679	-	707	ACD05317.1	-	Amuc_1495	Amuc_1495	-	3-dehydroquinate dehydratase
+1786040..1786834	+	794	ACD05318.1	-	Amuc_1496	Amuc_1496	-	hypothetical protein
+1787040..1788089	-	1049	ACD05319.1	-	Amuc_1497	Amuc_1497	-	hypothetical protein
+1788186..1788875	-	689	ACD05320.1	-	Amuc_1498	Amuc_1498	-	protein of unknown function DUF152
+1789022..1789753	+	731	ACD05321.1	-	Amuc_1499	Amuc_1499	-	putative sigma E regulatory protein, MucB/RseB
+1789900..1790862	+	962	ACD05322.1	-	Amuc_1500	Amuc_1500	-	polysaccharide deacetylase
+1791111..1793492	+	2381	ACD05323.1	-	Amuc_1501	Amuc_1501	-	protein-export membrane protein SecD
+1795196..1796311	-	1115	ACD05324.1	-	Amuc_1503	Amuc_1503	-	peptidase A24A domain protein
+1796304..1797362	-	1058	ACD05325.1	-	Amuc_1504	Amuc_1504	-	conserved hypothetical protein
+1797638..1798762	+	1124	ACD05326.1	-	Amuc_1505	Amuc_1505	-	DNA-directed RNA polymerase, alpha subunit
+1798799..1799209	+	410	ACD05327.1	-	Amuc_1506	Amuc_1506	-	ribosomal protein L17
+1799354..1800280	+	926	ACD05328.1	-	Amuc_1507	Amuc_1507	-	malonyl CoA-acyl carrier protein transacylase
+1800347..1800544	-	197	ACD05329.1	-	Amuc_1508	Amuc_1508	-	hypothetical protein
+1800745..1801440	-	695	ACD05330.1	-	Amuc_1509	Amuc_1509	-	HAD-superfamily hydrolase, subfamily IA, variant
+1801427..1802617	-	1190	ACD05331.1	-	Amuc_1510	Amuc_1510	-	permease YjgP/YjgQ family protein
+1803073..1804185	+	1112	ACD05332.1	-	Amuc_1511	Amuc_1511	-	hypothetical protein
+1804182..1805618	+	1436	ACD05333.1	-	Amuc_1512	Amuc_1512	-	OmpA/MotB domain protein
+1805618..1806484	+	866	ACD05334.1	-	Amuc_1513	Amuc_1513	-	sucrose-6F-phosphate phosphohydrolase
+1806588..1808570	+	1982	ACD05335.1	-	Amuc_1514	Amuc_1514	-	hypothetical protein
+1808656..1809906	+	1250	ACD05336.1	-	Amuc_1515	Amuc_1515	-	major facilitator superfamily MFS_1
+1810065..1811702	-	1637	ACD05337.1	-	Amuc_1516	Amuc_1516	-	putative PAS/PAC sensor protein
+1811833..1812519	-	686	ACD05338.1	-	Amuc_1517	Amuc_1517	-	RNA polymerase, sigma-24 subunit, ECF subfamily
+1812643..1813653	+	1010	ACD05339.1	-	Amuc_1518	Amuc_1518	-	Endonuclease/exonuclease/phosphatase
+1814270..1817506	+	3236	ACD05340.1	-	Amuc_1519	Amuc_1519	-	helicase domain protein
+1817509..1818111	+	602	ACD05341.1	-	Amuc_1520	Amuc_1520	-	hypothetical protein
+1818112..1820010	+	1898	ACD05342.1	-	Amuc_1521	Amuc_1521	-	DNA methylase N-4/N-6 domain protein
+1820013..1823039	+	3026	ACD05343.1	-	Amuc_1522	Amuc_1522	-	type III restriction protein res subunit
+1823278..1824024	+	746	ACD05344.1	-	Amuc_1523	Amuc_1523	-	hypothetical protein
+1824057..1824857	+	800	ACD05345.1	-	Amuc_1524	Amuc_1524	-	hypothetical protein
+1824888..1825958	+	1070	ACD05346.1	-	Amuc_1525	Amuc_1525	-	hypothetical protein
+1826049..1826789	+	740	ACD05347.1	-	Amuc_1526	Amuc_1526	-	Lipoate-protein ligase A-like protein
+1826813..1827802	+	989	ACD05348.1	-	Amuc_1527	Amuc_1527	-	aldo/keto reductase
+1827933..1830161	+	2228	ACD05349.1	-	Amuc_1528	Amuc_1528	-	V-type H(+)-translocating pyrophosphatase
+1830507..1831427	+	920	ACD05350.1	-	Amuc_1529	Amuc_1529	-	hypothetical protein
+1831434..1832351	+	917	ACD05351.1	-	Amuc_1530	Amuc_1530	-	hypothetical protein
+1832917..1834308	+	1391	ACD05352.1	-	Amuc_1531	Amuc_1531	-	Anthranilate synthase
+1834292..1835884	+	1592	ACD05353.1	-	Amuc_1532	Amuc_1532	-	anthranilate phosphoribosyltransferase
+1835874..1836659	+	785	ACD05354.1	-	Amuc_1533	Amuc_1533	-	Indole-3-glycerol-phosphate synthase
+1836656..1837303	+	647	ACD05355.1	-	Amuc_1534	Amuc_1534	-	Phosphoribosylanthranilate isomerase
+1837300..1838472	+	1172	ACD05356.1	-	Amuc_1535	Amuc_1535	-	tryptophan synthase, beta subunit
+1838486..1839274	+	788	ACD05357.1	-	Amuc_1536	Amuc_1536	-	tryptophan synthase, alpha subunit
+1839655..1849113	+	9458	ACD05358.1	-	Amuc_1537	Amuc_1537	-	outer membrane autotransporter barrel domain
+1849235..1849645	-	410	ACD05359.1	-	Amuc_1538	Amuc_1538	-	OsmC family protein
+1849844..1851007	-	1163	ACD05360.1	-	Amuc_1539	Amuc_1539	-	homoserine O-acetyltransferase
+1851094..1851528	-	434	ACD05361.1	-	Amuc_1540	Amuc_1540	-	ribosomal protein L36
+1851612..1853471	+	1859	ACD05362.1	-	Amuc_1541	Amuc_1541	-	lipid A biosynthesis acyltransferase
+1853719..1854498	-	779	ACD05363.1	-	Amuc_1542	Amuc_1542	-	pyruvate formate-lyase activating enzyme
+1854515..1856782	-	2267	ACD05364.1	-	Amuc_1543	Amuc_1543	-	formate acetyltransferase
+1857063..1857845	+	782	ACD05365.1	-	Amuc_1544	Amuc_1544	-	lipolytic protein G-D-S-L family
+1857890..1858045	+	155	ACD05366.1	-	Amuc_1545	Amuc_1545	-	hypothetical protein
+1858068..1858856	+	788	ACD05367.1	-	Amuc_1546	Amuc_1546	-	lipolytic protein G-D-S-L family
+1858941..1860728	+	1787	ACD05368.1	-	Amuc_1547	Amuc_1547	-	conserved hypothetical protein
+1860742..1862103	-	1361	ACD05369.1	-	Amuc_1548	Amuc_1548	-	Ankyrin
+1862641..1863480	+	839	ACD05370.1	-	Amuc_1549	Amuc_1549	-	Cof-like hydrolase
+1863510..1863698	+	188	ACD05371.1	-	Amuc_1550	Amuc_1550	-	hypothetical protein
+1864098..1864478	+	380	ACD05372.1	-	Amuc_1551	Amuc_1551	-	NADH-ubiquinone/plastoquinone oxidoreductase
+1864699..1865859	+	1160	ACD05373.1	-	Amuc_1552	Amuc_1552	-	major facilitator superfamily MFS_1
+1866137..1866415	+	278	ACD05374.1	-	Amuc_1553	Amuc_1553	-	hypothetical protein
+1866456..1866836	-	380	ACD05375.1	-	Amuc_1554	Amuc_1554	-	hypothetical protein
+1866923..1869070	+	2147	ACD05376.1	-	Amuc_1555	Amuc_1555	-	excinuclease ABC, B subunit
+1869587..1869796	+	209	ACD05377.1	-	Amuc_1556	Amuc_1556	-	ribosomal protein L35
+1869946..1870329	+	383	ACD05378.1	-	Amuc_1557	Amuc_1557	-	ribosomal protein L20
+1870949..1872394	+	1445	ACD05379.1	-	Amuc_1558	Amuc_1558	-	peptidase M50
+1872428..1873813	+	1385	ACD05380.1	-	Amuc_1559	Amuc_1559	-	hypothetical protein
+1874067..1874855	+	788	ACD05381.1	-	Amuc_1560	Amuc_1560	-	hypothetical protein
+1875069..1878233	-	3164	ACD05382.1	-	Amuc_1561	Amuc_1561	-	UvrD/REP helicase
+1878235..1881108	-	2873	ACD05383.1	-	Amuc_1562	Amuc_1562	-	ATP-dependent nuclease subunit B-like protein
+1881332..1882249	-	917	ACD05384.1	-	Amuc_1563	Amuc_1563	-	protein of unknown function DUF6 transmembrane
+1882454..1883224	-	770	ACD05385.1	-	Amuc_1564	Amuc_1564	-	Type II site-specific deoxyribonuclease
+1883660..1890037	-	6377	ACD05386.1	-	Amuc_1565	Amuc_1565	-	alpha-2-macroglobulin domain protein
+1890175..1891362	-	1187	ACD05387.1	-	Amuc_1566	Amuc_1566	-	iron-containing alcohol dehydrogenase
+1892288..1892815	+	527	ACD05388.1	-	Amuc_1567	Amuc_1567	-	methylated-DNA/protein-cysteine
+1892976..1893428	-	452	ACD05389.1	-	Amuc_1568	Amuc_1568	-	hypothetical protein
+1893538..1894059	-	521	ACD05390.1	-	Amuc_1569	Amuc_1569	-	hypothetical protein
+1894140..1895048	-	908	ACD05391.1	-	Amuc_1570	Amuc_1570	-	hypothetical protein
+1895173..1895841	+	668	ACD05392.1	-	Amuc_1571	Amuc_1571	-	peptidase M22 glycoprotease
+1895914..1897056	+	1142	ACD05393.1	-	Amuc_1572	Amuc_1572	-	2-methylcitrate synthase/citrate synthase II
+1897484..1897948	-	464	ACD05394.1	-	Amuc_1574	Amuc_1574	-	tRNA/rRNA methyltransferase (SpoU)
+1898029..1898592	+	563	ACD05395.1	-	Amuc_1575	Amuc_1575	-	DEAD/DEAH box helicase domain protein
+1898779..1899237	-	458	ACD05396.1	-	Amuc_1576	Amuc_1576	-	SsrA-binding protein
+1899352..1899573	-	221	ACD05397.1	-	Amuc_1577	Amuc_1577	-	DNA-directed RNA polymerase, omega subunit
+1899648..1900214	-	566	ACD05398.1	-	Amuc_1578	Amuc_1578	-	pseudouridine synthase
+1900236..1901096	+	860	ACD05399.1	-	Amuc_1579	Amuc_1579	-	hypothetical protein
+1901200..1901655	+	455	ACD05400.1	-	Amuc_1580	Amuc_1580	-	Nucleoside-diphosphate kinase
+1901802..1902623	-	821	ACD05401.1	-	Amuc_1581	Amuc_1581	-	glycosyl transferase family 2
+1902632..1903576	-	944	ACD05402.1	-	Amuc_1582	Amuc_1582	-	glycosyl transferase family 2
+1903702..1904370	-	668	ACD05403.1	-	Amuc_1583	Amuc_1583	-	hypothetical protein
+1904389..1905657	-	1268	ACD05404.1	-	Amuc_1584	Amuc_1584	-	type II secretion system protein
+1905727..1907385	-	1658	ACD05405.1	-	Amuc_1585	Amuc_1585	-	type II secretion system protein E
+1907414..1909054	-	1640	ACD05406.1	-	Amuc_1586	Amuc_1586	-	type II secretion system protein E
+1909267..1910271	-	1004	ACD05407.1	-	Amuc_1587	Amuc_1587	-	TIM-barrel protein, nifR3 family
+1910533..1911042	-	509	ACD05408.1	-	Amuc_1588	Amuc_1588	-	hypothetical protein
+1911201..1912367	-	1166	ACD05409.1	-	Amuc_1589	Amuc_1589	-	aminotransferase class I and II
+1912537..1914102	-	1565	ACD05410.1	-	Amuc_1590	Amuc_1590	-	integral membrane protein MviN
+1914117..1915208	-	1091	ACD05411.1	-	Amuc_1591	Amuc_1591	-	cytidyltransferase-related domain protein
+1915358..1916002	-	644	ACD05412.1	-	Amuc_1592	Amuc_1592	-	Superoxide dismutase
+1916219..1917679	-	1460	ACD05413.1	-	Amuc_1593	Amuc_1593	-	protein of unknown function DUF187
+1917777..1918532	-	755	ACD05414.1	-	Amuc_1594	Amuc_1594	-	NCAIR mutase (PurE)-related protein-like
+1918529..1919344	-	815	ACD05415.1	-	Amuc_1595	Amuc_1595	-	ExsB family protein
+1919316..1920536	-	1220	ACD05416.1	-	Amuc_1596	Amuc_1596	-	protein of unknown function DUF111
+1920739..1921749	+	1010	ACD05417.1	-	Amuc_1597	Amuc_1597	-	Polyprenyl synthetase
+1921928..1923283	-	1355	ACD05418.1	-	Amuc_1598	Amuc_1598	-	amino acid/peptide transporter
+1923431..1925206	-	1775	ACD05419.1	-	Amuc_1599	Amuc_1599	-	hypothetical protein
+1925538..1926083	+	545	ACD05420.1	-	Amuc_1600	Amuc_1600	-	FeS assembly SUF system protein SufT
+1926090..1926563	+	473	ACD05421.1	-	Amuc_1601	Amuc_1601	-	hypothetical protein
+1926797..1926949	-	152	ACD05422.1	-	Amuc_1602	Amuc_1602	-	hypothetical protein
+1926952..1927836	-	884	ACD05423.1	-	Amuc_1603	Amuc_1603	-	hypothetical protein
+1928194..1929576	-	1382	ACD05424.1	-	Amuc_1604	Amuc_1604	-	NADH dehydrogenase (quinone)
+1929627..1931051	-	1424	ACD05425.1	-	Amuc_1605	Amuc_1605	-	proton-translocating NADH-quinone
+1931074..1932906	-	1832	ACD05426.1	-	Amuc_1606	Amuc_1606	-	proton-translocating NADH-quinone
+1932930..1933247	-	317	ACD05427.1	-	Amuc_1607	Amuc_1607	-	NADH-ubiquinone oxidoreductase chain 4L
+1933273..1933983	-	710	ACD05428.1	-	Amuc_1608	Amuc_1608	-	NADH-ubiquinone/plastoquinone oxidoreductase
+1934012..1934575	-	563	ACD05429.1	-	Amuc_1609	Amuc_1609	-	4Fe-4S ferredoxin iron-sulfur binding domain
+1934610..1935878	-	1268	ACD05430.1	-	Amuc_1610	Amuc_1610	-	NADH dehydrogenase (quinone)
+1935914..1937596	-	1682	ACD05431.1	-	Amuc_1611	Amuc_1611	-	ferredoxin
+1937702..1939102	-	1400	ACD05432.1	-	Amuc_1612	Amuc_1612	-	NADH dehydrogenase (quinone)
+1939136..1939717	-	581	ACD05433.1	-	Amuc_1613	Amuc_1613	-	NADH dehydrogenase (ubiquinone) 24 kDa subunit
+1939767..1941011	-	1244	ACD05434.1	-	Amuc_1614	Amuc_1614	-	NADH dehydrogenase I, D subunit
+1941433..1942788	+	1355	ACD05435.1	-	Amuc_1615	Amuc_1615	-	hypothetical protein
+1942799..1944265	-	1466	ACD05436.1	-	Amuc_1616	Amuc_1616	-	polysaccharide deacetylase
+1944458..1946071	+	1613	ACD05437.1	-	Amuc_1617	Amuc_1617	-	protein of unknown function DUF1504
+1946096..1946701	+	605	ACD05438.1	-	Amuc_1618	Amuc_1618	-	riboflavin synthase, alpha subunit
+1946895..1947755	-	860	ACD05439.1	-	Amuc_1619	Amuc_1619	-	ribosomal L11 methyltransferase
+1948135..1951299	+	3164	ACD05440.1	-	Amuc_1620	Amuc_1620	-	outer membrane autotransporter barrel domain
+1951395..1953266	-	1871	ACD05441.1	-	Amuc_1621	Amuc_1621	-	4-alpha-glucanotransferase
+1953635..1954243	+	608	ACD05442.1	-	Amuc_1622	Amuc_1622	-	hypothetical protein
+1954358..1955716	-	1358	ACD05443.1	-	Amuc_1623	Amuc_1623	-	MiaB-like tRNA modifying enzyme YliG
+1955743..1957179	-	1436	ACD05444.1	-	Amuc_1624	Amuc_1624	-	protein of unknown function DUF107
+1957359..1959158	+	1799	ACD05445.1	-	Amuc_1625	Amuc_1625	-	DNA primase
+1959218..1961284	+	2066	ACD05446.1	-	Amuc_1626	Amuc_1626	-	RNA polymerase, sigma 70 subunit, RpoD family
+1961323..1962063	+	740	ACD05447.1	-	Amuc_1627	Amuc_1627	-	peptidase M15D vanX D-ala-D-ala dipeptidase
+1962244..1962705	+	461	ACD05448.1	-	Amuc_1628	Amuc_1628	-	hypothetical protein
+1962782..1963297	+	515	ACD05449.1	-	Amuc_1629	Amuc_1629	-	hypothetical protein
+1963497..1965197	-	1700	ACD05450.1	-	Amuc_1630	Amuc_1630	-	sugar-phosphate isomerase, RpiB/LacA/LacB
+1965360..1967606	-	2246	ACD05451.1	-	Amuc_1631	Amuc_1631	-	carboxyl-terminal protease
+1968147..1969067	+	920	ACD05452.1	-	Amuc_1632	Amuc_1632	-	phosphatidate cytidylyltransferase
+1969104..1971689	+	2585	ACD05453.1	-	Amuc_1633	Amuc_1633	-	Helicase ATP-dependent domain protein
+1971804..1974044	+	2240	ACD05454.1	-	Amuc_1634	Amuc_1634	-	conserved hypothetical protein, membrane
+1974548..1975846	+	1298	ACD05455.1	-	Amuc_1635	Amuc_1635	-	hypothetical protein
+1975843..1977237	+	1394	ACD05456.1	-	Amuc_1636	Amuc_1636	-	polynucleotide adenylyltransferase/metal
+1977309..1979033	+	1724	ACD05457.1	-	Amuc_1637	Amuc_1637	-	alpha amylase catalytic region
+1979169..1981670	+	2501	ACD05458.1	-	Amuc_1638	Amuc_1638	-	type II and III secretion system protein
+1981749..1983332	+	1583	ACD05459.1	-	Amuc_1639	Amuc_1639	-	hypothetical protein
+1983348..1984076	+	728	ACD05460.1	-	Amuc_1640	Amuc_1640	-	protein of unknown function DUF374
+1984049..1984924	+	875	ACD05461.1	-	Amuc_1641	Amuc_1641	-	Methenyltetrahydrofolate cyclohydrolase
+1984992..1985774	+	782	ACD05462.1	-	Amuc_1642	Amuc_1642	-	short-chain dehydrogenase/reductase SDR
+1985917..1986774	-	857	ACD05463.1	-	Amuc_1643	Amuc_1643	-	diacylglycerol kinase catalytic region
+1986771..1987910	-	1139	ACD05464.1	-	Amuc_1644	Amuc_1644	-	transglutaminase domain protein
+1987923..1988981	-	1058	ACD05465.1	-	Amuc_1645	Amuc_1645	-	dihydrouridine synthase DuS
+1989052..1990251	+	1199	ACD05466.1	-	Amuc_1646	Amuc_1646	-	hydroxymethylbutenyl pyrophosphate reductase
+1990690..1990953	-	263	ACD05467.1	-	Amuc_1648	Amuc_1648	-	ribosomal protein S20
+1991114..1991722	+	608	ACD05468.1	-	Amuc_1649	Amuc_1649	-	beta-phosphoglucomutase family hydrolase
+1991872..1993725	+	1853	ACD05469.1	-	Amuc_1650	Amuc_1650	-	acetolactate synthase, large subunit,
+1994440..1995273	+	833	ACD05470.1	-	Amuc_1651	Amuc_1651	-	Basic Secretory Protein
+1995547..1996443	+	896	ACD05471.1	-	Amuc_1652	Amuc_1652	-	phosphatidylserine decarboxylase-related
+1996582..1997235	-	653	ACD05472.1	-	Amuc_1653	Amuc_1653	-	Ribulose-phosphate 3-epimerase
+1997260..1999833	-	2573	ACD05473.1	-	Amuc_1654	Amuc_1654	-	leucyl-tRNA synthetase
+2000024..2001688	+	1664	ACD05474.1	-	Amuc_1655	Amuc_1655	-	sulfatase
+2002005..2002796	-	791	ACD05475.1	-	Amuc_1656	Amuc_1656	-	hypothetical protein
+2002973..2004175	+	1202	ACD05476.1	-	Amuc_1657	Amuc_1657	-	carboxynorspermidine decarboxylase
+2004199..2006136	+	1937	ACD05477.1	-	Amuc_1658	Amuc_1658	-	arginine decarboxylase
+2006207..2007307	-	1100	ACD05478.1	-	Amuc_1659	Amuc_1659	-	integrase family protein
+2008500..2009147	-	647	ACD05479.1	-	Amuc_1661	Amuc_1661	-	hypothetical protein
+2009487..2009606	-	119	ACD05480.1	-	Amuc_1662	Amuc_1662	-	hypothetical protein
+2009731..2010087	-	356	ACD05481.1	-	Amuc_1663	Amuc_1663	-	hypothetical protein
+2010249..2010872	+	623	ACD05482.1	-	Amuc_1664	Amuc_1664	-	hypothetical protein
+2010971..2011912	-	941	ACD05483.1	-	Amuc_1665	Amuc_1665	-	conserved hypothetical protein
+2013729..2017598	+	3869	ACD05484.1	-	Amuc_1666	Amuc_1666	-	glycoside hydrolase family 2 TIM barrel
+2017752..2020328	+	2576	ACD05485.1	-	Amuc_1667	Amuc_1667	-	glycoside hydrolase family 2 sugar binding
+2020323..2021714	-	1391	ACD05486.1	-	Amuc_1668	Amuc_1668	-	AAA ATPase central domain protein
+2021875..2023518	+	1643	ACD05487.1	-	Amuc_1669	Amuc_1669	-	Beta-N-acetylhexosaminidase
+2023578..2024573	-	995	ACD05488.1	-	Amuc_1670	Amuc_1670	-	hypothetical protein
+2025087..2026331	-	1244	ACD05489.1	-	Amuc_1671	Amuc_1671	-	phosphofructokinase
+2026504..2027415	-	911	ACD05490.1	-	Amuc_1672	Amuc_1672	-	protein of unknown function DUF303
+2027550..2028650	-	1100	ACD05491.1	-	Amuc_1673	Amuc_1673	-	regulatory protein GntR HTH
+2029048..2029332	+	284	ACD05492.1	-	Amuc_1674	Amuc_1674	-	hypothetical protein
+2029858..2030949	-	1091	ACD05493.1	-	Amuc_1675	Amuc_1675	-	integrase family protein
+2031101..2033098	+	1997	ACD05494.1	-	Amuc_1676	Amuc_1676	-	Eco57I restriction endonuclease
+2033114..2036446	+	3332	ACD05495.1	-	Amuc_1677	Amuc_1677	-	type III restriction protein res subunit
+2036579..2037127	-	548	ACD05496.1	-	Amuc_1678	Amuc_1678	-	cobalbumin biosynthesis protein
+2037144..2037959	-	815	ACD05497.1	-	Amuc_1679	Amuc_1679	-	Xylose isomerase domain protein TIM barrel
+2037956..2038696	-	740	ACD05498.1	-	Amuc_1680	Amuc_1680	-	cobalamin 5'-phosphate synthase
+2038716..2039756	-	1040	ACD05499.1	-	Amuc_1681	Amuc_1681	-	nicotinate-nucleotide/dimethylbenzimidazole
+2039753..2040745	-	992	ACD05500.1	-	Amuc_1682	Amuc_1682	-	cobalamin biosynthesis protein CobD
+2040749..2043325	-	2576	ACD05501.1	-	Amuc_1683	Amuc_1683	-	cobyric acid synthase CobQ
+2043844..2045850	+	2006	ACD05502.1	-	Amuc_1684	Amuc_1684	-	TonB-dependent receptor
+2046108..2048114	+	2006	ACD05503.1	-	Amuc_1685	Amuc_1685	-	extracellular solute-binding protein family 5
+2048213..2050555	+	2342	ACD05504.1	-	Amuc_1686	Amuc_1686	-	Beta-galactosidase
+2050814..2051482	-	668	ACD05505.1	-	Amuc_1687	Amuc_1687	-	hypothetical protein
+2051563..2052885	+	1322	ACD05506.1	-	Amuc_1688	Amuc_1688	-	amidohydrolase
+2053032..2054420	+	1388	ACD05507.1	-	Amuc_1689	Amuc_1689	-	dihydrolipoamide dehydrogenase
+2054474..2054881	+	407	ACD05508.1	-	Amuc_1690	Amuc_1690	-	nucleotidyltransferase substrate binding
+2054902..2055189	+	287	ACD05509.1	-	Amuc_1691	Amuc_1691	-	DNA polymerase beta domain protein region
+2055565..2056656	-	1091	ACD05510.1	-	Amuc_1692	Amuc_1692	-	2-oxoglutarate dehydrogenase, E2 subunit,
+2056672..2059437	-	2765	ACD05511.1	-	Amuc_1693	Amuc_1693	-	2-oxoglutarate dehydrogenase, E1 subunit
+2059501..2060538	-	1037	ACD05512.1	-	Amuc_1694	Amuc_1694	-	cytochrome d ubiquinol oxidase, subunit II
+2060561..2061940	-	1379	ACD05513.1	-	Amuc_1695	Amuc_1695	-	cytochrome bd ubiquinol oxidase subunit I
+2062092..2062562	-	470	ACD05514.1	-	Amuc_1696	Amuc_1696	-	ErfK/YbiS/YcfS/YnhG family protein
+2062589..2063044	-	455	ACD05515.1	-	Amuc_1697	Amuc_1697	-	protein tyrosine phosphatase
+2063041..2064510	-	1469	ACD05516.1	-	Amuc_1698	Amuc_1698	-	hypothetical protein
+2064529..2065467	-	938	ACD05517.1	-	Amuc_1699	Amuc_1699	-	aminoglycoside phosphotransferase
+2065566..2066789	-	1223	ACD05518.1	-	Amuc_1700	Amuc_1700	-	tryptophan synthase, beta subunit
+2066950..2067384	-	434	ACD05519.1	-	Amuc_1701	Amuc_1701	-	transcriptional regulator, MarR family
+2068481..2068642	-	161	ACD05520.1	-	Amuc_1702	Amuc_1702	-	hypothetical protein
+2068760..2069254	-	494	ACD05521.1	-	Amuc_1703	Amuc_1703	-	Ferroxidase
+2069372..2071015	-	1643	ACD05522.1	-	Amuc_1704	Amuc_1704	-	hypothetical protein
+2071160..2071630	+	470	ACD05523.1	-	Amuc_1705	Amuc_1705	-	Endoribonuclease L-PSP
+2072104..2072757	+	653	ACD05524.1	-	Amuc_1706	Amuc_1706	-	protein of unknown function DUF218
+2073438..2074361	-	923	ACD05525.1	-	Amuc_1707	Amuc_1707	-	type I phosphodiesterase/nucleotide
+2075032..2075439	+	407	ACD05526.1	-	Amuc_1708	Amuc_1708	-	hypothetical protein
+2075477..2075725	+	248	ACD05527.1	-	Amuc_1709	Amuc_1709	-	hypothetical protein
+2076602..2078752	+	2150	ACD05528.1	-	Amuc_1710	Amuc_1710	-	ATP-dependent DNA helicase, RecQ family
+2079764..2080486	+	722	ACD05529.1	-	Amuc_1711	Amuc_1711	-	conserved hypothetical phage related protein
+2080684..2081571	-	887	ACD05530.1	-	Amuc_1712	Amuc_1712	-	succinyl-CoA synthetase, alpha subunit
+2081593..2082774	-	1181	ACD05531.1	-	Amuc_1713	Amuc_1713	-	succinyl-CoA synthetase, beta subunit
+2082976..2084274	+	1298	ACD05532.1	-	Amuc_1714	Amuc_1714	-	Histidinol dehydrogenase
+2084537..2085433	+	896	ACD05533.1	-	Amuc_1715	Amuc_1715	-	Na+-dependent transporter-like protein
+2085653..2087320	+	1667	ACD05534.1	-	Amuc_1716	Amuc_1716	-	Tetratricopeptide TPR_2 repeat protein
+2087398..2088990	+	1592	ACD05535.1	-	Amuc_1717	Amuc_1717	-	hypothetical protein
+2089360..2089686	-	326	ACD05536.1	-	Amuc_1718	Amuc_1718	-	hypothetical protein
+2089828..2091192	-	1364	ACD05537.1	-	Amuc_1719	Amuc_1719	-	exodeoxyribonuclease VII, large subunit
+2091196..2093358	-	2162	ACD05538.1	-	Amuc_1720	Amuc_1720	-	AMP-dependent synthetase and ligase
+2093597..2093857	+	260	ACD05539.1	-	Amuc_1721	Amuc_1721	-	hypothetical protein
+2094321..2099849	+	5528	ACD05540.1	-	Amuc_1722	Amuc_1722	-	outer membrane autotransporter barrel domain
+2100317..2106178	+	5861	ACD05541.1	-	Amuc_1723	Amuc_1723	-	outer membrane autotransporter barrel domain
+2106304..2106492	+	188	ACD05542.1	-	Amuc_1724	Amuc_1724	-	hypothetical protein
+2106501..2107250	-	749	ACD05543.1	-	Amuc_1725	Amuc_1725	-	acyl-ACP thioesterase
+2107418..2108350	-	932	ACD05544.1	-	Amuc_1726	Amuc_1726	-	NAD-dependent epimerase/dehydratase
+2108591..2110228	-	1637	ACD05545.1	-	Amuc_1727	Amuc_1727	-	integral membrane sensor signal transduction
+2110232..2110936	-	704	ACD05546.1	-	Amuc_1728	Amuc_1728	-	two component transcriptional regulator, winged
+2111041..2111487	-	446	ACD05547.1	-	Amuc_1729	Amuc_1729	-	hypothetical protein
+2111469..2112464	-	995	ACD05548.1	-	Amuc_1730	Amuc_1730	-	Porphobilinogen synthase
+2112519..2114141	-	1622	ACD05549.1	-	Amuc_1731	Amuc_1731	-	hypothetical protein
+2114402..2116294	+	1892	ACD05550.1	-	Amuc_1732	Amuc_1732	-	threonyl-tRNA synthetase
+2116334..2116972	+	638	ACD05551.1	-	Amuc_1733	Amuc_1733	-	translation initiation factor IF-3
+2117049..2117279	+	230	ACD05552.1	-	Amuc_1734	Amuc_1734	-	NH2-acetyltransferase
+2117251..2117487	+	236	ACD05553.1	-	Amuc_1735	Amuc_1735	-	hypothetical protein
+2117492..2118724	-	1232	ACD05554.1	-	Amuc_1736	Amuc_1736	-	protein of unknown function DUF405
+2118729..2119904	-	1175	ACD05555.1	-	Amuc_1737	Amuc_1737	-	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+2120193..2120702	+	509	ACD05556.1	-	Amuc_1738	Amuc_1738	-	pantetheine-phosphate adenylyltransferase
+2120727..2121089	-	362	ACD05557.1	-	Amuc_1739	Amuc_1739	-	peptide chain release factor
+2121076..2121630	-	554	ACD05558.1	-	Amuc_1740	Amuc_1740	-	hypothetical protein
+2121617..2123002	-	1385	ACD05559.1	-	Amuc_1741	Amuc_1741	-	UTP--glucose-1-phosphate uridylyltransferase
+2123101..2123844	-	743	ACD05560.1	-	Amuc_1742	Amuc_1742	-	Methyltransferase type 11
+2124000..2124848	+	848	ACD05561.1	-	Amuc_1743	Amuc_1743	-	hypothetical protein
+2124948..2125544	+	596	ACD05562.1	-	Amuc_1744	Amuc_1744	-	hypothetical protein
+2125583..2125759	-	176	ACD05563.1	-	Amuc_1745	Amuc_1745	-	hypothetical protein
+2125807..2126766	+	959	ACD05564.1	-	Amuc_1746	Amuc_1746	-	LicD family protein
+2126763..2128118	+	1355	ACD05565.1	-	Amuc_1747	Amuc_1747	-	cytidyltransferase-related domain protein
+2128216..2129265	-	1049	ACD05566.1	-	Amuc_1748	Amuc_1748	-	NAD/NADP octopine/nopaline dehydrogenase
+2129265..2131157	-	1892	ACD05567.1	-	Amuc_1749	Amuc_1749	-	aminotransferase class I and II
+2131593..2132609	+	1016	ACD05568.1	-	Amuc_1750	Amuc_1750	-	LPS biosynthesis protein-like protein
+2132695..2134731	+	2036	ACD05569.1	-	Amuc_1751	Amuc_1751	-	glycoside hydrolase family 13 domain protein
+2134857..2135237	-	380	ACD05570.1	-	Amuc_1752	Amuc_1752	-	hypothetical protein
+2135252..2135671	-	419	ACD05571.1	-	Amuc_1753	Amuc_1753	-	Fe-S metabolism associated SufE
+2135705..2136622	-	917	ACD05572.1	-	Amuc_1754	Amuc_1754	-	ornithine carbamoyltransferase
+2136729..2138417	-	1688	ACD05573.1	-	Amuc_1755	Amuc_1755	-	sulfatase
+2138549..2140327	-	1778	ACD05574.1	-	Amuc_1756	Amuc_1756	-	phosphoenolpyruvate-protein phosphotransferase
+2140374..2140640	-	266	ACD05575.1	-	Amuc_1757	Amuc_1757	-	Phosphotransferase system, phosphocarrier
+2140725..2141687	-	962	ACD05576.1	-	Amuc_1758	Amuc_1758	-	HPr kinase
+2141786..2143183	+	1397	ACD05577.1	-	Amuc_1759	Amuc_1759	-	peptidase M20
+2143191..2144069	+	878	ACD05578.1	-	Amuc_1760	Amuc_1760	-	ABC transporter related
+2144036..2144626	+	590	ACD05579.1	-	Amuc_1761	Amuc_1761	-	5-formyltetrahydrofolate cyclo-ligase
+2144659..2146326	-	1667	ACD05580.1	-	Amuc_1762	Amuc_1762	-	Miro domain protein
+2146413..2147108	-	695	ACD05581.1	-	Amuc_1763	Amuc_1763	-	alanine racemase domain protein
+2147119..2147682	-	563	ACD05582.1	-	Amuc_1764	Amuc_1764	-	protein of unknown function DUF179
+2147791..2148648	-	857	ACD05583.1	-	Amuc_1765	Amuc_1765	-	ErfK/YbiS/YcfS/YnhG family protein
+2148659..2150176	-	1517	ACD05584.1	-	Amuc_1766	Amuc_1766	-	glycosyl transferase family 2
+2150311..2151201	+	890	ACD05585.1	-	Amuc_1767	Amuc_1767	-	hypothetical protein
+2151228..2151605	+	377	ACD05586.1	-	Amuc_1768	Amuc_1768	-	hypothetical protein
+2151738..2155253	-	3515	ACD05587.1	-	Amuc_1769	Amuc_1769	-	Non-specific serine/threonine protein kinase
+2155556..2156041	+	485	ACD05588.1	-	Amuc_1770	Amuc_1770	-	transcriptional regulator, AsnC family
+2156063..2157238	+	1175	ACD05589.1	-	Amuc_1771	Amuc_1771	-	aminotransferase class I and II
+2157252..2158031	+	779	ACD05590.1	-	Amuc_1772	Amuc_1772	-	Abortive infection protein
+2158075..2158737	+	662	ACD05591.1	-	Amuc_1773	Amuc_1773	-	protein of unknown function DUF218
+2158821..2160398	+	1577	ACD05592.1	-	Amuc_1774	Amuc_1774	-	glycyl-tRNA synthetase
+2160806..2161636	+	830	ACD05593.1	-	Amuc_1775	Amuc_1775	-	aldo/keto reductase
+2161993..2164407	-	2414	ACD05594.1	-	Amuc_1776	Amuc_1776	-	TPR repeat-containing protein
+2164463..2166727	-	2264	ACD05595.1	-	Amuc_1777	Amuc_1777	-	von Willebrand factor type A
+2166746..2167732	-	986	ACD05596.1	-	Amuc_1778	Amuc_1778	-	von Willebrand factor type A
+2167739..2168353	-	614	ACD05597.1	-	Amuc_1779	Amuc_1779	-	hypothetical protein
+2168372..2169262	-	890	ACD05598.1	-	Amuc_1780	Amuc_1780	-	protein of unknown function DUF58
+2169361..2170344	-	983	ACD05599.1	-	Amuc_1781	Amuc_1781	-	ATPase associated with various cellular
+2170399..2171811	-	1412	ACD05600.1	-	Amuc_1782	Amuc_1782	-	glutamyl-tRNA(Gln) amidotransferase, A subunit
+2171866..2172159	-	293	ACD05601.1	-	Amuc_1783	Amuc_1783	-	glutamyl-tRNA(Gln) amidotransferase, C subunit
+2172200..2172532	-	332	ACD05602.1	-	Amuc_1784	Amuc_1784	-	hypothetical protein
+2172529..2173116	-	587	ACD05603.1	-	Amuc_1785	Amuc_1785	-	hypothetical protein
+2173447..2174283	+	836	ACD05604.1	-	Amuc_1786	Amuc_1786	-	hypothetical protein
+2174280..2175491	+	1211	ACD05605.1	-	Amuc_1787	Amuc_1787	-	hypothetical protein
+2175507..2177030	+	1523	ACD05606.1	-	Amuc_1788	Amuc_1788	-	hypothetical protein
+2177065..2177907	+	842	ACD05607.1	-	Amuc_1789	Amuc_1789	-	hypothetical protein
+2178008..2179027	-	1019	ACD05608.1	-	Amuc_1790	Amuc_1790	-	PDZ/DHR/GLGF domain protein
+2179024..2179788	-	764	ACD05609.1	-	Amuc_1791	Amuc_1791	-	peptidase S1 and S6 chymotrypsin/Hap
+2179801..2179932	-	131	ACD05610.1	-	Amuc_1792	Amuc_1792	-	hypothetical protein
+2180399..2181580	-	1181	ACD05611.1	-	Amuc_1793	Amuc_1793	-	acyltransferase 3
+2181988..2182794	-	806	ACD05612.1	-	Amuc_1794	Amuc_1794	-	peptidase S24 and S26 domain protein
+2182896..2183222	+	326	ACD05613.1	-	Amuc_1795	Amuc_1795	-	hypothetical protein
+2183789..2183971	+	182	ACD05614.1	-	Amuc_1796	Amuc_1796	-	hypothetical protein
+2184204..2185076	+	872	ACD05615.1	-	Amuc_1797	Amuc_1797	-	conserved hypothetical protein
+2185073..2186278	+	1205	ACD05616.1	-	Amuc_1798	Amuc_1798	-	aminotransferase class I and II
+2186318..2187325	+	1007	ACD05617.1	-	Amuc_1799	Amuc_1799	-	uncharacterized Fe-S center protein, putative
+2187371..2188219	+	848	ACD05618.1	-	Amuc_1800	Amuc_1800	-	2,5-didehydrogluconate reductase
+2188241..2189320	+	1079	ACD05619.1	-	Amuc_1801	Amuc_1801	-	peptidase S15
+2189363..2190481	+	1118	ACD05620.1	-	Amuc_1802	Amuc_1802	-	aldo/keto reductase
+2190572..2191708	+	1136	ACD05621.1	-	Amuc_1803	Amuc_1803	-	metallophosphoesterase
+2191940..2192476	+	536	ACD05622.1	-	Amuc_1804	Amuc_1804	-	conserved hypothetical protein
+2192484..2192945	+	461	ACD05623.1	-	Amuc_1805	Amuc_1805	-	Antibiotic biosynthesis monooxygenase
+2193004..2193771	+	767	ACD05624.1	-	Amuc_1806	Amuc_1806	-	Carboxymuconolactone decarboxylase
+2194074..2195018	+	944	ACD05625.1	-	Amuc_1807	Amuc_1807	-	aldo/keto reductase
+2195018..2196031	+	1013	ACD05626.1	-	Amuc_1808	Amuc_1808	-	amidohydrolase 2
+2196202..2196759	+	557	ACD05627.1	-	Amuc_1809	Amuc_1809	-	NAD(P)H dehydrogenase (quinone)
+2196922..2197407	-	485	ACD05628.1	-	Amuc_1810	Amuc_1810	-	transcriptional regulator, MerR family
+2197641..2198093	+	452	ACD05629.1	-	Amuc_1811	Amuc_1811	-	conserved hypothetical protein
+2198163..2199641	-	1478	ACD05630.1	-	Amuc_1812	Amuc_1812	-	alpha amylase catalytic region
+2199957..2201342	-	1385	ACD05631.1	-	Amuc_1813	Amuc_1813	-	MATE efflux family protein
+2201520..2201966	+	446	ACD05632.1	-	Amuc_1814	Amuc_1814	-	hypothetical protein
+2202068..2204254	+	2186	ACD05633.1	-	Amuc_1815	Amuc_1815	-	Beta-N-acetylhexosaminidase
+2204510..2205460	-	950	ACD05634.1	-	Amuc_1816	Amuc_1816	-	conserved hypothetical protein
+2205552..2206457	+	905	ACD05635.1	-	Amuc_1817	Amuc_1817	-	dTDP-4-dehydrorhamnose reductase
+2206454..2207755	+	1301	ACD05636.1	-	Amuc_1818	Amuc_1818	-	PUA domain containing protein
+2207844..2210312	+	2468	ACD05637.1	-	Amuc_1819	Amuc_1819	-	hypothetical protein
+2210327..2210608	-	281	ACD05638.1	-	Amuc_1820	Amuc_1820	-	KH domain protein
+2210940..2212124	-	1184	ACD05639.1	-	Amuc_1821	Amuc_1821	-	putative SAM-dependent methyltransferase
+2212142..2213053	+	911	ACD05640.1	-	Amuc_1822	Amuc_1822	-	glucosamine-6-phosphate isomerase
+2213436..2215073	+	1637	ACD05641.1	-	Amuc_1823	Amuc_1823	-	hypothetical protein
+2215073..2215639	+	566	ACD05642.1	-	Amuc_1824	Amuc_1824	-	hypothetical protein
+2216320..2217048	-	728	ACD05643.1	-	Amuc_1825	Amuc_1825	-	hemolysin A
+2217209..2217772	+	563	ACD05644.1	-	Amuc_1826	Amuc_1826	-	hypothetical protein
+2217834..2218532	-	698	ACD05645.1	-	Amuc_1827	Amuc_1827	-	Pirin domain protein
+2218740..2221901	+	3161	ACD05646.1	-	Amuc_1828	Amuc_1828	-	hypothetical protein
+2222636..2223451	-	815	ACD05647.1	-	Amuc_1829	Amuc_1829	-	class II aldolase/adducin family protein
+2223465..2224889	-	1424	ACD05648.1	-	Amuc_1830	Amuc_1830	-	L-fuculokinase
+2224914..2225210	-	296	ACD05649.1	-	Amuc_1831	Amuc_1831	-	conserved hypothetical protein
+2225330..2227108	-	1778	ACD05650.1	-	Amuc_1832	Amuc_1832	-	L-fucose isomerase
+2227136..2229070	-	1934	ACD05651.1	-	Amuc_1833	Amuc_1833	-	L-fucose transporter
+2229259..2229771	+	512	ACD05652.1	-	Amuc_1834	Amuc_1834	-	hypothetical protein
+2229942..2231966	+	2024	ACD05653.1	-	Amuc_1835	Amuc_1835	-	Exo-alpha-sialidase
+2232175..2232768	-	593	ACD05654.1	-	Amuc_1836	Amuc_1836	-	RNA polymerase, sigma-24 subunit, ECF subfamily
+2233610..2233885	+	275	ACD05655.1	-	Amuc_1838	Amuc_1838	-	protein of unknown function DUF156
+2234016..2235893	+	1877	ACD05656.1	-	Amuc_1839	Amuc_1839	-	heavy metal translocating P-type ATPase
+2236214..2238037	+	1823	ACD05657.1	-	Amuc_1840	Amuc_1840	-	thiamine biosynthesis protein ThiC
+2238137..2239081	+	944	ACD05658.1	-	Amuc_1841	Amuc_1841	-	Thioredoxin domain
+2239177..2239791	+	614	ACD05659.1	-	Amuc_1842	Amuc_1842	-	RNA polymerase, sigma-24 subunit, ECF subfamily
+2239807..2240478	+	671	ACD05660.1	-	Amuc_1843	Amuc_1843	-	hypothetical protein
+2240664..2241623	+	959	ACD05661.1	-	Amuc_1844	Amuc_1844	-	PDZ/DHR/GLGF domain protein
+2244285..2245604	-	1319	ACD05662.1	-	Amuc_1847	Amuc_1847	-	deoxyguanosinetriphosphate triphosphohydrolase
+2248024..2248932	-	908	ACD05663.1	-	Amuc_1849	Amuc_1849	-	protein of unknown function DUF6 transmembrane
+2249317..2250420	+	1103	ACD05664.1	-	Amuc_1850	Amuc_1850	-	alanine racemase
+2250539..2251546	-	1007	ACD05665.1	-	Amuc_1851	Amuc_1851	-	oligopeptide/dipeptide ABC transporter, ATPase
+2251565..2252542	-	977	ACD05666.1	-	Amuc_1852	Amuc_1852	-	oligopeptide/dipeptide ABC transporter, ATPase
+2252546..2254750	-	2204	ACD05667.1	-	Amuc_1853	Amuc_1853	-	extracellular solute-binding protein family 5
+2254821..2256428	-	1607	ACD05668.1	-	Amuc_1854	Amuc_1854	-	binding-protein-dependent transport systems
+2256434..2257822	-	1388	ACD05669.1	-	Amuc_1855	Amuc_1855	-	binding-protein-dependent transport systems
+2257990..2258748	-	758	ACD05670.1	-	Amuc_1856	Amuc_1856	-	metallophosphoesterase
+2258852..2259727	-	875	ACD05671.1	-	Amuc_1857	Amuc_1857	-	hypothetical protein
+2259750..2261732	-	1982	ACD05672.1	-	Amuc_1858	Amuc_1858	-	conserved hypothetical protein
+2261742..2262677	-	935	ACD05673.1	-	Amuc_1859	Amuc_1859	-	2-dehydropantoate 2-reductase
+2262705..2264378	-	1673	ACD05674.1	-	Amuc_1860	Amuc_1860	-	Formate--tetrahydrofolate ligase
+2264516..2265115	-	599	ACD05675.1	-	Amuc_1861	Amuc_1861	-	protein of unknown function DUF1287
+2265146..2266402	-	1256	ACD05676.1	-	Amuc_1862	Amuc_1862	-	phosphoribosylamine/glycine ligase
+2266632..2267132	-	500	ACD05677.1	-	Amuc_1863	Amuc_1863	-	single-strand binding protein
+2267325..2268542	+	1217	ACD05678.1	-	Amuc_1864	Amuc_1864	-	hypothetical protein
+2268581..2269213	+	632	ACD05679.1	-	Amuc_1865	Amuc_1865	-	MotA/TolQ/ExbB proton channel
+2269221..2269649	+	428	ACD05680.1	-	Amuc_1866	Amuc_1866	-	Biopolymer transport protein ExbD/TolR
+2269681..2270229	+	548	ACD05681.1	-	Amuc_1867	Amuc_1867	-	peptide deformylase
+2270390..2271577	-	1187	ACD05682.1	-	Amuc_1868	Amuc_1868	-	glycoside hydrolase family 57
+2271628..2272926	-	1298	ACD05683.1	-	Amuc_1869	Amuc_1869	-	glycosyl transferase group 1
+2273147..2275543	+	2396	ACD05684.1	-	Amuc_1870	Amuc_1870	-	Alpha-glucosidase
+2275582..2276595	-	1013	ACD05685.1	-	Amuc_1871	Amuc_1871	-	Chorismate binding-like protein
+2276933..2278279	+	1346	ACD05686.1	-	Amuc_1872	Amuc_1872	-	Polysulphide reductase NrfD
+2278276..2278836	+	560	ACD05687.1	-	Amuc_1873	Amuc_1873	-	hypothetical protein
+2278833..2279495	+	662	ACD05688.1	-	Amuc_1874	Amuc_1874	-	cytochrome c class I
+2279492..2280724	+	1232	ACD05689.1	-	Amuc_1875	Amuc_1875	-	hypothetical protein
+2280721..2283048	+	2327	ACD05690.1	-	Amuc_1876	Amuc_1876	-	hypothetical protein
+2283118..2283633	-	515	ACD05691.1	-	Amuc_1877	Amuc_1877	-	hypothetical protein
+2283668..2283940	-	272	ACD05692.1	-	Amuc_1878	Amuc_1878	-	lactoylglutathione lyase
+2284093..2285214	+	1121	ACD05693.1	-	Amuc_1879	Amuc_1879	-	conserved hypothetical protein
+2285298..2286545	-	1247	ACD05694.1	-	Amuc_1880	Amuc_1880	-	isocitrate/isopropylmalate dehydrogenase
+2286666..2287358	-	692	ACD05695.1	-	Amuc_1881	Amuc_1881	-	hypothetical protein
+2287382..2287669	-	287	ACD05696.1	-	Amuc_1882	Amuc_1882	-	protein of unknown function DUF1232
+2288114..2289484	+	1370	ACD05697.1	-	Amuc_1883	Amuc_1883	-	beta-lactamase domain protein
+2289481..2290101	+	620	ACD05698.1	-	Amuc_1884	Amuc_1884	-	dTMP kinase
+2290165..2290836	-	671	ACD05699.1	-	Amuc_1885	Amuc_1885	-	exsB protein
+2290845..2291255	-	410	ACD05700.1	-	Amuc_1886	Amuc_1886	-	7-cyano-7-deazaguanine reductase
+2291281..2293716	-	2435	ACD05701.1	-	Amuc_1887	Amuc_1887	-	MscS Mechanosensitive ion channel
+2293946..2295247	-	1301	ACD05702.1	-	Amuc_1888	Amuc_1888	-	glutamyl-tRNA synthetase
+2295501..2296547	+	1046	ACD05703.1	-	Amuc_1889	Amuc_1889	-	Sec-independent protein translocase, TatC
+2296572..2297408	+	836	ACD05704.1	-	Amuc_1890	Amuc_1890	-	Undecaprenyl-diphosphatase
+2297598..2298485	-	887	ACD05705.1	-	Amuc_1891	Amuc_1891	-	hypothetical protein
+2298553..2299386	+	833	ACD05706.1	-	Amuc_1892	Amuc_1892	-	hypothetical protein
+2299387..2299740	+	353	ACD05707.1	-	Amuc_1893	Amuc_1893	-	protein of unknown function UPF0153
+2299825..2301132	-	1307	ACD05708.1	-	Amuc_1894	Amuc_1894	-	3-phosphoshikimate 1-carboxyvinyltransferase
+2302060..2303337	+	1277	ACD05709.1	-	Amuc_1895	Amuc_1895	-	UDP-N-acetylglucosamine  
+2303419..2303688	+	269	ACD05710.1	-	Amuc_1896	Amuc_1896	-	histone family protein DNA-binding protein
+2303820..2304905	+	1085	ACD05711.1	-	Amuc_1897	Amuc_1897	-	Chorismate synthase
+2304939..2305832	+	893	ACD05712.1	-	Amuc_1898	Amuc_1898	-	hypothetical protein
+2306039..2306473	-	434	ACD05713.1	-	Amuc_1899	Amuc_1899	-	flavodoxin/nitric oxide synthase
+2306617..2307096	-	479	ACD05714.1	-	Amuc_1900	Amuc_1900	-	hypothetical protein
+2307190..2307984	-	794	ACD05715.1	-	Amuc_1901	Amuc_1901	-	metallophosphoesterase
+2308202..2308894	+	692	ACD05716.1	-	Amuc_1902	Amuc_1902	-	conserved hypothetical protein
+2308940..2309947	+	1007	ACD05717.1	-	Amuc_1903	Amuc_1903	-	conserved hypothetical protein
+2310075..2310665	-	590	ACD05718.1	-	Amuc_1904	Amuc_1904	-	hypothetical protein
+2310878..2311972	+	1094	ACD05719.1	-	Amuc_1905	Amuc_1905	-	Site-specific DNA-methyltransferase
+2311997..2312884	+	887	ACD05720.1	-	Amuc_1906	Amuc_1906	-	integrase family protein
+2313074..2314141	+	1067	ACD05721.1	-	Amuc_1907	Amuc_1907	-	hypothetical protein
+2314156..2315205	+	1049	ACD05722.1	-	Amuc_1908	Amuc_1908	-	hypothetical protein
+2315367..2316443	+	1076	ACD05723.1	-	Amuc_1909	Amuc_1909	-	hypothetical protein
+2316555..2317835	+	1280	ACD05724.1	-	Amuc_1910	Amuc_1910	-	hypothetical protein
+2317938..2319098	+	1160	ACD05725.1	-	Amuc_1911	Amuc_1911	-	iron-containing alcohol dehydrogenase
+2319825..2322944	-	3119	ACD05726.1	-	Amuc_1913	Amuc_1913	-	type I site-specific deoxyribonuclease, HsdR
+2322960..2324120	-	1160	ACD05727.1	-	Amuc_1914	Amuc_1914	-	restriction modification system DNA specificity
+2324113..2326674	-	2561	ACD05728.1	-	Amuc_1915	Amuc_1915	-	type I restriction-modification system, M
+2326876..2327244	-	368	ACD05729.1	-	Amuc_1916	Amuc_1916	-	Camphor resistance CrcB protein
+2327544..2328506	+	962	ACD05730.1	-	Amuc_1917	Amuc_1917	-	PfkB domain protein
+2328689..2330005	-	1316	ACD05731.1	-	Amuc_1918	Amuc_1918	-	beta-hydroxyacyl-(acyl-carrier-protein)
+2330161..2331072	+	911	ACD05732.1	-	Amuc_1919	Amuc_1919	-	Nucleotidyl transferase
+2331075..2331824	+	749	ACD05733.1	-	Amuc_1920	Amuc_1920	-	hypothetical protein
+2331791..2333680	-	1889	ACD05734.1	-	Amuc_1921	Amuc_1921	-	apolipoprotein N-acyltransferase
+2333818..2334051	+	233	ACD05735.1	-	Amuc_1922	Amuc_1922	-	putative ferredoxin
+2334123..2334566	+	443	ACD05736.1	-	Amuc_1923	Amuc_1923	-	hypothetical protein
+2334649..2336643	+	1994	ACD05737.1	-	Amuc_1924	Amuc_1924	-	Beta-N-acetylhexosaminidase
+2336695..2337651	-	956	ACD05738.1	-	Amuc_1925	Amuc_1925	-	hypothetical protein
+2338012..2339820	-	1808	ACD05739.1	-	Amuc_1926	Amuc_1926	-	cytochrome c assembly protein
+2339810..2340607	-	797	ACD05740.1	-	Amuc_1927	Amuc_1927	-	hypothetical protein
+2340650..2341573	-	923	ACD05741.1	-	Amuc_1928	Amuc_1928	-	periplasmic binding protein
+2341616..2342374	-	758	ACD05742.1	-	Amuc_1929	Amuc_1929	-	ABC transporter related
+2342371..2343381	-	1010	ACD05743.1	-	Amuc_1930	Amuc_1930	-	transport system permease protein
+2343374..2344339	-	965	ACD05744.1	-	Amuc_1931	Amuc_1931	-	transport system permease protein
+2344344..2345432	-	1088	ACD05745.1	-	Amuc_1932	Amuc_1932	-	Endoribonuclease L-PSP
+2345448..2346866	-	1418	ACD05746.1	-	Amuc_1933	Amuc_1933	-	protein of unknown function DUF1111
+2347222..2348328	-	1106	ACD05747.1	-	Amuc_1934	Amuc_1934	-	conserved hypothetical protein
+2348583..2349182	-	599	ACD05748.1	-	Amuc_1935	Amuc_1935	-	GCN5-related N-acetyltransferase
+2349512..2349943	-	431	ACD05749.1	-	Amuc_1936	Amuc_1936	-	hypothetical protein
+2350038..2350580	-	542	ACD05750.1	-	Amuc_1937	Amuc_1937	-	phosphoribosyltransferase
+2350819..2353656	+	2837	ACD05751.1	-	Amuc_1938	Amuc_1938	-	DNA polymerase I
+2353855..2354967	-	1112	ACD05752.1	-	Amuc_1939	Amuc_1939	-	efflux transporter, RND family, MFP subunit
+2354995..2355450	-	455	ACD05753.1	-	Amuc_1940	Amuc_1940	-	hypothetical protein
+2355680..2357104	-	1424	ACD05754.1	-	Amuc_1941	Amuc_1941	-	adenylosuccinate lyase
+2357358..2358611	-	1253	ACD05755.1	-	Amuc_1942	Amuc_1942	-	peptidase T
+2358728..2361481	+	2753	ACD05756.1	-	Amuc_1943	Amuc_1943	-	Tetratricopeptide TPR_2 repeat protein
+2361481..2362347	+	866	ACD05757.1	-	Amuc_1944	Amuc_1944	-	6-phosphogluconate dehydrogenase NAD-binding
+2362360..2363916	+	1556	ACD05758.1	-	Amuc_1945	Amuc_1945	-	hypothetical protein
+2364321..2365238	+	917	ACD05759.1	-	Amuc_1946	Amuc_1946	-	dihydrodipicolinate synthetase
+2365258..2366439	+	1181	ACD05760.1	-	Amuc_1947	Amuc_1947	-	N-acylglucosamine 2-epimerase
+2366547..2367161	-	614	ACD05761.1	-	Amuc_1948	Amuc_1948	-	conserved hypothetical protein
+2367142..2368158	-	1016	ACD05762.1	-	Amuc_1949	Amuc_1949	-	Chorismate binding-like protein
+2368189..2368806	+	617	ACD05763.1	-	Amuc_1950	Amuc_1950	-	glutamine amidotransferase class-I
+2368956..2370059	+	1103	ACD05764.1	-	Amuc_1951	Amuc_1951	-	NADH:flavin oxidoreductase/NADH oxidase
+2370203..2370907	-	704	ACD05765.1	-	Amuc_1952	Amuc_1952	-	conserved hypothetical integral membrane
+2370907..2371398	-	491	ACD05766.1	-	Amuc_1953	Amuc_1953	-	5-nitroimidazole antibiotic resistance protein
+2371395..2372111	-	716	ACD05767.1	-	Amuc_1954	Amuc_1954	-	glutamine amidotransferase class-I
+2372104..2372214	-	110	ACD05768.1	-	Amuc_1955	Amuc_1955	-	hypothetical protein
+2372211..2372705	-	494	ACD05769.1	-	Amuc_1956	Amuc_1956	-	ybaK/ebsC protein
+2372974..2374395	+	1421	ACD05770.1	-	Amuc_1957	Amuc_1957	-	membrane protein-like protein
+2374691..2375140	+	449	ACD05771.1	-	Amuc_1958	Amuc_1958	-	conserved hypothetical protein
+2375745..2375975	+	230	ACD05772.1	-	Amuc_1959	Amuc_1959	-	hypothetical protein
+2376039..2376653	+	614	ACD05773.1	-	Amuc_1960	Amuc_1960	-	PA14 domain protein
+2377646..2381407	+	3761	ACD05774.1	-	Amuc_1961	Amuc_1961	-	methionine synthase
+2381425..2382201	+	776	ACD05775.1	-	Amuc_1962	Amuc_1962	-	protein of unknown function DUF1212
+2382198..2382701	+	503	ACD05776.1	-	Amuc_1963	Amuc_1963	-	conserved hypothetical protein
+2383130..2384458	+	1328	ACD05777.1	-	Amuc_1964	Amuc_1964	-	Homoserine dehydrogenase
+2384479..2385696	+	1217	ACD05778.1	-	Amuc_1965	Amuc_1965	-	aspartate kinase
+2385880..2386002	-	122	ACD05779.1	-	Amuc_1966	Amuc_1966	-	hypothetical protein
+2386120..2386629	-	509	ACD05780.1	-	Amuc_1967	Amuc_1967	-	Thioredoxin domain
+2386731..2387450	+	719	ACD05781.1	-	Amuc_1968	Amuc_1968	-	conserved hypothetical integral membrane
+2387543..2388958	-	1415	ACD05782.1	-	Amuc_1969	Amuc_1969	-	hypothetical protein
+2389616..2393158	+	3542	ACD05783.1	-	Amuc_1970	Amuc_1970	-	ribonucleoside-diphosphate reductase,
+2393425..2394357	+	932	ACD05784.1	-	Amuc_1971	Amuc_1971	-	Shikimate dehydrogenase substrate binding domain
+2394350..2395375	+	1025	ACD05785.1	-	Amuc_1972	Amuc_1972	-	HhH-GPD family protein
+2395372..2395953	+	581	ACD05786.1	-	Amuc_1973	Amuc_1973	-	leucyl/phenylalanyl-tRNA/protein transferase
+2396407..2399151	-	2744	ACD05787.1	-	Amuc_1974	Amuc_1974	-	pyruvate, phosphate dikinase
+2399523..2401070	-	1547	ACD05788.1	-	Amuc_1975	Amuc_1975	-	Glucose-6-phosphate isomerase
+2401086..2402174	-	1088	ACD05789.1	-	Amuc_1976	Amuc_1976	-	Sel1 domain protein repeat-containing protein
+2402270..2403163	-	893	ACD05790.1	-	Amuc_1977	Amuc_1977	-	conserved hypothetical protein
+2403364..2404128	-	764	ACD05791.1	-	Amuc_1978	Amuc_1978	-	hypothetical protein
+2404294..2404467	-	173	ACD05792.1	-	Amuc_1979	Amuc_1979	-	hypothetical protein
+2405049..2405753	-	704	ACD05793.1	-	Amuc_1982	Amuc_1982	-	hypothetical protein
+2406104..2408248	-	2144	ACD05794.1	-	Amuc_1983	Amuc_1983	-	methylmalonyl-CoA mutase, large subunit
+2408272..2410326	-	2054	ACD05795.1	-	Amuc_1984	Amuc_1984	-	Methylmalonyl-CoA mutase
+2410616..2413162	+	2546	ACD05796.1	-	Amuc_1985	Amuc_1985	-	hypothetical protein
+2413159..2413812	+	653	ACD05797.1	-	Amuc_1986	Amuc_1986	-	hypothetical protein
+2413868..2414869	+	1001	ACD05798.1	-	Amuc_1987	Amuc_1987	-	squalene-hopene cyclase-like protein
+2414859..2416301	+	1442	ACD05799.1	-	Amuc_1988	Amuc_1988	-	hypothetical protein
+2416313..2417740	+	1427	ACD05800.1	-	Amuc_1989	Amuc_1989	-	hypothetical protein
+2417808..2418614	-	806	ACD05801.1	-	Amuc_1990	Amuc_1990	-	pyrroline-5-carboxylate reductase
+2418685..2419347	-	662	ACD05802.1	-	Amuc_1991	Amuc_1991	-	DNA-3-methyladenine glycosylase I
+2419359..2420285	-	926	ACD05803.1	-	Amuc_1992	Amuc_1992	-	hypothetical protein
+2420385..2421332	+	947	ACD05804.1	-	Amuc_1993	Amuc_1993	-	hypothetical protein
+2421412..2422461	+	1049	ACD05805.1	-	Amuc_1994	Amuc_1994	-	serine/threonine protein kinase
+2422590..2424053	-	1463	ACD05806.1	-	Amuc_1995	Amuc_1995	-	Tryptophanase
+2424207..2424800	+	593	ACD05807.1	-	Amuc_1996	Amuc_1996	-	conserved hypothetical protein
+2424790..2425812	-	1022	ACD05808.1	-	Amuc_1997	Amuc_1997	-	conserved hypothetical protein
+2425873..2428392	-	2519	ACD05809.1	-	Amuc_1998	Amuc_1998	-	phenylalanyl-tRNA synthetase, beta subunit
+2428413..2429438	-	1025	ACD05810.1	-	Amuc_1999	Amuc_1999	-	phenylalanyl-tRNA synthetase, alpha subunit
+2429605..2430789	-	1184	ACD05811.1	-	Amuc_2000	Amuc_2000	-	major facilitator superfamily MFS_1
+2430985..2433024	-	2039	ACD05812.1	-	Amuc_2001	Amuc_2001	-	putative lipoprotein
+2433033..2434874	+	1841	ACD05813.1	-	Amuc_2002	Amuc_2002	-	heat shock protein Hsp90
+2434983..2435792	+	809	ACD05814.1	-	Amuc_2003	Amuc_2003	-	Ion transport 2 domain protein
+2435868..2436245	-	377	ACD05815.1	-	Amuc_2004	Amuc_2004	-	protein of unknown function DUF805
+2437063..2438133	+	1070	ACD05816.1	-	Amuc_2006	Amuc_2006	-	integrase family protein
+2438719..2438928	-	209	ACD05817.1	-	Amuc_2007	Amuc_2007	-	hypothetical protein
+2439025..2439336	-	311	ACD05818.1	-	Amuc_2008	Amuc_2008	-	CRISPR-associated protein Cas2
+2439324..2440259	-	935	ACD05819.1	-	Amuc_2009	Amuc_2009	-	CRISPR-associated protein Cas1
+2440270..2443575	-	3305	ACD05820.1	-	Amuc_2010	Amuc_2010	-	hypothetical protein
+2443942..2445048	+	1106	ACD05821.1	-	Amuc_2011	Amuc_2011	-	alanine racemase
+2445145..2445588	+	443	ACD05822.1	-	Amuc_2012	Amuc_2012	-	transcriptional regulator, BadM/Rrf2 family
+2445724..2447010	+	1286	ACD05823.1	-	Amuc_2013	Amuc_2013	-	O-acetylhomoserine/O-acetylserine sulfhydrylase
+2447047..2447976	+	929	ACD05824.1	-	Amuc_2014	Amuc_2014	-	cysteine synthase A
+2447995..2448609	+	614	ACD05825.1	-	Amuc_2015	Amuc_2015	-	thiamine-phosphate pyrophosphorylase
+2448657..2449472	+	815	ACD05826.1	-	Amuc_2016	Amuc_2016	-	Hydroxyethylthiazole kinase
+2449760..2450245	+	485	ACD05827.1	-	Amuc_2017	Amuc_2017	-	Uncharacterized phage-associated protein-like
+2450607..2452088	+	1481	ACD05828.1	-	Amuc_2018	Amuc_2018	-	Beta-N-acetylhexosaminidase
+2452123..2453637	+	1514	ACD05829.1	-	Amuc_2019	Amuc_2019	-	Beta-N-acetylhexosaminidase
+2453656..2454675	+	1019	ACD05830.1	-	Amuc_2020	Amuc_2020	-	LAO/AO transport system ATPase
+2454650..2455126	-	476	ACD05831.1	-	Amuc_2021	Amuc_2021	-	NUDIX hydrolase
+2455474..2456949	+	1475	ACD05832.1	-	Amuc_2022	Amuc_2022	-	Alkyl sulfatase and related hydrolase-like
+2457186..2457707	+	521	ACD05833.1	-	Amuc_2023	Amuc_2023	-	hypothetical protein
+2457801..2458304	-	503	ACD05834.1	-	Amuc_2024	Amuc_2024	-	crossover junction endodeoxyribonuclease RuvC
+2458356..2459558	-	1202	ACD05835.1	-	Amuc_2025	Amuc_2025	-	DEAD/DEAH box helicase domain protein
+2459620..2460249	-	629	ACD05836.1	-	Amuc_2026	Amuc_2026	-	beta-lactamase domain protein
+2460341..2461342	-	1001	ACD05837.1	-	Amuc_2027	Amuc_2027	-	dihydroorotase, homodimeric type
+2461964..2462434	+	470	ACD05838.1	-	Amuc_2028	Amuc_2028	-	transcriptional regulator, MarR family
+2462441..2463577	+	1136	ACD05839.1	-	Amuc_2029	Amuc_2029	-	efflux transporter, RND family, MFP subunit
+2463585..2466692	+	3107	ACD05840.1	-	Amuc_2030	Amuc_2030	-	transporter, hydrophobe/amphiphile efflux-1
+2466796..2467275	-	479	ACD05841.1	-	Amuc_2031	Amuc_2031	-	Dihydrofolate reductase
+2467298..2468113	-	815	ACD05842.1	-	Amuc_2032	Amuc_2032	-	Thymidylate synthase
+2468258..2469712	+	1454	ACD05843.1	-	Amuc_2033	Amuc_2033	-	phospholipase D/Transphosphatidylase
+2469819..2471342	+	1523	ACD05844.1	-	Amuc_2034	Amuc_2034	-	Methylmalonyl-CoA carboxytransferase
+2471412..2472167	-	755	ACD05845.1	-	Amuc_2035	Amuc_2035	-	hypothetical protein
+2472371..2473765	-	1394	ACD05846.1	-	Amuc_2036	Amuc_2036	-	MATE efflux family protein
+2473888..2474964	-	1076	ACD05847.1	-	Amuc_2037	Amuc_2037	-	Cobyrinic acid ac-diamide synthase
+2475218..2475430	-	212	ACD05848.1	-	Amuc_2038	Amuc_2038	-	PUR-alpha/beta/gamma DNA/RNA-binding
+2475864..2477498	-	1634	ACD05849.1	-	Amuc_2039	Amuc_2039	-	2-isopropylmalate synthase/homocitrate synthase
+2477611..2479791	+	2180	ACD05850.1	-	Amuc_2040	Amuc_2040	-	Oligopeptidase A
+2480014..2481273	+	1259	ACD05851.1	-	Amuc_2041	Amuc_2041	-	efflux transporter, RND family, MFP subunit
+2481335..2484550	+	3215	ACD05852.1	-	Amuc_2042	Amuc_2042	-	transporter, hydrophobe/amphiphile efflux-1
+2484590..2486023	+	1433	ACD05853.1	-	Amuc_2043	Amuc_2043	-	RND efflux system, outer membrane lipoprotein,
+2486694..2487449	+	755	ACD05854.1	-	Amuc_2044	Amuc_2044	-	hypothetical protein
+2487488..2490544	+	3056	ACD05855.1	-	Amuc_2045	Amuc_2045	-	hypothetical protein
+2490690..2491310	-	620	ACD05856.1	-	Amuc_2046	Amuc_2046	-	conserved hypothetical protein
+2491410..2491949	-	539	ACD05857.1	-	Amuc_2047	Amuc_2047	-	hypothetical protein
+2492140..2492613	+	473	ACD05858.1	-	Amuc_2048	Amuc_2048	-	putative PTS IIA-like nitrogen-regulatory
+2492610..2494400	+	1790	ACD05859.1	-	Amuc_2049	Amuc_2049	-	Chloride channel core
+2494849..2495859	+	1010	ACD05860.1	-	Amuc_2050	Amuc_2050	-	protein of unknown function DUF1568
+2496478..2497833	+	1355	ACD05861.1	-	Amuc_2051	Amuc_2051	-	Glutamate dehydrogenase (NADP(+))
+2498200..2499330	-	1130	ACD05862.1	-	Amuc_2052	Amuc_2052	-	lipid-A-disaccharide synthase
+2499453..2500103	+	650	ACD05863.1	-	Amuc_2053	Amuc_2053	-	SNARE associated Golgi protein
+2500119..2500634	+	515	ACD05864.1	-	Amuc_2054	Amuc_2054	-	conserved hypothetical protein
+2500652..2500996	-	344	ACD05865.1	-	Amuc_2055	Amuc_2055	-	conserved hypothetical protein
+2501279..2501650	-	371	ACD05866.1	-	Amuc_2056	Amuc_2056	-	conserved hypothetical protein
+2501804..2502307	-	503	ACD05867.1	-	Amuc_2057	Amuc_2057	-	hypothetical protein
+2502977..2503858	-	881	ACD05868.1	-	Amuc_2058	Amuc_2058	-	hypothetical protein
+2503851..2504132	-	281	ACD05869.1	-	Amuc_2059	Amuc_2059	-	hypothetical protein
+2504129..2505763	-	1634	ACD05870.1	-	Amuc_2060	Amuc_2060	-	hypothetical protein
+2505772..2505987	-	215	ACD05871.1	-	Amuc_2061	Amuc_2061	-	hypothetical protein
+2506303..2506923	+	620	ACD05872.1	-	Amuc_2062	Amuc_2062	-	hypothetical protein
+2506968..2507267	+	299	ACD05873.1	-	Amuc_2063	Amuc_2063	-	hypothetical protein
+2507264..2507521	+	257	ACD05874.1	-	Amuc_2064	Amuc_2064	-	hypothetical protein
+2508221..2509375	-	1154	ACD05875.1	-	Amuc_2065	Amuc_2065	-	acyltransferase 3
+2509840..2513421	-	3581	ACD05876.1	-	Amuc_2066	Amuc_2066	-	Aldehyde Dehydrogenase
+2513580..2514575	-	995	ACD05877.1	-	Amuc_2067	Amuc_2067	-	hypothetical protein
+2515241..2515414	+	173	ACD05878.1	-	Amuc_2069	Amuc_2069	-	hypothetical protein
+2515549..2517804	+	2255	ACD05879.1	-	Amuc_2070	Amuc_2070	-	Catalase
+2518312..2520963	-	2651	ACD05880.1	-	Amuc_2071	Amuc_2071	-	cytochrome c assembly protein
+2521054..2521629	-	575	ACD05881.1	-	Amuc_2072	Amuc_2072	-	Rubrerythrin
+2521700..2521921	+	221	ACD05882.1	-	Amuc_2073	Amuc_2073	-	hypothetical protein
+2521931..2522527	+	596	ACD05883.1	-	Amuc_2074	Amuc_2074	-	Acetyltransferase including N-acetylase of
+2522602..2523246	-	644	ACD05884.1	-	Amuc_2075	Amuc_2075	-	hypothetical protein
+2523251..2525707	-	2456	ACD05885.1	-	Amuc_2076	Amuc_2076	-	cell divisionFtsK/SpoIIIE
+2526715..2527497	+	782	ACD05886.1	-	Amuc_2077	Amuc_2077	-	polysaccharide export protein
+2527628..2530030	+	2402	ACD05887.1	-	Amuc_2078	Amuc_2078	-	capsular exopolysaccharide family
+2530093..2530764	+	671	ACD05888.1	-	Amuc_2079	Amuc_2079	-	PHP domain protein
+2530803..2531651	+	848	ACD05889.1	-	Amuc_2080	Amuc_2080	-	sugar transferase
+2531677..2532453	+	776	ACD05890.1	-	Amuc_2081	Amuc_2081	-	glycosyl transferase family 2
+2532488..2533642	+	1154	ACD05891.1	-	Amuc_2082	Amuc_2082	-	glycosyl transferase group 1
+2533639..2534817	+	1178	ACD05892.1	-	Amuc_2083	Amuc_2083	-	glycosyl transferase group 1
+2534851..2536023	+	1172	ACD05893.1	-	Amuc_2084	Amuc_2084	-	glycosyl transferase group 1
+2536020..2536985	+	965	ACD05894.1	-	Amuc_2085	Amuc_2085	-	hypothetical protein
+2537026..2538165	+	1139	ACD05895.1	-	Amuc_2086	Amuc_2086	-	hypothetical protein
+2538155..2538985	+	830	ACD05896.1	-	Amuc_2087	Amuc_2087	-	hypothetical protein
+2538988..2540031	+	1043	ACD05897.1	-	Amuc_2088	Amuc_2088	-	glycosyl transferase group 1
+2540031..2541170	+	1139	ACD05898.1	-	Amuc_2089	Amuc_2089	-	glycosyl transferase group 1
+2541167..2542342	+	1175	ACD05899.1	-	Amuc_2090	Amuc_2090	-	glycosyl transferase group 1
+2542368..2543942	+	1574	ACD05900.1	-	Amuc_2091	Amuc_2091	-	hypothetical protein
+2543976..2544515	+	539	ACD05901.1	-	Amuc_2092	Amuc_2092	-	transferase hexapeptide repeat containing
+2544519..2545367	+	848	ACD05902.1	-	Amuc_2093	Amuc_2093	-	glycosyl transferase family 2
+2545391..2546395	+	1004	ACD05903.1	-	Amuc_2094	Amuc_2094	-	glycosyl transferase family 2
+2546549..2547733	+	1184	ACD05904.1	-	Amuc_2095	Amuc_2095	-	conserved hypothetical protein
+2547726..2549261	+	1535	ACD05905.1	-	Amuc_2096	Amuc_2096	-	polysaccharide biosynthesis protein
+2549301..2550305	+	1004	ACD05906.1	-	Amuc_2097	Amuc_2097	-	nitroreductase
+2550480..2552528	+	2048	ACD05907.1	-	Amuc_2098	Amuc_2098	-	acyltransferase 3
+2552767..2553681	+	914	ACD05908.1	-	Amuc_2099	Amuc_2099	-	hypothetical protein
+2553761..2554909	+	1148	ACD05909.1	-	Amuc_2100	Amuc_2100	-	aminoglycoside phosphotransferase
+2554980..2555399	+	419	ACD05910.1	-	Amuc_2101	Amuc_2101	-	RbsD or FucU transport
+2555425..2556627	+	1202	ACD05911.1	-	Amuc_2102	Amuc_2102	-	aminotransferase class I and II
+2556855..2558507	+	1652	ACD05912.1	-	Amuc_2103	Amuc_2103	-	methionyl-tRNA synthetase
+2558513..2560114	+	1601	ACD05913.1	-	Amuc_2104	Amuc_2104	-	2-succinyl-6-hydroxy-2,                
+2560567..2561391	+	824	ACD05914.1	-	Amuc_2105	Amuc_2105	-	hypothetical protein
+2562142..2563452	-	1310	ACD05915.1	-	Amuc_2106	Amuc_2106	-	Malate dehydrogenase                    
+2563627..2568003	+	4376	ACD05916.1	-	Amuc_2107	Amuc_2107	-	hypothetical protein
+2568206..2569165	+	959	ACD05917.1	-	Amuc_2108	Amuc_2108	-	glycoside hydrolase family 16
+2569268..2570329	-	1061	ACD05918.1	-	Amuc_2109	Amuc_2109	-	Beta-N-acetylhexosaminidase
+2570343..2570912	-	569	ACD05919.1	-	Amuc_2110	Amuc_2110	-	orotate phosphoribosyltransferase
+2571044..2571691	+	647	ACD05920.1	-	Amuc_2111	Amuc_2111	-	ErfK/YbiS/YcfS/YnhG family protein
+2571885..2574794	+	2909	ACD05921.1	-	Amuc_2112	Amuc_2112	-	hypothetical protein
+2574807..2575916	+	1109	ACD05922.1	-	Amuc_2113	Amuc_2113	-	oxygen-independent coproporphyrinogen III
+2576212..2576991	-	779	ACD05923.1	-	Amuc_2114	Amuc_2114	-	hypothetical protein
+2577028..2578308	-	1280	ACD05924.1	-	Amuc_2115	Amuc_2115	-	seryl-tRNA synthetase
+2578669..2579790	+	1121	ACD05925.1	-	Amuc_2116	Amuc_2116	-	Alcohol dehydrogenase zinc-binding domain
+2579833..2580474	-	641	ACD05926.1	-	Amuc_2117	Amuc_2117	-	hypothetical protein
+2580561..2581418	-	857	ACD05927.1	-	Amuc_2118	Amuc_2118	-	Nitrilase/cyanide hydratase and apolipoprotein
+2581522..2582526	+	1004	ACD05928.1	-	Amuc_2119	Amuc_2119	-	ATPase associated with various cellular
+2582565..2583467	+	902	ACD05929.1	-	Amuc_2120	Amuc_2120	-	conserved hypothetical protein
+2583585..2584157	+	572	ACD05930.1	-	Amuc_2121	Amuc_2121	-	Aminoacyl-tRNA hydrolase
+2584457..2586946	+	2489	ACD05931.1	-	Amuc_2122	Amuc_2122	-	glycosyl transferase family 51
+2586959..2588509	+	1550	ACD05932.1	-	Amuc_2123	Amuc_2123	-	hypothetical protein
+2588540..2589928	+	1388	ACD05933.1	-	Amuc_2124	Amuc_2124	-	conserved hypothetical protein
+2590140..2591411	+	1271	ACD05934.1	-	Amuc_2125	Amuc_2125	-	Adenylosuccinate synthase
+2591829..2592506	-	677	ACD05935.1	-	Amuc_2126	Amuc_2126	-	hypothetical protein
+2593122..2594606	+	1484	ACD05936.1	-	Amuc_2127	Amuc_2127	-	Carbohydrate-selective porin OprB
+2594716..2595912	+	1196	ACD05937.1	-	Amuc_2128	Amuc_2128	-	hydrogenase (NiFe) small subunit HydA
+2595939..2597696	+	1757	ACD05938.1	-	Amuc_2129	Amuc_2129	-	nickel-dependent hydrogenase large subunit
+2597693..2598865	+	1172	ACD05939.1	-	Amuc_2130	Amuc_2130	-	cytochrome B561
+2598887..2599432	+	545	ACD05940.1	-	Amuc_2131	Amuc_2131	-	hydrogenase maturation protease
+2599425..2599766	+	341	ACD05941.1	-	Amuc_2132	Amuc_2132	-	hydrogenase expression/synthesis HypA
+2599891..2600838	+	947	ACD05942.1	-	Amuc_2133	Amuc_2133	-	hypothetical protein
+2600935..2601336	-	401	ACD05943.1	-	Amuc_2134	Amuc_2134	-	conserved hypothetical protein
+2601524..2602255	+	731	ACD05944.1	-	Amuc_2135	Amuc_2135	-	hypothetical protein
+2602445..2604715	-	2270	ACD05945.1	-	Amuc_2136	Amuc_2136	-	Glycoside hydrolase, family 20, catalytic core
+2605087..2605734	-	647	ACD05946.1	-	Amuc_2137	Amuc_2137	-	nitroreductase
+2605767..2606858	-	1091	ACD05947.1	-	Amuc_2138	Amuc_2138	-	histidinol-phosphate aminotransferase
+2607327..2607539	-	212	ACD05948.1	-	Amuc_2140	Amuc_2140	-	hypothetical protein
+2607695..2608183	+	488	ACD05949.1	-	Amuc_2141	Amuc_2141	-	hypothetical protein
+2608457..2609941	+	1484	ACD05950.1	-	Amuc_2142	Amuc_2142	-	hypothetical protein
+2609862..2610902	-	1040	ACD05951.1	-	Amuc_2143	Amuc_2143	-	hypothetical protein
+2611158..2612804	+	1646	ACD05952.1	-	Amuc_2144	Amuc_2144	-	hydro-lyase, Fe-S type, tartrate/fumarate
+2612941..2613477	-	536	ACD05953.1	-	Amuc_2145	Amuc_2145	-	hypothetical protein
+2613653..2614105	+	452	ACD05954.1	-	Amuc_2146	Amuc_2146	-	6-pyruvoyl-tetrahydropterin synthase-like
+2614203..2614961	-	758	ACD05955.1	-	Amuc_2147	Amuc_2147	-	hypothetical protein
+2615082..2616731	-	1649	ACD05956.1	-	Amuc_2148	Amuc_2148	-	Beta-N-acetylhexosaminidase
+2616860..2618299	-	1439	ACD05957.1	-	Amuc_2149	Amuc_2149	-	signal recognition particle protein
+2618411..2619346	+	935	ACD05958.1	-	Amuc_2150	Amuc_2150	-	quinolinate synthetase complex, A subunit
+2619363..2620385	+	1022	ACD05959.1	-	Amuc_2151	Amuc_2151	-	protein of unknown function DUF185
+2620770..2626508	+	5738	ACD05960.1	-	Amuc_2152	Amuc_2152	-	YD repeat protein
+2626515..2627315	+	800	ACD05961.1	-	Amuc_2153	Amuc_2153	-	hypothetical protein
+2627350..2627571	+	221	ACD05962.1	-	Amuc_2154	Amuc_2154	-	hypothetical protein
+2627639..2628325	+	686	ACD05963.1	-	Amuc_2155	Amuc_2155	-	hypothetical protein
+2629440..2630021	+	581	ACD05964.1	-	Amuc_2157	Amuc_2157	-	NADH-quinone oxidoreductase, B subunit
+2630067..2630651	+	584	ACD05965.1	-	Amuc_2158	Amuc_2158	-	NADH dehydrogenase (ubiquinone) 30 kDa subunit
+2630687..2631487	+	800	ACD05966.1	-	Amuc_2159	Amuc_2159	-	hypothetical protein
+2631484..2631795	+	311	ACD05967.1	-	Amuc_2160	Amuc_2160	-	conserved hypothetical protein
+2631808..2632938	+	1130	ACD05968.1	-	Amuc_2161	Amuc_2161	-	Acyl-CoA synthetase (AMP-forming)/AMP-acid
+2632935..2633117	-	182	ACD05969.1	-	Amuc_2162	Amuc_2162	-	hypothetical protein
+2633223..2635985	+	2762	ACD05970.1	-	Amuc_2163	Amuc_2163	-	Sel1 domain protein repeat-containing protein
+2636284..2639985	-	3701	ACD05971.1	-	Amuc_2164	Amuc_2164	-	glycoside hydrolase family 18
+2640136..2640876	-	740	ACD05972.1	-	Amuc_2165	Amuc_2165	-	hypothetical protein
+2641228..2642550	-	1322	ACD05973.1	-	Amuc_2166	Amuc_2166	-	oxidoreductase domain protein
+2642582..2644684	-	2102	ACD05974.1	-	Amuc_2167	Amuc_2167	-	Oligopeptidase A
+2645074..2646687	-	1613	ACD05975.1	-	Amuc_2168	Amuc_2168	-	Tetratricopeptide TPR_2 repeat protein
+2646701..2648458	-	1757	ACD05976.1	-	Amuc_2169	Amuc_2169	-	arginyl-tRNA synthetase
+2648624..2648767	-	143	ACD05977.1	-	Amuc_2170	Amuc_2170	-	hypothetical protein
+2649194..2650048	-	854	ACD05978.1	-	Amuc_2171	Amuc_2171	-	hypothetical protein
+2650233..2650733	+	500	ACD05979.1	-	Amuc_2172	Amuc_2172	-	GCN5-related N-acetyltransferase
+2650896..2651906	+	1010	ACD05980.1	-	Amuc_2173	Amuc_2173	-	Redoxin domain protein
+2651944..2652318	-	374	ACD05981.1	-	Amuc_2174	Amuc_2174	-	TfoX domain protein
+2652540..2653301	+	761	ACD05982.1	-	Amuc_2175	Amuc_2175	-	Chloramphenicol phosphotransferase family
+2653643..2659165	-	5522	ACD05983.1	-	Amuc_2176	Amuc_2176	-	excinuclease ABC, A subunit
+2659382..2662735	+	3353	ACD05984.1	-	Amuc_2177	Amuc_2177	-	preprotein translocase, SecA subunit
+2662855..2663913	+	1058	ACD05985.1	-	Amuc_2178	Amuc_2178	-	Amino-acid N-acetyltransferase
